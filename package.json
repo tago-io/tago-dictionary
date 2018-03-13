@@ -18,6 +18,7 @@
     "@storybook/react": "^3.2.16",
     "@storybook/addon-actions": "^3.2.16",
     "@storybook/addon-links": "^3.2.16",
+    "babel-eslint": "8.2.2",
     "babel-core": "^6.18.0",
     "babel-loader": "7.1.4",
     "babel-plugin-react-html-attrs": "2.1.0",

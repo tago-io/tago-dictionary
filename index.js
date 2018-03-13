@@ -1,12 +1,13 @@
 const currentLang = navigator.language || navigator.userLanguage;
 const lang = (currentLang || '').slice(0, 2).toLowerCase();
 
-import(`./commons/${lang}/index.yaml`).then((dictionary) => (
-  this.dictionary = dictionary
-));
+let dictionary = {};
+import(`./commons/${lang}/index.yaml`).then((data) => {
+  dictionary = data;
+});
 
 function t(param, ...args) {
-  let text = this.dictionary[param] || param;
+  let text = dictionary[param] || param;
 
   args.forEach((item, index) => {
     text = text.replace(`$${index}$`, item);
