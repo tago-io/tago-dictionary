@@ -1,4 +1,16 @@
+ACCEPT : "Accept"
+ACCEPTED : "Accepted"
+APPLICATION: "Application"
+AUDIT_LOG : "Audit log"
+
+DECLINE : "Decline"
+DECLINED : "Declined"
+
+GO_TO : "Go to"
+
+IGNORE : "Ignore"
+
 MY_ACCOUNT : "My account"
 MY_BILLING : "My billing"
-AUDIT_LOG  : "Audit log"
-SIGN_OUT   : "Sign out"
+
+SIGN_OUT : "Sign out"

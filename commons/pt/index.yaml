@@ -1,4 +1,16 @@
+ACCEPT : "Aceitar"
+ACCEPTED: "Aceito"
+APPLICATION: "Aplicação"
+AUDIT_LOG : "Log utilização"
+
+DECLINE: "Recusar"
+DECLINED: "Recusado"
+
+GO_TO : "Ir para"
+
+IGNORE: "Ignorar"
+
 MY_ACCOUNT : "Minha conta"
 MY_BILLING : "Meu faturamento"
-AUDIT_LOG  : "Log utilização"
-SIGN_OUT   : "Sair"
+
+SIGN_OUT : "Sair"

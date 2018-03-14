@@ -25,4 +25,4 @@ function Dictionary(type, lang) {
   };
 }
 
-export { Dictionary };
+export default Dictionary;
