@@ -7,31 +7,17 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "check:lint": "eslint --ext .jsx,.js .",
-    "storybook": "start-storybook -p 9005",
-    "upgrade": "ncu -u && npm install",
-    "check:libs": "ncu",
-    "build-storybook": "build-storybook"
+    "check:lint": "eslint --ext .jsx,.js ."
   },
   "sasslintConfig": "./.scss-lint.yml",
   "devDependencies": {
-    "@storybook/react": "^3.2.16",
-    "@storybook/addon-actions": "^3.2.16",
-    "@storybook/addon-links": "^3.2.16",
     "babel-eslint": "8.2.2",
     "babel-core": "^6.18.0",
     "babel-loader": "7.1.4",
-    "babel-plugin-react-html-attrs": "2.1.0",
-    "babel-plugin-transform-decorators-legacy": "1.3.4",
     "babel-preset-es2015": "6.24.1",
-    "babel-preset-react": "6.24.1",
     "babel-preset-stage-0": "6.24.1",
     "eslint": "4.18.2",
-    "eslint-config-airbnb": "16.1.0",
-    "eslint-plugin-import": "2.9.0",
-    "eslint-plugin-jsx-a11y": "6.0.3",
-    "eslint-plugin-react": "7.7.0",
-    "npm-check-updates": "^2.8.8"
+    "eslint-plugin-import": "2.9.0"
   },
   "dependencies": {}
 }

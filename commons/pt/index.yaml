@@ -1,16 +1,80 @@
-ACCEPT : "Aceitar"
+ACCEPT: "Aceitar"
 ACCEPTED: "Aceito"
+ALL: "Todos"
 APPLICATION: "Aplicação"
+APPLICATIONS: "Aplicações"
+ARE_YOU_SURE: "Você tem certeza"
 AUDIT_LOG : "Log utilização"
 
+BACK: "Voltar"
+
+CANCEL: "Cancelar"
+CLOSE: "Fechar"
+COLLAPSE: "Recolher"
+COMPANY: "Empresa"
+CUSTOM: "Custom"
+
+DAY: "Dia"
 DECLINE: "Recusar"
 DECLINED: "Recusado"
+DEVELOPER: "Desenvolvedor"
+DEVICES: "Dispositivos"
 
-GO_TO : "Ir para"
+EMAIL: "Email"
+ENTER_EMAIL: "entre com o email"
+ENTER_YOUR_EMAIL: "enter com seu email"
+EXPAND: "Expandir"
+
+FROM: "De"
+
+GENERAL_INFORMATION: "Informações gerais"
+GO_TO: "Ir para"
+
+HOUR: "Hora"
 
 IGNORE: "Ignorar"
+INDEFINITELY: "Indefinidamente"
+INFORMATION: "Informação"
+INVITE: "Convidar"
 
-MY_ACCOUNT : "Minha conta"
-MY_BILLING : "Meu faturamento"
+MINUTE: "Minuto"
+MONTH: "Mês"
+MORE: "Mais"
+MY_ACCOUNT: "Minha conta"
+MY_BILLING: "Meu faturamento"
 
-SIGN_OUT : "Sair"
+NAME: "Nome"
+NEXT: "Próximo"
+NO: "Não"
+NOTIFICATIONS: "Notificações"
+
+OF_PAGINATION: "De"
+OR: "ou"
+
+REFUSED: "Recusado"
+
+PASSWORD: "senha"
+PENDING: "Pendente"
+PHONE: "Telefone"
+PLEASE_CHECK_YOUR_EMAIL: "Favor, verifique seu email"
+PLEASE_ENTER_YOUR_EMAIL: "Favor, digite seu email"
+PLEASE_ENTER_REQUIRED_FIELDS: "Favor, preencher os campos obrigatórios"
+PREVIOUS: "Anterior"
+
+SAVE: "Salvar"
+SECOND: "Segundo"
+SHARE: "Compartilhar"
+SIGN_OUT: "Sair"
+SOUND: "Som"
+SUBMIT: "Enviar"
+
+THIS_FIELD_IS_REQUIRED: "Esse campo é obrigatório"
+THIS_FIELD_REQUIRES_AT_LEAST_THREE_CHARACTERS: "Esse campo requer ao menos 3 letras"
+TIMEZONE: "Fuso horário"
+
+VALUE: "Valor"
+VARIABLE: "Variável"
+
+WEEK: "Semana"
+YEAR: "Ano"
+YES: "Sim"

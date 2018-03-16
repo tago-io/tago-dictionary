@@ -1,0 +1,51 @@
+ABOUT_THIS_SHARING: "About this sharing"
+ALLOW_SHARE_WITH_OTHERS: "Allow to share with others"
+
+CANCEL_SHARING: "Cancel sharing"
+CREATE_MORE_DASHBOARDS: "create more dashboards"
+
+DASHBOARD_ID: "Dashboard ID"
+DASHBOARD_NAME: "Dashboard name"
+DASHBOARD_SHARED_BY: "Dashboard shared by"
+DELETE_DASHBOARD: "Delete Dashboard"
+
+ENTER_NAME_DASHBOARD: "enter the name of dashboard"
+
+INVITED_BY: "Invited by $0$"
+INVITE_USER: "Invite user"
+
+LAST_ACCESS: "Last access"
+
+MAKE_DASHBOARD_VISIBLE: "Make this dashboard visible"
+MORE_ABOUT_DASHBOARD: "More about this dashboard"
+
+ONCE_YOU_DELETE_DASHBOARD: "Once you delete a dashboard, there is no going back. Please be certain"
+
+REGISTERED_AT: "Registered at"
+REMOVE_INVITE: "Remove invite"
+
+SHARE_EXPIRES_AT: "Share expires at"
+SHARE_IT_DURING: "Share it during"
+SHARE_PRIVATE: "Share private"
+SHARED_WITH: "Shared with"
+
+THIS_DASHBOARD_HAS_BEEN_SHARED: "This dashboard has been shared with you (you can not edit it)"
+
+USER_DOESNT_HAVE_AN_ACCOUNT_YET: "User doesn't have an account yet"
+
+WHEN_HIDDEN_THE_DASHBOARD_WILL_NOT_LISTED: "When hidden, the dashboard will not be listed in the left menu bar"
+WHEN_YOU_SHARE_DASHBOARD_OTHERS: "When you share this dashboard, others will not be able to edit it."
+
+YOU_ARE_CURRENTLY_SHARING_DASHBOARD: "You are currently sharing this dashboard with other users.
+    If you proceed, it will also be removed from their view"
+YOU_CANNOT_MANUALLY_REMOVE_DASHBOARDS: "You cannot manually remove dashboards from Applications"
+YOU_NOT_SHARING_THIS_DASHBOARD_PRIVATELY: "You are not sharing this dashboard privately"
+YOU_DONT_HAVE_PERMISSION_ACCESS_PAGE: "You don’t have permission to access this page"
+YOU_SHARED_DASHBOARD_WITH_EXPIRATION_DATE_GREATER: "You shared a dashboard with an expiration date that is greater
+  than the expiration date of the share that was made for you.
+  The share for $0$ will expire at: $1$."
+
+YOU_REALLY_WANT_DELETE_DASHBOARD: "Do you really want to delete this dashboard"
+YOU_REALLY_WANT_DELETE_SHARE: "Do you really want to delete this share"
+YOU_REALLY_WANT_CANCEL_SHARING: "Do you really want cancel sharing"
+YOUR_PLAN_ALLOWS_YOU_CREATE_UP: "Your plan allows you to create up to 5 dashboards"

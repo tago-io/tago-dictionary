@@ -1,16 +1,80 @@
-ACCEPT : "Accept"
-ACCEPTED : "Accepted"
+ACCEPT: "Accept"
+ACCEPTED: "Accepted"
+ALL: "All"
 APPLICATION: "Application"
-AUDIT_LOG : "Audit log"
+APPLICATIONS: "Applications"
+ARE_YOU_SURE: "Are you sure"
+AUDIT_LOG: "Audit log"
 
-DECLINE : "Decline"
-DECLINED : "Declined"
+BACK: "Back"
 
-GO_TO : "Go to"
+CANCEL: "Cancel"
+CLOSE: "Close"
+COLLAPSE: "Collapse"
+COMPANY: "Company"
+CUSTOM: "Custom"
 
-IGNORE : "Ignore"
+DAY: "Day"
+DECLINE: "Decline"
+DECLINED: "Declined"
+DEVELOPER: "Developer"
+DEVICES: "Devices"
 
-MY_ACCOUNT : "My account"
-MY_BILLING : "My billing"
+EMAIL: "Email"
+ENTER_EMAIL: "enter the email address"
+ENTER_YOUR_EMAIL: "enter your email"
+EXPAND: "Expand"
 
-SIGN_OUT : "Sign out"
+FROM: "From"
+
+GENERAL_INFORMATION: "General information"
+GO_TO: "Go to"
+
+HOUR: "Hour"
+
+IGNORE: "Ignore"
+INDEFINITELY: "Indefinitely"
+INFORMATION: "Information"
+INVITE: "Invite"
+
+MINUTE: "Minute"
+MONTH: "Month"
+MORE: "More"
+MY_ACCOUNT: "My account"
+MY_BILLING: "My billing"
+
+NAME: "Name"
+NEXT: "Next"
+NO: "No"
+NOTIFICATIONS: "Notifications"
+
+OF_PAGINATION: "Of"
+OR: "or"
+
+REFUSED: "Refused"
+
+PASSWORD: "password"
+PENDING: "Pending"
+PHONE: "Phone"
+PLEASE_CHECK_YOUR_EMAIL: "Please, check your email"
+PLEASE_ENTER_YOUR_EMAIL: "Please, enter your email address"
+PLEASE_ENTER_REQUIRED_FIELDS: "Please enter required fields"
+PREVIOUS: "Previous"
+
+SAVE: "Save"
+SECOND: "Second"
+SHARE: "Share"
+SIGN_OUT: "Sign out"
+SOUND: "Sound"
+SUBMIT: "Enviar"
+
+TIMEZONE: "Timezone"
+THIS_FIELD_IS_REQUIRED: "This field is required"
+THIS_FIELD_REQUIRES_AT_LEAST_THREE_CHARACTERS: "This field requires at least 3 characters"
+
+VALUE: "Value"
+VARIABLE: "Variable"
+
+WEEK: "week"
+YEAR: "year"
+YES: "Yes"

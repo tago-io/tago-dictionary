@@ -1,21 +1,26 @@
-function build(type, lang) {
-  const currentLang = navigator.language || navigator.userLanguage;
-  const langDefault = (currentLang || '').slice(0, 2).toLowerCase();
-  const data = require(`./${type}/${lang || langDefault}/index.yaml`);
-  return data;
-}
+var Dictionary = function(paths) {
+  var dictionary = {};
+  this.initialize = function(paths) {
+    if (Array.isArray(paths)) {
+      paths.forEach((item) => {
+        var values = this.build(item);
+        Object.keys(values).forEach((key) => {
+          dictionary[key] = values[key];
+        })
+      });
+    } else {
+      dictionary = this.build(paths, Dictionary.lang);
+    }
+  };
 
-function Dictionary(type, lang) {
-  let dictionary = {};
-  if (Array.isArray(type)) {
-    type.forEach((item) => {
-      dictionary = { ...dictionary, ...build(item, lang) };
-    });
-  } else {
-    dictionary = build(type, lang);
-  }
+  this.build = function(type) {
+    const currentLang = navigator.language || navigator.userLanguage;
+    const langDefault = (currentLang || '').slice(0, 2).toLowerCase();
+    const data = require(`./${type}/${Dictionary.lang || langDefault}/index.yaml`);
+    return data;
+  };
 
-  return (key, ...args) => {
+  this.translate = function(key, ...args) {
     let text = dictionary[key] || key;
     args.forEach((item, index) => {
       text = text.replace(`$${index}$`, item);
@@ -23,6 +28,12 @@ function Dictionary(type, lang) {
 
     return text;
   };
+
+  this.initialize(paths);
 }
 
-export default Dictionary;
+Dictionary.setLang = function(lang) {
+  this.lang = lang;
+};
+
+module.exports = Dictionary;

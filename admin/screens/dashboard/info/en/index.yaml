@@ -1,1 +1,7 @@
-TOOLTIP_SHARE: "You don’t have rights to share this dashboard. Ask $0$ to send it again with authorization for you to share with others"
+ADD_DASHBOARD: "Add Dashboard"
+EDIT_DASHBOARD: "Edit dashboard"
+ENTER_FULL_SCREEN: "Enter full screen"
+EXIT_FULL_SCREEN: "Exit full"
+
+SHARE_DASHBOARD: "Share dashboard"
+YOU_DONT_HAVE_RIGHTS: "You don’t have rights to share this dashboard. Ask $0$ to send it again with authorization for you to share with others"

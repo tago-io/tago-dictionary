@@ -2,20 +2,14 @@ env:
   browser: true
   commonjs: true
   es6: true
-  jasmine: true
 extends:
   - 'eslint:recommended'
-  - 'plugin:react/recommended'
-  - 'airbnb'
 parser: 'babel-eslint'
 parserOptions:
   allowImportExportEverywhere: true
   ecmaFeatures:
     experimentalObjectRestSpread: true
-    jsx: true
   sourceType: module
-plugins:
-  - react
 rules:
   arrow-parens: 0
   arrow-body-style: 0
@@ -24,19 +18,9 @@ rules:
 
   global-require: 0
 
-  import/extensions: 0
-  import/imports-first: 0
-  import/newline-after-import: 0
   import/no-dynamic-require: 0
   import/no-extraneous-dependencies: 0
   import/prefer-default-export: 0
 
-  react/no-multi-comp: 0
-  react/no-did-mount-set-state: 0
-  react/forbid-prop-types: 0
-
-  jsx-a11y/label-has-for: 0
-  jsx-a11y/no-static-element-interactions: 0
-  jsx-a11y/media-has-caption: 0
   no-restricted-globals: 0
   no-dynamic-import: 0

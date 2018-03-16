@@ -1,1 +1,6 @@
-TOOLTIP_SHARE: "Você não tem permissão para comppartilhar esse dashboard. Solicite a $0$ uma autorização para compartilhar com outros usuários"
+EDIT_DASHBOARD: "Editar dashboard"
+ENTER_FULL_SCREEN: "Modo full screen"
+EXIT_FULL_SCREEN: "Sair do modo full screen"
+
+SHARE_DASHBOARD: "Compartilhar dashboard"
+YOU_DONT_HAVE_RIGHTS: "Você não tem permissão para comppartilhar esse dashboard. Solicite a $0$ uma autorização para compartilhar com outros usuários"
