@@ -1,5 +1,6 @@
 ACCEPT: "Accept"
 ACCEPTED: "Accepted"
+ACCOUNT: "account"
 ALL: "All"
 APPLICATION: "Application"
 APPLICATIONS: "Applications"
@@ -15,6 +16,8 @@ COMPANY: "Company"
 CUSTOM: "Custom"
 
 DAY: "Day"
+DASHBOARD: "Dashboard"
+DASHBOARDS: "Dashboards"
 DECLINE: "Decline"
 DECLINED: "Declined"
 DEVELOPER: "Developer"
@@ -25,6 +28,7 @@ ENTER_EMAIL: "enter the email address"
 ENTER_YOUR_EMAIL: "enter your email"
 EXPAND: "Expand"
 
+FREE: "free"
 FROM: "From"
 
 GENERAL_INFORMATION: "General information"

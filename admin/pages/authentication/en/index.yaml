@@ -8,6 +8,7 @@ RESEND_CONFIRMATION_EMAIL: "Resend confirmation email"
 RESEND_EMAIL: "Resend email"
 RESET_PASSWORD: "Reset password"
 
+SELECT_PROFILE: "Select a profile"
 SIGN_IN: "Sign in"
 
 VERIFY_YOU_HAVE_VERIFIED_YOUR_ACCOUNT: "Verify that you have verified your account"

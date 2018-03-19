@@ -9,6 +9,7 @@ RESEND_CONFIRMATION_EMAIL: "Reenviar email de confirmação"
 RESEND_EMAIL: "Reenviar email"
 RESET_PASSWORD: "Redefinir senha"
 
+SELECT_PROFILE: "Selecione um perfil"
 SIGN_IN: "Autentique-se"
 
 VERIFY_YOU_HAVE_VERIFIED_YOUR_ACCOUNT: "Verifique se você validou sua conta no email"

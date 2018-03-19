@@ -1,5 +1,6 @@
 ACCEPT: "Aceitar"
 ACCEPTED: "Aceito"
+ACCOUNT: "conta"
 ALL: "Todos"
 APPLICATION: "Aplicação"
 APPLICATIONS: "Aplicações"
@@ -15,6 +16,8 @@ COMPANY: "Empresa"
 CUSTOM: "Custom"
 
 DAY: "Dia"
+DASHBOARD: "Painel"
+DASHBOARDS: "Painéis"
 DECLINE: "Recusar"
 DECLINED: "Recusado"
 DEVELOPER: "Desenvolvedor"
@@ -25,6 +28,7 @@ ENTER_EMAIL: "entre com o email"
 ENTER_YOUR_EMAIL: "enter com seu email"
 EXPAND: "Expandir"
 
+FREE: "gratuita"
 FROM: "De"
 
 GENERAL_INFORMATION: "Informações gerais"

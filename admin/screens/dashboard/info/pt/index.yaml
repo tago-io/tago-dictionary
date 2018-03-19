@@ -1,6 +1,14 @@
+ADD_DASHBOARD: "Adicionar Painel"
+
+DASHBOARD_CREATED_USING: "Painel criado usando uma"
+
 EDIT_DASHBOARD: "Editar dashboard"
 ENTER_FULL_SCREEN: "Modo full screen"
 EXIT_FULL_SCREEN: "Sair do modo full screen"
 
 SHARE_DASHBOARD: "Compartilhar dashboard"
+
+UPGRADE_PLAN: "Atualizar plano"
+
+YOU_ARE_USING: "Você está usando uma "
 YOU_DONT_HAVE_RIGHTS: "Você não tem permissão para comppartilhar esse dashboard. Solicite a $0$ uma autorização para compartilhar com outros usuários"
