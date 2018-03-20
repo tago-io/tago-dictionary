@@ -1,27 +1,32 @@
-var Dictionary = function(paths) {
-  var dictionary = {};
-  this.initialize = function(paths) {
-    if (Array.isArray(paths)) {
-      paths.forEach((item) => {
-        var values = this.build(item);
+var Dictionary = function(path) {
+  function initialize() {
+    if (Array.isArray(path)) {
+      path.forEach((item) => {
+        var values = build(item);
         Object.keys(values).forEach((key) => {
-          dictionary[key] = values[key];
+          Dictionary.data[key] = values[key];
         })
       });
     } else {
-      dictionary = this.build(paths, Dictionary.lang);
+      Dictionary.data = build(path);
     }
-  };
+  }
 
-  this.build = function(type) {
+  function build(p) {
+    const lang = Dictionary.lang;
     const currentLang = navigator.language || navigator.userLanguage;
     const langDefault = (currentLang || '').slice(0, 2).toLowerCase();
-    const data = require(`./${type}/${Dictionary.lang || langDefault}/index.yaml`);
-    return data;
-  };
 
-  this.translate = function(key, ...args) {
-    let text = dictionary[key] || key;
+    const data = require(`./${p}/${lang || langDefault}/index.yaml`);
+    return data;
+  }
+
+  this.translate = function translate(key, ...args) {
+    if (!Dictionary.data[0]) {
+      initialize();
+    }
+
+    let text = Dictionary.data[key] || key;
     args.forEach((item, index) => {
       text = text.replace(`$${index}$`, item);
     });
@@ -29,11 +34,13 @@ var Dictionary = function(paths) {
     return text;
   };
 
-  this.initialize(paths);
+  this.path = path;
 }
 
+Dictionary.data = {};
 Dictionary.setLang = function(lang) {
   this.lang = lang;
+  this.data = {};
 };
 
 module.exports = Dictionary;
