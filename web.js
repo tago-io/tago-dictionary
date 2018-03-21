@@ -1,3 +1,5 @@
+import React from 'react';
+
 var Dictionary = function(path) {
   function initialize() {
     if (Array.isArray(path)) {
@@ -28,10 +30,15 @@ var Dictionary = function(path) {
 
     let text = Dictionary.data[key] || key;
     args.forEach((item, index) => {
-      text = text.replace(`$${index}$`, item);
+      text = text.replace(`$${index}$`,
+      );
     });
 
-    return text;
+    const isTextFormated = text.indexOf('<b>') > -1;
+    if (!isTextFormated) {
+      return text;
+    }
+    return <span dangerouslySetInnerHTML={{__html: text }} />;
   };
 
   this.path = path;
