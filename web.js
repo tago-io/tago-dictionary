@@ -4,10 +4,8 @@ var Dictionary = function(path) {
   function initialize() {
     if (Array.isArray(path)) {
       path.forEach((item) => {
-        var values = build(item);
-        Object.keys(values).forEach((key) => {
-          Dictionary.data[key] = values[key];
-        })
+        const values = build(item);
+        Dictionary.data = { ...Dictionary.data, ...values };
       });
     } else {
       Dictionary.data = build(path);
