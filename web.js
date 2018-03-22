@@ -1,5 +1,9 @@
 import React from 'react';
 
+const Wrapper = (text) => {
+  return <span dangerouslySetInnerHTML={{__html: text }} />;
+};
+
 class Dictionary {
   constructor(path) {
     this.path = path;
@@ -46,7 +50,7 @@ class Dictionary {
     if (!isTextFormated) {
       return text;
     }
-    return <span dangerouslySetInnerHTML={{__html: text }} />;
+    return <Wrapper text={text} />;
   }
 }
 
