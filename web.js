@@ -9,9 +9,9 @@ class Dictionary {
     this.initialize = this.initialize.bind(this);
   }
 
-  static setLang = (lang) => {
+  static setLang (lang) {
     Dictionary.lang = lang;
-  };
+  }
 
   initialize() {
     if (Array.isArray(this.path)) {
