@@ -1,32 +1,42 @@
 import React from 'react';
 
-var Dictionary = function(path) {
-  function initialize() {
-    if (Array.isArray(path)) {
-      path.forEach((item) => {
-        const values = build(item);
-        Dictionary.data = { ...Dictionary.data, ...values };
+class Dictionary {
+  constructor(path) {
+    this.path = path;
+    this.data = {};
+
+    this.translate = this.translate.bind(this);
+    this.initialize = this.initialize.bind(this);
+  }
+
+  static setLang = (lang) => {
+    Dictionary.lang = lang;
+  };
+
+  initialize() {
+    if (Array.isArray(this.path)) {
+      this.path.forEach((item) => {
+        const values = this.build(item);
+        this.data = { ...this.data, ...values };
       });
     } else {
-      Dictionary.data = build(path);
+      this.data = this.build(this.path);
     }
   }
 
-  function build(p) {
-    const lang = Dictionary.lang;
+  build(p) {
     const currentLang = navigator.language || navigator.userLanguage;
     const langDefault = (currentLang || '').slice(0, 2).toLowerCase();
-
-    const data = require(`./${p}/${lang || langDefault}/index.yaml`);
+    const data = require(`./${p}/${Dictionary.lang || langDefault}/index.yaml`);
     return data;
   }
 
-  this.translate = function translate(key, ...args) {
-    if (!Dictionary.data[0]) {
-      initialize();
+  translate(key, ...args) {
+    if (!Object.keys(this.data).length) {
+      this.initialize();
     }
 
-    let text = Dictionary.data[key] || key;
+    let text = this.data[key] || key;
     args.forEach((item, index) => {
       text = text.replace(`$${index}$`,
       );
@@ -37,15 +47,7 @@ var Dictionary = function(path) {
       return text;
     }
     return <span dangerouslySetInnerHTML={{__html: text }} />;
-  };
-
-  this.path = path;
+  }
 }
-
-Dictionary.data = {};
-Dictionary.setLang = function(lang) {
-  this.lang = lang;
-  this.data = {};
-};
 
 module.exports = Dictionary;
