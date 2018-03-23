@@ -10,7 +10,7 @@ class Dictionary {
   }
 
   static setLang (lang) {
-    Dictionary.lang = lang;
+    Dictionary.lang = lang !== 'en' && lang !== 'pt' ? 'en' : lang;
   }
 
   initialize() {
