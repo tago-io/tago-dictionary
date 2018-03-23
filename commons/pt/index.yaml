@@ -10,6 +10,7 @@ AUDIT_LOG : "Log utilização"
 BACK: "Voltar"
 
 CANCEL: "Cancelar"
+CLICK: "Clique"
 CLOSE: "Fechar"
 COLLAPSE: "Recolher"
 COMPANY: "Empresa"
@@ -34,6 +35,7 @@ FROM: "De"
 GENERAL_INFORMATION: "Informações gerais"
 GO_TO: "Ir para"
 
+HERE: "aqui"
 HOUR: "Hora"
 
 IGNORE: "Ignorar"
