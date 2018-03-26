@@ -10,6 +10,7 @@ AUDIT_LOG : "Log utilização"
 BACK: "Voltar"
 
 CANCEL: "Cancelar"
+CLEAR: "Limpar"
 CLICK: "Clique"
 CLOSE: "Fechar"
 COLLAPSE: "Recolher"

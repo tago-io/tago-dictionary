@@ -10,6 +10,7 @@ AUDIT_LOG: "Audit log"
 BACK: "Back"
 
 CANCEL: "Cancel"
+CLEAR: "Clear"
 CLICK: "Click"
 CLOSE: "Close"
 COLLAPSE: "Collapse"
