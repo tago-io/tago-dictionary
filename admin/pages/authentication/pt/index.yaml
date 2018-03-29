@@ -1,5 +1,4 @@
 CREATE_ACCOUNT: "crie uma conta"
-
 ENTER_YOUR_EMAIL_ADDRESS_RESEND_YOUR_CONFIRMATION: "Digite seu endereço de email para reenviar sua confirmação. Talvez seja necessário verificar sua pasta de spam ou desbloquear o email noreply@tago.io."
 ENTER_YOUR_EMAIL_ADDRESS_RESET_YOUR_PASSWORD: "Digite seu endereço de email para redefinir sua senha. Talvez seja necessário verificar sua pasta de spam ou desbloquear o email noreply@tago.io."
 
