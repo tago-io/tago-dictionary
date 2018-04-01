@@ -23,17 +23,14 @@ PLAN_FEATURES: "FEATURES"
 
 DEVICE_MANAGEMENT: "Device Management"
 DEVICE_MANAGEMENT_SPAN_FREE: "connect up to 5 devices"
-DEVICE_MANAGEMENT_SPAN_OTHER: "unlimited"
 
 DASHBOARD_CREATION: "Dashboard creation"
 DASHBOARD_CREATION_SPAN_FREE: "build up to 5 dashboards"
-DASHBOARD_CREATION_SPAN_OTHER: "unlimited"
 
 NATIVE_SHARE_CAPABILITY: "Native Share Capability"
 
 RUN_ANALYSIS: "Run your analysis in real-time"
 RUN_ANALYSIS_SPAN_FREE: "run up to 250 scripts / hour"
-RUN_ANALYSIS_SPAN_OTHER: "unlimited"
 
 API_REQUESTS: "API Requests per hour"
 API_REQUESTS_SPAN_FREE: "up to 250 / hour"
@@ -42,13 +39,20 @@ API_REQUESTS_SPAN_SCALE_ENTERPRISE: "10,000 + / hour"
 
 CONFIGURABLE_MAX_REQUEST: "Configurable max request per device"
 
+DATA_RETENTION_CONTROL: "Data Retention Control"
+DATA_RETENTION_CONTROL_SPAN_FREE: "data is stored for 1 mo"
+
 AUTOMATIC_DATA_BACKUP: "Automatic Data Backup"
 
 TAGS_MANAGEMENT: "Tags Management"
 
 USER_PROFILE_MANAGEMENT: "User Profile Management"
+USER_PROFILE_MANAGEMENT_STARTER: "Add 1 more user"
+USER_PROFILE_MANAGEMENT_SCALE: "Add up to 5 users"
+USER_PROFILE_MANAGEMENT_ENTERPRISE: "unlimited users"
 
 COMPLETE_AUDIT_LOG: "Complete Audit Log"
+COMPLETE_AUDIT_LOG_STARTER: "limited to account logs"
 
 EMBED_WIDGET_CREATION: "Embed Widget Creation"
 
@@ -79,17 +83,17 @@ ANALYSIS_RUNNING_SRIPTS_COST: "$0.100"
 ANALYSIS_RUNNING_SRIPTS_UNIT: "1,000 runs"
 
 USAGE_API_REQUESTS: "API Request"
-USAGE_API_REQUESTS_SPAN: ""
+USAGE_API_REQUESTS_SPAN: "Any access done through API to POST/GET/DELET data"
 USAGE_API_REQUESTS_COST: "$0.025"
 USAGE_API_REQUESTS_UNIT: "1,000 requests"
 
 STORAGE_ONLINE_DATA: "Storage - Online Data"
-STORAGE_ONLINE_DATA_SPAN: "Any access done through API to POST/GET/DELET data."
+STORAGE_ONLINE_DATA_SPAN: "Online data is always available in buckets for visualization and data processing."
 STORAGE_ONLINE_DATA_COST: "$0.015"
 STORAGE_ONLINE_DATA_UNIT: "1,000 requests"
 
 STORAGE_ONLINE_BACKUP: "Storage - Offline Backup"
-STORAGE_ONLINE_BACKUP_SPAN: "Online data is always available in buckets for visualization and data processing."
+STORAGE_ONLINE_BACKUP_SPAN: "Backed up data is kept offline at lower cost."
 STORAGE_ONLINE_BACKUP_COST: "$0.005"
 STORAGE_ONLINE_BACKUP_UNIT: "1,000 registers"
 
