@@ -1,0 +1,14 @@
+CREATE_ACCOUNT: "Cr?er un compte"
+ENTER_YOUR EMAIL_ADDRESS_RESEND_YOUR_CONFIRMATION: "Entrez votre adresse e-mail pour renvoyer votre confirmation. Vous devrez peut-?tre v?rifier votre dossier spam ou d?verrouiller l'email noreply@tago.io."
+ENTER_YOUR_EMAIL_ADDRESS_RESET_YOUR_PASSWORD: "Entrez votre adresse e-mail pour r?initialiser votre mot de passe. Vous devrez peut-?tre v?rifier votre dossier spam ou d?verrouiller l'email noreply@tago.io."
+
+FORGOT_YOUR_PASSWORD: "Mot de passe oubli?"
+
+RESEND_CONFIRMATION_EMAIL: "Renvoyer un courriel de confirmation"
+RESEND_EMAIL: "R?-envoyer l'email"
+RESET_PASSWORD: "R?initialiser le mot de passe"
+
+SELECT_PROFILE: "S?lectionnez un profil"
+SIGN_IN: "S'inscrire"
+
+VERIFY_YOU_HAVE_VERIFIED_YOUR_ACCOUNT: "V?rifiez que vous avez valid? votre compte"

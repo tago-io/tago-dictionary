@@ -1,0 +1,87 @@
+ACCEPT: "Acceptez"
+ACCEPTED: "Accept?"
+ACCOUNT: "compte"
+ALL: "Tout"
+APPLICATION: "Application"
+APPLICATIONS: "Applications"
+ARE_YOU_SURE: "?tes-vous s?r"
+AUDIT_LOG: "Journal d'audit"
+
+BACK: "Retourner"
+
+CANCEL: "Annuler"
+CLEAR: "Deblayer"
+CLICK: "Cliquez"
+CLOSE: "Ferme"
+COLLAPSE: "Effondrer"
+COMPANY: "Firme"
+CUSTOM: "Coutume"
+
+DAY: "Jour"
+DASHBOARD: "Tableau de bord"
+DASHBOARDS: "Tableaux de bord"
+DECLINE: "D?clin"
+DECLINED: "Diminu?"
+DEVELOPER: "D?veloppeur"
+DEVICES: "Appareil"
+
+EMAIL: "Email"
+ENTER_EMAIL: "Entrez l'adresse e-mail"
+ENTER_YOUR_EMAIL: "Entre votre e-mail"
+EXPAND: "?tendre"
+
+FREE: "gratuit"
+FROM: "De"
+
+GENERAL_INFORMATION: "Informations g?n?rales"
+GO_TO: "Aller ?"
+
+HERE: "Ici"
+HOUR: "Heure"
+
+IGNORE: "Ignore"
+INDEFINITELY: "Ind?finiment"
+INFORMATION: "Information"
+INVITE: "Invite"
+
+MINUTE: "Minute"
+MONTH: "Mois"
+MORE: "Plus"
+MY_ACCOUNT: "Mon compte"
+MY_BILLING: "Ma facturation"
+
+NAME: "Pr?nom"
+NEXT: "Prochain"
+NO: "Non"
+NOTIFICATIONS: "Notifications"
+
+OF_PAGINATION: "de"
+OR: "ou"
+
+REFUSED: "Refus?"
+
+PASSWORD: "Mot de passe"
+PENDING: "En attendant"
+PHONE: "T?l?phone"
+PLEASE_CHECK_YOUR_EMAIL: "Merci de consulter vos emails"
+PLEASE_ENTER_YOUR_EMAIL: "S'il vous pla?t, entrez votre adresse email"
+PLEASE_ENTER_REQUIRED_FIELDS: "Veuillez entrer les domaines obligatoires"
+PREVIOUS: "Ant?rieur"
+
+SAVE: "Enregistre"
+SECOND: "Seconde"
+SHARE: "Partager"
+SIGN_OUT: "D?connexion"
+SOUND: "Son"
+SUBMIT: "Envoyer"
+
+TIMEZONE: "Fuseau horaire"
+THIS_FIELD_IS_REQUIRED: "Ce domaine est requis"
+THIS_FIELD_REQUIRES_AT_LEAST_THREE_CHARACTERS: "Ce domaine n?cessite au moins 3 caract?res"
+
+VALUE: "Valeur"
+VARIABLE: "Variable"
+
+WEEK: "Semaine"
+YEAR: "an"
+YES: "Oui"
