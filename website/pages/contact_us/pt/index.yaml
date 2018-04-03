@@ -11,7 +11,8 @@ CONTACT_US_QUESTION_PLACEHOLDER_LEAVE_MESSAGE: "Leave a Message"
 
 CONTACT_US_QUESTION_BUTTON: "Talk to Sales"
 
-CONTACT_US_BY_EMAIL: "If you prefer, you can always contact us by email sales@tago.io"
+CONTACT_US_BY_EMAIL: "If you prefer, you can always contact us by email:"
+CONTACT_US_BY_EMAIL_VALUE: "sales@tago.io"
 CONTACT_US_BY_EMAIL_HREF: "mailto:sales@tago.io"
 
 CONTACT_US_BY_PHONE: "or just call us:"
