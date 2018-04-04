@@ -1,6 +1,6 @@
 PRICING: "Planos"
-PRICING_DESCRIPTION1: "Tago pricing is based on the plan you select and the usage of services perfomed during a one-month period"
-PRICING_DESCRIPTION2: "We offer all the tools that you will need to build and manage the best application in your industry. Each of our plan is composed by a set of features suitable for different stages and sizes of your project"
+PRICING_DESCRIPTION1: "Nossos preços são compostos pela combinação do plano do conjunto de ferramentas selecionado e dos serviços utilizados durante o período de 1 mês. Todos os valores são expressos em Dólar Americano (USD)."
+PRICING_DESCRIPTION2: "A Tago oferece todas as ferramentas que sua empresa precisa para construir e gerencir a melhor aplicação da indústria. Cada plano é formado por uma série de características ideal para o estágio e o tamanho do seu projeto."
 
 FREE: "Free"
 FREE_VALUE: "0"
@@ -17,7 +17,7 @@ ENTERPRISE_VALUE: "399"
 GET_STARTED_PLAN: "Comece Agora"
 
 OUR_PLANS: "Nossos Planos"
-OUR_PLANS_DESCRIPTION: "Selecione o plano baseado na ferramentas que voce precisar para sua solução. Altere seu plano a medida que sua aplicação vai crescendo."
+OUR_PLANS_DESCRIPTION: "Selecione o plano baseado na ferramentas que voce precisar para sua solução. Altere seu plano a medida que sua aplicação vai crescendo. Todos os valores são expressos em Dólar Americano (USD)."
 
 PLAN_FEATURES: "Características"
 
@@ -73,7 +73,7 @@ SERVICE_USAGE: "Uso dos Serviços"
 SERVICE_USAGE_DESCRIPTION: "Pague somente pelos serviços que voce utilizar. Não cobramos por números de dispositivos, painéis, ou usuários. Os custos do uso são cobrados mensalmente baseado na transações realizadas e na quantidade de dados armazenadas nos buckets."
 
 
-SERVICE: "Service"
+SERVICE: "Serviço"
 COST: "Custo"
 UNIT: "Unidade"
 
@@ -112,7 +112,7 @@ PRICING_TALK_TO_SALES: "Fale com Vendas"
 
 PRICING_EXAMPLES: "Estimativa de Preços"
 
-PRICING_EXAMPLE_1: "Pricing Example 1"
+PRICING_EXAMPLE_1: "Exemplo 1"
 PRICING_EXAMPLE_1_DESCRIPTION: "If you selected the Start plan, added 1,000 devices that sent (POST) a package of 6 variables at every 1 hour each, your charges would be calculated as follows:"
 PRICING_EXAMPLE_1_MONTHLY_PLAN: "Monthly Plan:"
 PRICING_EXAMPLE_1_MONTHLY_PLAN_VALUE: "Starter $49"
@@ -126,9 +126,9 @@ PRICING_EXAMPLE_1_MONTHLY_SERVICE_USAGE_VALUE6: "The monthly cost for the Online
 PRICING_EXAMPLE_1_MONTHLY_SERVICE_USAGE_VALUE7 : "The monthly cost for Services usage = $18.00 + $64.80 = $82.80"
 PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES: "Total monthly charges:"
 PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES_VALUE1: "Total monthly charges = Plan charges + Usage charges = $49 + $82.80 = $131.80"
-PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES_VALUE2: "or about $0.12 / device / mo"
+PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES_VALUE2: "ou seja USD $0.12 / dispositivo / mês"
 
-PRICING_EXAMPLE_2: "Pricing Example 2"
+PRICING_EXAMPLE_2: "Exemplo 2"
 PRICING_EXAMPLE_2_DESCRIPTION1: "If you selected the Scale plan, added 1,000 devices that sent (POST) a package of 6 variables at every 1 hour each."
 PRICING_EXAMPLE_2_DESCRIPTION2: "In addition, you setup the Analysis to run your own script each time a data package is sent by the devices. Your charges would be calculated as follows:"
 PRICING_EXAMPLE_2_MONTHLY_PLAN: "Monthly Plan:"
@@ -146,7 +146,7 @@ PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE_VALUE9: "The monthly cost for the Analys
 PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE_VALUE10: "The monthly cost for Services usage = $18.00 + $64.80 + $72.00 = $154.80"
 PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES: "Total monthly charges:"
 PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE1: "Total monthly charges = Plan charges + Usage charges = $199 + $154.80 = $353.80"
-PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: "or about $0.35 / device / mo"
+PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: "ou seja $0.35 / dispositivo / mês"
 
 
 FREQUENTLY_ASKED_QUESTIONS: "Frequently Asked Questions"
