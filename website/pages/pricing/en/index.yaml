@@ -40,7 +40,7 @@ API_REQUESTS_SPAN_SCALE_ENTERPRISE: "10,000 + / hour"
 CONFIGURABLE_MAX_REQUEST: "Configurable max request per device"
 
 DATA_RETENTION_CONTROL: "Data Retention Control"
-DATA_RETENTION_CONTROL_SPAN_FREE: "data is stored for 1 mo"
+DATA_RETENTION_CONTROL_SPAN_FREE: "data stored for 1 mo"
 
 AUTOMATIC_DATA_BACKUP: "Automatic Data Backup"
 
@@ -74,7 +74,7 @@ SERVICE_USAGE_DESCRIPTION: "Pay only for the services that you use. We don't cha
 
 
 SERVICE: "Service"
-COST: "Cost"
+COST: "Cost (USD)"
 UNIT: "Unit"
 
 ANALYSIS_RUNNING_SRIPTS: "Analysis (running scripts)"
@@ -83,7 +83,7 @@ ANALYSIS_RUNNING_SRIPTS_COST: "$0.100"
 ANALYSIS_RUNNING_SRIPTS_UNIT: "1,000 runs"
 
 USAGE_API_REQUESTS: "API Request"
-USAGE_API_REQUESTS_SPAN: "Any access done through API to POST/GET/DELET data"
+USAGE_API_REQUESTS_SPAN: "Any access done through API to POST/GET/DELETE data"
 USAGE_API_REQUESTS_COST: "$0.025"
 USAGE_API_REQUESTS_UNIT: "1,000 requests"
 
