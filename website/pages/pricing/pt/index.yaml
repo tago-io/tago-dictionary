@@ -14,103 +14,103 @@ SCALE_VALUE: "199"
 ENTERPRISE: "Enterprise"
 ENTERPRISE_VALUE: "399"
 
-GET_STARTED_PLAN: "Get Started"
+GET_STARTED_PLAN: "Comece Agora"
 
-OUR_PLANS: "Our Plans"
-OUR_PLANS_DESCRIPTION: "Select the plan based on the set of tools that you need for your application. Upgrade at any time as your application grows"
+OUR_PLANS: "Nossos Planos"
+OUR_PLANS_DESCRIPTION: "Selecione o plano baseado na ferramentas que voce precisar para sua solução. Altere seu plano a medida que sua aplicação vai crescendo."
 
-PLAN_FEATURES: "FEATURES"
+PLAN_FEATURES: "Características"
 
-DEVICE_MANAGEMENT: "Device Management"
-DEVICE_MANAGEMENT_SPAN_FREE: "connect up to 5 devices"
+DEVICE_MANAGEMENT: "Gerenciamento de Dispositivos"
+DEVICE_MANAGEMENT_SPAN_FREE: "Conecte até 5 dispositivos"
 
-DASHBOARD_CREATION: "Dashboard creation"
-DASHBOARD_CREATION_SPAN_FREE: "build up to 5 dashboards"
+DASHBOARD_CREATION: "Criação de Painéis"
+DASHBOARD_CREATION_SPAN_FREE: "Crie até 5 painéis"
 
-NATIVE_SHARE_CAPABILITY: "Native Share Capability"
+NATIVE_SHARE_CAPABILITY: "Compartilhação nativa de dados"
 
-RUN_ANALYSIS: "Run your analysis in real-time"
-RUN_ANALYSIS_SPAN_FREE: "run up to 250 scripts / hour"
+RUN_ANALYSIS: "Execução de código em tempo-real"
+RUN_ANALYSIS_SPAN_FREE: "rode até 250 scripts/hora"
 
-API_REQUESTS: "API Requests per hour"
-API_REQUESTS_SPAN_FREE: "up to 250 / hour"
-API_REQUESTS_SPAN_STARTER: "up 10,000 / hour"
-API_REQUESTS_SPAN_SCALE_ENTERPRISE: "10,000 + / hour"
+API_REQUESTS: "Requisições controlada de API"
+API_REQUESTS_SPAN_FREE: "até 250 / hora"
+API_REQUESTS_SPAN_STARTER: "até 10,000 / hora"
+API_REQUESTS_SPAN_SCALE_ENTERPRISE: "10,000 + / hora"
 
-CONFIGURABLE_MAX_REQUEST: "Configurable max request per device"
+CONFIGURABLE_MAX_REQUEST: "Controle de limite de acesso"
 
-DATA_RETENTION_CONTROL: "Data Retention Control"
-DATA_RETENTION_CONTROL_SPAN_FREE: "data is stored for 1 mo"
+DATA_RETENTION_CONTROL: "Controle de Retenção de Dados"
+DATA_RETENTION_CONTROL_SPAN_FREE: "limitado a 30 dias"
 
-AUTOMATIC_DATA_BACKUP: "Automatic Data Backup"
+AUTOMATIC_DATA_BACKUP: "Backup Automático"
 
-TAGS_MANAGEMENT: "Tags Management"
+TAGS_MANAGEMENT: "Gerenciamento de Etiquetas"
 
-USER_PROFILE_MANAGEMENT: "User Profile Management"
-USER_PROFILE_MANAGEMENT_STARTER: "Add 1 more user"
-USER_PROFILE_MANAGEMENT_SCALE: "Add up to 5 users"
+USER_PROFILE_MANAGEMENT: "Gerenciamento de Usuários"
+USER_PROFILE_MANAGEMENT_STARTER: "Adicione mais 1 usuário"
+USER_PROFILE_MANAGEMENT_SCALE: "Adicione até 5 usuários"
 USER_PROFILE_MANAGEMENT_ENTERPRISE: "unlimited users"
 
-COMPLETE_AUDIT_LOG: "Complete Audit Log"
-COMPLETE_AUDIT_LOG_STARTER: "limited to account logs"
+COMPLETE_AUDIT_LOG: "Audit Log"
+COMPLETE_AUDIT_LOG_STARTER: "limitado ao logs da conta"
 
-EMBED_WIDGET_CREATION: "Embed Widget Creation"
+EMBED_WIDGET_CREATION: "Criação de Widget embarcados"
 
 SLA: "SLA"
 
-PREMIUM_WIDGETS: "Premium Widgets"
+PREMIUM_WIDGETS: "Widgets Premio"
 
 
-PRIVATE_SLACK_CHANNEL: "Private Slack Channel"
+PRIVATE_SLACK_CHANNEL: "Canao Privado no Slack"
 
-CUSTOMIZED_MIDDLEWARE_FOR_ANY_DEVICE: "Customized Middleware for any device"
+CUSTOMIZED_MIDDLEWARE_FOR_ANY_DEVICE: "Servidor de Middleware Customizado"
 
-REALESE_SOLUTION_EXPLORE: "Release solution to Explore"
+REALESE_SOLUTION_EXPLORE: "Publicaçāo no Explore"
 
-WHITELABEL_VERSION: "WhiteLabel Version"
+WHITELABEL_VERSION: "Versão WhiteLabel"
 
-SERVICE_USAGE: "Services Usage"
-SERVICE_USAGE_DESCRIPTION: "Pay only for the services that you use. We don't charge by the number of devices, dashboards or users that access your dashboards. Monthly bill is based on the number of transactions and data stored during the period."
+SERVICE_USAGE: "Uso dos Serviços"
+SERVICE_USAGE_DESCRIPTION: "Pague somente pelos serviços que voce utilizar. Não cobramos por números de dispositivos, painéis, ou usuários. Os custos do uso são cobrados mensalmente baseado na transações realizadas e na quantidade de dados armazenadas nos buckets."
 
 
 SERVICE: "Service"
-COST: "Cost"
-UNIT: "Unit"
+COST: "Custo"
+UNIT: "Unidade"
 
-ANALYSIS_RUNNING_SRIPTS: "Analysis (running scripts)"
+ANALYSIS_RUNNING_SRIPTS: "Analysis (execução de código)"
 ANALYSIS_RUNNING_SRIPTS_SPAN: "Run scripts to process data sent by devices or other services connected to Tago. Each run should be executed before the Timeout expires (normally set at 30 sec)."
 ANALYSIS_RUNNING_SRIPTS_COST: "$0.100"
-ANALYSIS_RUNNING_SRIPTS_UNIT: "1,000 runs"
+ANALYSIS_RUNNING_SRIPTS_UNIT: "1,000 execuções"
 
 USAGE_API_REQUESTS: "API Request"
 USAGE_API_REQUESTS_SPAN: "Any access done through API to POST/GET/DELET data"
 USAGE_API_REQUESTS_COST: "$0.025"
-USAGE_API_REQUESTS_UNIT: "1,000 requests"
+USAGE_API_REQUESTS_UNIT: "1,000 requisições"
 
 STORAGE_ONLINE_DATA: "Storage - Online Data"
 STORAGE_ONLINE_DATA_SPAN: "Online data is always available in buckets for visualization and data processing."
 STORAGE_ONLINE_DATA_COST: "$0.015"
-STORAGE_ONLINE_DATA_UNIT: "1,000 requests"
+STORAGE_ONLINE_DATA_UNIT: "1,000 requisições"
 
 STORAGE_ONLINE_BACKUP: "Storage - Offline Backup"
 STORAGE_ONLINE_BACKUP_SPAN: "Backed up data is kept offline at lower cost."
 STORAGE_ONLINE_BACKUP_COST: "$0.005"
-STORAGE_ONLINE_BACKUP_UNIT: "1,000 registers"
+STORAGE_ONLINE_BACKUP_UNIT: "1,000 registros"
 
 USAGE_SMS: "SMS"
 USAGE_SMS_SPAN: "Price to send messages in US, Canada (contact us for other countries)."
 USAGE_SMS_COST: "$0.025"
-USAGE_SMS_UNIT: "1 unit"
+USAGE_SMS_UNIT: "1 unidade"
 
 USAGE_EMAIL: "Email"
 USAGE_EMAIL_COST: "$0.025"
-USAGE_EMAIL_UNIT: "1,000 units"
+USAGE_EMAIL_UNIT: "1,000 unidades"
 
 CONTACT_SALES_TEAM_TALK: "Contact our sales team to talk about our tier pricing or high volume of transactions."
 
-PRICING_TALK_TO_SALES: "Talk to Sales"
+PRICING_TALK_TO_SALES: "Fale com Vendas"
 
-PRICING_EXAMPLES: "Pricing Examples"
+PRICING_EXAMPLES: "Estimativa de Preços"
 
 PRICING_EXAMPLE_1: "Pricing Example 1"
 PRICING_EXAMPLE_1_DESCRIPTION: "If you selected the Start plan, added 1,000 devices that sent (POST) a package of 6 variables at every 1 hour each, your charges would be calculated as follows:"
