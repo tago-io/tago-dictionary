@@ -36,64 +36,64 @@ PRODUCT_DATA_MANAGEMENT: "Gereciamento de Dados"
 PRODUCT_DATA_MANAGEMENT_H1: "Gereciamento de Dados"
 
 PRODUCT_DATA_MANAGEMENT_TITLE1: "Nosso sistema inovador de armazenamento de dados torna a criação de dados muito fácil "
-PRODUCT_DATA_MANAGEMENT_DESCRIPTION1: "Voce não precisa ser expert em banco de dados. A Tago organiza todos os dados em 'buckets' para um fácil entendimento. Compartilhe seus 'buckets' com seus clientes e parceiros."
+PRODUCT_DATA_MANAGEMENT_DESCRIPTION1: "Não é necessário ser expert em banco de dados. A Tago organiza todos os dados em 'buckets' para um fácil entendimento. Compartilhe seus 'buckets' com seus clientes e parceiros."
 
 PRODUCT_DATA_MANAGEMENT_TITLE2: "Compartilhamento de Dados"
-PRODUCT_DATA_MANAGEMENT_DESCRIPTION2: "Share individual data or a set of them based on how your devices are linked to the Buckets. You can easily change the configuration of the links and the type of access at any time with few clicks."
+PRODUCT_DATA_MANAGEMENT_DESCRIPTION2: "Compartilhe dados individuais ou um conjunto deles com base na maneira como seus dispositivos são vinculados aos buckets. É possível alterar facilmente a configuração dos links e o tipo de acesso a qualquer momento com poucos cliques."
 
 PRODUCT_DATA_MANAGEMENT_TITLE3: "Retenção e Backup de Dados"
-PRODUCT_DATA_MANAGEMENT_DESCRIPTION3: "Control how your data is backed up, and avoid unnecessary costs by defining the retention period for the data not frequently used. Download your data to your local driver or other servers."
+PRODUCT_DATA_MANAGEMENT_DESCRIPTION3: "Controle como os dados são armazenados em backup e evite custos desnecessários definindo o período de retenção para os dados não usados com frequência. Baixe seus dados para o seu driver local ou outros servidores."
 
 PRODUCT_DATA_MANAGEMENT_TITLE4: "Manipulação de Dados"
-PRODUCT_DATA_MANAGEMENT_DESCRIPTION4: "Access a list of the variables created by your devices, and get a clear picture about the amount of registers and from where they are coming from. Also, you can manage to empty the whole bucket or just to delete specific variables in few clicks."
+PRODUCT_DATA_MANAGEMENT_DESCRIPTION4: "Acesse uma lista das variáveis criadas por seus dispositivos e tenha noção clara sobre a quantidade de registros. Além disso, você pode esvaziar todo o intervalo ou apenas excluir variáveis específicas com apenas alguns cliques."
 
 PRODUCT_ANALITICS: "Analítica"
 PRODUCT_ANALITICS_H1: "Analítica"
 
-PRODUCT_ANALITICS_TITLE1: "Powerful scripts to perform real-time analytics"
-PRODUCT_ANALITICS_DESCRIPTION1: "Implement your own business rules to instantaneously react to any change in your system. You can perform operations as simple as temperature conversation to image recognition to advanced big data analytics."
+PRODUCT_ANALITICS_TITLE1: "Crie scripts poderosos para executar análises em tempo real"
+PRODUCT_ANALITICS_DESCRIPTION1: "Implemente suas próprias regras de negócios para reagir instantaneamente a qualquer alteração em seu sistema. Você pode executar operações simples, como conversação de temperatura, reconhecimento de imagem e análise avançada de grandes massas de dados."
 
 
 PRODUCT_ANALITICS_TITLE2: "Decisoões em tempo-real"
-PRODUCT_ANALITICS_DESCRIPTION2: "Tago offers powerful options for you to create and run your own scripts in real-time. You can run scripts built in any computer language. Scripts can be triggered by fixed interval, when a device sends data, or when a certain condition is matched."
+PRODUCT_ANALITICS_DESCRIPTION2: "O Tago oferece opções poderosas para você criar e executar seus próprios scripts em tempo real. Você pode executar scripts criados em qualquer linguagem de computador. Os scripts podem ser acionados por intervalo fixo, quando um dispositivo envia dados ou quando uma determinada condição é correspondida."
 
 PRODUCT_ANALITICS_TITLE3: "Console para Debug"
-PRODUCT_ANALITICS_DESCRIPTION3: "Track the status of your scripts during the execution of the scripts using our Console feature. Connect your development tools used in your computer directly to Tago to synchronize the script in your computer with the events in your account."
+PRODUCT_ANALITICS_DESCRIPTION3: "Acompanhe o status de seus scripts durante a execução usando nosso recurso Console. Conecte suas ferramentas de desenvolvimento usadas em seu computador diretamente ao Tago para sincronizar o script em seu computador com os eventos em sua conta."
 
 
 PRODUCT_ACTIONS: "Ações"
 PRODUCT_ACTIONS_H1: "Ações"
 
-PRODUCT_ACTIONS_TITLE1: "Prepare data sets and reports to be sent to users or devices by email, SMS, MQTT or HTTP"
-PRODUCT_ACTIONS_DESCRIPTION1: "Don't get limited to just getting more information - take action! Take control of your system by sending data back to devices or to other back-end systems. Tago is easily integrated with third party software using APIs calls combining the Actions and Analysis features. Setup your action to send email, SMS, data to device, post data to another HTTP end point when certain condition is met."
-PRODUCT_ACTIONS_DESCRIPTION2: "Simple rules can be setup here in a few clicks. When a condition is matched, the selected action is triggered. More complex conditions can be built with scripts, or by using our connector with external software like the Flow from Microsoft."
+PRODUCT_ACTIONS_TITLE1: "Prepare conjuntos de dados e relatórios para serem enviados para usuários ou dispositivos por email, SMS, MQTT ou HTTP"
+PRODUCT_ACTIONS_DESCRIPTION1: "Não fique limitado a apenas obter mais informações - entre em ação! Assuma o controle de seu sistema enviando dados de volta para dispositivos ou para outros sistemas de back-end. O Tago é facilmente integrado a softwares de terceiros usando APIs combinando os recursos Actions e Analysis. Configure sua ação para enviar e-mail, SMS, dados para o dispositivo, encerre os dados em outro ponto de extremidade HTTP quando determinada condição for atendida."
+PRODUCT_ACTIONS_DESCRIPTION2: "Regras simples podem ser configuradas aqui em poucos cliques. Quando uma condição é correspondida, a ação selecionada é acionada. Condições mais complexas podem ser construídas com scripts ou usando nosso conector com software externo como o Flow da Microsoft."
 
 PRODUCT_DASHBOARDS: "Painéis"
 PRODUCT_DASHBOARDS_H1: "Painéis"
 
-PRODUCT_DASHBOARDS_TITLE1: "Build and share your dashboards with anyone"
-PRODUCT_DASHBOARDS_DESCRIPTION1: "Build and share your dashboards with internal and external users securely with a few clicks. It's easy to share solutions with anyone – even if they don't have a Tago account. When you edit a dashboard that you shared, everyone gets the update automatically."
-PRODUCT_DASHBOARDS_DESCRIPTION2: "Tago provides several options of widgets to build your dashboard in minutes. All of them provide visualization in real-time. Some widgets can be used to collect inputs from the users to make the interface more intuitive and interactive."
-PRODUCT_DASHBOARDS_DESCRIPTION3: "More than the display, tables, and chart types, Tago offers widgets to display animations, videos, and overlay images with heatmaps. Go further, and create your own customized widget to be used only in your application."
+PRODUCT_DASHBOARDS_TITLE1: "Crie e compartilhe seus painéis com qualquer pessoa"
+PRODUCT_DASHBOARDS_DESCRIPTION1: "Crie e compartilhe seus painéis com usuários internos e externos de forma segura com apenas alguns cliques. É fácil compartilhar soluções com qualquer pessoa, mesmo que elas não tenham uma conta do Tago. Quando você edita um painel compartilhado, todos recebem a atualização automaticamente."
+PRODUCT_DASHBOARDS_DESCRIPTION2: "Tago fornece várias opções de widgets para construir seu painel em minutos. Todos eles fornecem visualização em tempo real. Alguns widgets podem ser usados para coletar entradas dos usuários para tornar a interface mais intuitiva e interativa."
+PRODUCT_DASHBOARDS_DESCRIPTION3: "Mais do que a exibição, tabelas e tipos de gráficos, o Tago oferece widgets para exibir animações, vídeos e sobrepor imagens com mapas de calor. Vá além e crie seu próprio widget personalizado para ser usado apenas em seu aplicativo."
 
 PRODUCT_CONNECTIVITY: "Conectividade"
 PRODUCT_CONNECTIVITY_SUBTITLE: "Tome ações em tempo-real integrando com diversos serviços"
-PRODUCT_CONNECTIVITY_DESCRIPTION1: "Tago is already connected with several gateways, sensors, data sources, and network providers to get easier and faster for you to fully deploy your application. Whether your product will be connected via WiFi, Bluetooth, Sigfox, LoRa, RPMA, CDMA, 3G, satellite or any other mean, Tago can easily be configured to support your application."
+PRODUCT_CONNECTIVITY_DESCRIPTION1: "A Tago já está conectada a vários gateways, sensores, fontes de dados e provedores de rede para ficar mais fácil e rápida para você implantar totalmente seu aplicativo. Quer o seu produto seja ligado através de WiFi, Bluetooth, Sigfox, LoRa, RPMA, CDMA, 3G, satélite ou qualquer outro meio, o Tago pode ser facilmente configurado para suportar a sua aplicação."
 PRODUCT_CONNECTIVITY_LINK1: "Mais sobre nossos Parceiros"
-PRODUCT_CONNECTIVITY_DESCRIPTION2: "Each device is authenticated with a unique token generated by Tago back-end. All communication between the devices and Tago is performed over secure layer - HTTPS. Additional layer of security can be implemented with the inclusion of certificates inside the devices to guarantee double-authentication."
-PRODUCT_CONNECTIVITY_DESCRIPTION3: "There is no need to learn about database structure. Tago organizes all data coming from devices in Buckets. Data is available in these buckets to be visualized and processed in real-time. Unlock more business opportunities by using a unique feature at Tago that allows data Buckets to be easily shared with internal and external users."
+PRODUCT_CONNECTIVITY_DESCRIPTION2: "Cada dispositivo é autenticado com um token exclusivo gerado pelo backend Tago. Toda a comunicação entre os dispositivos e o Tago é realizada em camada segura - HTTPS. Camada adicional de segurança pode ser implementada com a inclusão de certificados dentro dos dispositivos para garantir autenticação dupla."
+PRODUCT_CONNECTIVITY_DESCRIPTION3: "Não há necessidade de aprender sobre a estrutura do banco de dados. Tago organiza todos os dados provenientes de dispositivos em baldes. Os dados estão disponíveis nesses buckets para serem visualizados e processados em tempo real. Desbloqueie mais oportunidades de negócios usando um recurso exclusivo da Tago que permite que os intervalos de dados sejam facilmente compartilhados com usuários internos e externos."
 
-PRODUCT_ANALYSIS: "Analysis"
-PRODUCT_ANALYSIS_SUBTITLE: "Take actions in real-time to respond to the demands from your asset and users"
+PRODUCT_ANALYSIS: "Análise"
+PRODUCT_ANALYSIS_SUBTITLE: "Realize ações em tempo real para responder às demandas de seus ativos e usuários"
 
-PRODUCT_ANALYSIS_DESCRIPTION1: "Implement your own business rules to instantaneously react to any change in your system. You can perform operations as simple as temperature conversation to image recognition to advanced big data analytics."
-PRODUCT_ANALYSIS_DESCRIPTION2: "Setup rules to generate reports for your internal teams or customers. Keep them informed about product malfunctions, suspicious operations, and maintenance schedules. Share new offers that will better meet your customers needs based on what you learn about how they use your products."
-PRODUCT_ANALYSIS_DESCRIPTION3: "Anticipate issues and opportunities by combining data from your product and other sources. Take advantage of devices and external services already connected to Tago. Optimize product performance and usability to exceed customer expectations."
+PRODUCT_ANALYSIS_DESCRIPTION1: "Implemente suas próprias regras de negócios para reagir instantaneamente a qualquer alteração em seu sistema. Você pode executar operações simples, como conversação de temperatura, para reconhecimento de imagem, para análise avançada de dados."
+PRODUCT_ANALYSIS_DESCRIPTION2: "Regras de configuração para gerar relatórios para suas equipes internas ou clientes. Mantenha-os informados sobre problemas de funcionamento do produto, operações suspeitas e cronogramas de manutenção. Compartilhe novas ofertas que atendam melhor às necessidades de seus clientes com base no que você aprende sobre como eles usam seus produtos."
+PRODUCT_ANALYSIS_DESCRIPTION3: "Antecipe problemas e oportunidades, combinando dados do seu produto e de outras fontes. Aproveite os dispositivos e serviços externos já conectados ao Tago. Otimize o desempenho e a usabilidade do produto para superar as expectativas do cliente."
 
 PRODUCT_CUSTOMIZATION: "Customização"
-PRODUCT_CUSTOMIZATION_SUBTITLE: "Enrich customer engagement by providing the best solution"
+PRODUCT_CUSTOMIZATION_SUBTITLE: "Enriqueça o envolvimento do cliente fornecendo a melhor solução"
 
-PRODUCT_CUSTOMIZATION_DESCRIPTION1: "With more information on hand, your business will extract more value for your own brand as well. Deploy the dashboards with your own logo, colors, e-mail services, and url using our Whitelabel edition."
-PRODUCT_CUSTOMIZATION_DESCRIPTION2: "Your team will know who is logged on, and will control the access to applications for each of them. Combining the knowledge acquired from the product utilization and user preferences, your solution can be setup to perform automatic payment operation; our APIs integrated with your scripts can supply the necessary data for this process."
-PRODUCT_CUSTOMIZATION_DESCRIPTION3: "We understand that in some cases customers will need a fully customized user interface or mobile app. Our powerful set of APIs enables the full integration of Tago back-end with native mobile App or any other external service."
+PRODUCT_CUSTOMIZATION_DESCRIPTION1: "Com mais informações à mão, sua empresa também extrairá mais valor para sua própria marca. Implemente os painéis com seu próprio logotipo, cores, serviços de e-mail e URL usando nossa edição Whitelabel."
+PRODUCT_CUSTOMIZATION_DESCRIPTION2: "Sua equipe saberá quem está conectado e controlará o acesso aos aplicativos de cada um deles. Combinando o conhecimento adquirido da utilização do produto e das preferências do usuário, sua solução pode ser configurada para executar a operação de pagamento automático; Nossas APIs integradas com seus scripts podem fornecer os dados necessários para esse processo."
+PRODUCT_CUSTOMIZATION_DESCRIPTION3: "Entendemos que, em alguns casos, os clientes precisarão de uma interface de usuário totalmente personalizada ou de um aplicativo para dispositivos móveis. Nosso poderoso conjunto de APIs permite a integração completa do back-end Tago com o aplicativo móvel nativo ou qualquer outro serviço externo."
 PRODUCT_CUSTOMIZATION_LNIK1: "Vá para API"
