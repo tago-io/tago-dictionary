@@ -1,12 +1,12 @@
 CREATE_ACCOUNT: "crear una cuenta"
-ENTER_YOUR EMAIL_ADDRESS_RESEND_YOUR_CONFIRMATION: "Ingrese su direcci髇 de correo electr髇ico para volver a enviar su confirmaci髇. Es posible que deba verificar su carpeta de spam o desbloquear el correo electr髇ico noreply@tago.io."
-ENTER_YOUR_EMAIL_ADDRESS_RESET_YOUR_PASSWORD: "Ingrese su correo electr髇ico para restablecer su contrase馻. Es posible que deba verificar su carpeta de spam o desbloquear el correo electr髇ico noreply@tago.io."
+ENTER_YOUR_EMAIL_ADDRESS_RESEND_YOUR_CONFIRMATION: "Ingrese su direcci贸n de correo electr贸nico para volver a enviar su confirmaci贸n. Es posible que deba verificar su carpeta de spam o desbloquear el correo electr贸nico noreply@tago.io."
+ENTER_YOUR_EMAIL_ADDRESS_RESET_YOUR_PASSWORD: "Ingrese su correo electr贸nico para restablecer su contrase帽a. Es posible que deba verificar su carpeta de spam o desbloquear el correo electr贸nico noreply@tago.io."
 
-FORGOT_YOUR_PASSWORD: "Olvidaste tu contrase馻"
+FORGOT_YOUR_PASSWORD: "Olvidaste tu contrase帽a"
 
-RESEND_CONFIRMATION_EMAIL: "Reenviar el mensaje de correo electr髇ico de confirmaci髇"
-RESEND_EMAIL: "Reenviar el mensaje de correo electr髇ico"
-RESET_PASSWORD: "Restablecer la contrase馻"
+RESEND_CONFIRMATION_EMAIL: "Reenviar el mensaje de confirmaci贸n"
+RESEND_EMAIL: "Reenviar el mensaje de correo electr贸nico"
+RESET_PASSWORD: "Restablecer la contrase帽a"
 
 SELECT_PROFILE: "Seleccione un perfil"
 SIGN_IN: "Registrarse"

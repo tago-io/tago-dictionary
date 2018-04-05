@@ -15,11 +15,11 @@ MARCH: "Marzo"
 MAY: "Mayo"
 MONDAY: "Lunes"
 
-NOTIFICATIONS_FROM_INSTALL: "Aplicación instalada con éxito"
+NOTIFICATIONS_FROM_INSTALL: "AplicaciÃ³n instalada con Ã©xito"
 NOTIFICATIONS_NEW_USER_REGISTERED: "Nuevo usuario registrado"
-NOTIFICATIONS_SEARCH: "notificaciones de búsqueda"
-NOTIFICATIONS_FROM_USER_REGISTERED: "$0$ acaba de crear una cuenta en Tago. El artículo que compartiste está disponible para que él lo acepte."
-NOTIFICATIONS_FROM_USER_REGISTERED_FAIL: "Oops... $0$ ahora está registrado en Tago, pero algo salió mal con el intercambio. Intenta compartir de nuevo."
+NOTIFICATIONS_SEARCH: "notificaciones de bÃºsqueda"
+NOTIFICATIONS_FROM_USER_REGISTERED: "$0$ acaba de crear una cuenta en Tago. El artÃ­culo que compartiste estÃ¡ disponible para que Ã©l lo acepte."
+NOTIFICATIONS_FROM_USER_REGISTERED_FAIL: "Oops... $0$ ahora estÃ¡ registrado en Tago, pero algo saliÃ³ mal con el intercambio. Intenta compartir de nuevo."
 NOVEMBER: "Noviembre"
 
 OCTOBER: "Octubre"
@@ -27,13 +27,13 @@ ONLY_UNREAD: "Solo sin leer"
 OTHER_USERS: "Otros usuarios"
 
 SEPTEMBER: "Septiembre"
-SATURDAY: "Sábado"
+SATURDAY: "SÃ¡bado"
 SUNDAY: "Domingo"
 
 TAGO_SYSTEM: "Tago System"
 THURSDAY: "Jueves"
 TUESDAY: "Martes"
 
-WEDNESDAY: "Miércoles"
+WEDNESDAY: "MiÃ©rcoles"
 
-YOU_REALLY_WANT_EXIT: "¿Realmente desea salir"
+YOU_REALLY_WANT_EXIT: "Â¿Realmente desea salir"

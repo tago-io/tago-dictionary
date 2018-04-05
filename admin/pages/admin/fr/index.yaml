@@ -1,10 +1,10 @@
 APRIL: "Avril"
 
-AUGUST: "Ao?t"
+AUGUST: "Août"
 
-DECEMBER: "D?cembre"
+DECEMBER: "Décembre"
 
-FEBRUARY: "F?vrier"
+FEBRUARY: "Février"
 FRIDAY: "Vendredi"
 
 JANUARY: "Janvier"
@@ -16,11 +16,11 @@ MARCH: "Mars"
 MAY: "Mai"
 MONDAY: "Lundi"
 
-NOTIFICATIONS_FROM_INSTALL: "Application install?e avec succ?s"
-NOTIFICATIONS_NEW_USER_REGISTERED: "Nouvel utilisateur enregistr?"
+NOTIFICATIONS_FROM_INSTALL: "Application installée avec succès"
+NOTIFICATIONS_NEW_USER_REGISTERED: "Nouvel utilisateur enregistré"
 NOTIFICATIONS_SEARCH: "Rechercher des notifications"
-NOTIFICATIONS_FROM_USER_REGISTERED: "$0$ a cr?? un compte sur Tago. L'article que vous avez partag? est disponible pour qu'il accepte."
-NOTIFICATIONS_FROM_USER_REGISTERED_FAIL: "Oups... $0$ est maintenant enregistr? sur Tago, mais quelque chose s'est mal pass? avec le partage. Essayez de partager ? nouveau"
+NOTIFICATIONS_FROM_USER_REGISTERED: "$0$ a créé un compte sur Tago. L'article que vous avez partagé est disponible pour qu'il accepte."
+NOTIFICATIONS_FROM_USER_REGISTERED_FAIL: "Oups... $0$ est maintenant enregistr? sur Tago, mais quelque chose s'est mal tourné avec le partage. Essayez de partager à nouveau"
 NOVEMBER: "Novembre"
 
 OCTOBER: "Octobre"
@@ -31,7 +31,7 @@ SEPTEMBER: "Septembre"
 SATURDAY: "Samedi"
 SUNDAY: "Dimanche"
 
-TAGO_SYSTEM: "syst?me de Tago"
+TAGO_SYSTEM: "système de Tago"
 THURSDAY: "Jeudi"
 TUESDAY: "Mardi"
 
