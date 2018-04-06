@@ -1,6 +1,6 @@
 PRICING: "Planos"
-PRICING_DESCRIPTION1: "Nossos preços são compostos pela combinação do plano do conjunto de ferramentas selecionado e dos serviços utilizados durante o período de 1 mês. Todos os valores são expressos em Dólar Americano (USD)."
-PRICING_DESCRIPTION2: "A Tago oferece todas as ferramentas que sua empresa precisa para construir e gerencir a melhor aplicação da indústria. Cada plano é formado por uma série de características ideal para o estágio e o tamanho do seu projeto."
+PRICING_DESCRIPTION1: "Nossos preços são compostos pela combinação do plano do conjunto de ferramentas selecionado e dos serviços utilizados durante o período de um mês. Todos os valores são expressos em Dólar Americano (USD)."
+PRICING_DESCRIPTION2: "A Tago oferece todas as ferramentas que sua empresa precisa para construir a melhor soluçaão conectada da indústria. Cada plano é formado por uma série de características ideal para cada estágio e tamanho do seu projeto."
 
 FREE: "Free"
 FREE_VALUE: "0"
@@ -49,19 +49,19 @@ TAGS_MANAGEMENT: "Gerenciamento de Etiquetas"
 USER_PROFILE_MANAGEMENT: "Gerenciamento de Usuários"
 USER_PROFILE_MANAGEMENT_STARTER: "Adicione mais 1 usuário"
 USER_PROFILE_MANAGEMENT_SCALE: "Adicione até 5 usuários"
-USER_PROFILE_MANAGEMENT_ENTERPRISE: "unlimited users"
+USER_PROFILE_MANAGEMENT_ENTERPRISE: "Número ilimitado de usuários"
 
 COMPLETE_AUDIT_LOG: "Audit Log"
-COMPLETE_AUDIT_LOG_STARTER: "limitado ao logs da conta"
+COMPLETE_AUDIT_LOG_STARTER: "limitado somente aos logs da conta"
 
 EMBED_WIDGET_CREATION: "Criação de Widget embarcados"
 
 SLA: "SLA"
 
-PREMIUM_WIDGETS: "Widgets Premio"
+PREMIUM_WIDGETS: "Widgets Prêmio"
 
 
-PRIVATE_SLACK_CHANNEL: "Canao Privado no Slack"
+PRIVATE_SLACK_CHANNEL: "Canal Privado no Slack"
 
 CUSTOMIZED_MIDDLEWARE_FOR_ANY_DEVICE: "Servidor de Middleware Customizado"
 
@@ -70,7 +70,7 @@ REALESE_SOLUTION_EXPLORE: "Publicaçāo no Explore"
 WHITELABEL_VERSION: "Versão WhiteLabel"
 
 SERVICE_USAGE: "Uso dos Serviços"
-SERVICE_USAGE_DESCRIPTION: "Pague somente pelos serviços que voce utilizar. Não cobramos por números de dispositivos, painéis, ou usuários. Os custos do uso são cobrados mensalmente baseado na transações realizadas e na quantidade de dados armazenadas nos buckets."
+SERVICE_USAGE_DESCRIPTION: "Pague somente pelos serviços que voce utilizar. Não cobramos por números de dispositivos, painéis, ou usuários. Os custos do uso são cobrados mensalmente baseado na transações realizadas e na quantidade de dados armazenadas."
 
 
 SERVICE: "Serviço"
