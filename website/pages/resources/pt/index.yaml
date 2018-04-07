@@ -66,10 +66,10 @@ RESOURCES_VIDEOS_VIDEO9_DESCRIPTION: "[Training] Learn how to use Microsoft Flow
 RESOURCES_FAQ: "'FAQ' - Perguntas Frequentes"
 RESOURCES_FAQ_DESCRIPTION: "Se você ainda tiver mais dúvidas, estas FAQs poderá ajudar"
 
-RESOURCES_FAQ_QUESTION1: "Which web browser does Tago Admin work with?"
-RESOURCES_FAQ_ANSWER1: "Tago Admin is optimized for Chrome (latest version), Firefox (latest version), Safari (latest version), Edge, and with some limitations for Internet Explorer 11. Also, it works with Chrome on Android (latest version), and Safari on iOS (latest version)."
+RESOURCES_FAQ_QUESTION1: "Quais são os navegadores que o Admin da Tago pode rodar?"
+RESOURCES_FAQ_ANSWER1: "O Admin da Tago é otimizado para Chrome (última versão), Firefox (última versão), Safari (última versão), Edge, e com algumas limitações, no Internet Explorer 11. A Tago roda também no Chrome para Android (última versão), e Safari para iOS (última versão)."
 
-RESOURCES_FAQ_QUESTION2: "Where is my data stored?"
+RESOURCES_FAQ_QUESTION2: "Onde os meus dados são armazenados?"
 RESOURCES_FAQ_ANSWER2: "Tago database is located on servers in the United States. In case of customers in Europe or other continents, Tago may use servers in that regions upon request. Users always have the option to download all data to their own servers, and define the retention period that the data should be kept at Tago."
 
 RESOURCES_FAQ_QUESTION3: "How can I know which users are accessing my applications?"
@@ -78,8 +78,8 @@ RESOURCES_FAQ_ANSWER3: "By using our Whitelabel edition, your applications and u
 RESOURCES_FAQ_QUESTION4: "In what languages is Tago available?"
 RESOURCES_FAQ_ANSWER4: "Right now, Tago is fully supported in English. Soon, we will include Spanish, Portuguese and French."
 
-RESOURCES_FAQ_QUESTION5: "Is an on-premise version available?"
-RESOURCES_FAQ_ANSWER5: "Tago runs on cloud so that customers can get the best of redundancy, uptime with the minimum of overhead and costs. There is no on-premise version yet (for installation)."
+RESOURCES_FAQ_QUESTION5: "Existe uma versão da Tago que eu possa instalar nos meus próprio servidores?"
+RESOURCES_FAQ_ANSWER5: "Tago roda em servidores na nuvem para obter a melhor garantia de redundância, tempo de acesso, qualidade de serviços e menor custo. No momento, ainda não oferecemos uma versaão para instalação 'on-premises'"
 
-RESOURCES_FAQ_QUESTION6: "Is Tago HIPAA and FedRAMP compliant?"
-RESOURCES_FAQ_ANSWER6: "Our roadmap includes Tago certification for HIPPA (Health Insurance Portability and Accountability Act of 1996) and FedRAMP (Federal Risk and Authorization Management Program ). Contact us if any of these compliances are required for your project."
+RESOURCES_FAQ_QUESTION6: "A Tago está certificada para os padrões HIPAA ou FedRAMP?"
+RESOURCES_FAQ_ANSWER6: "Nosso planejamento inclue a certificação para HIPPA (Health Insurance Portability and Accountability Act of 1996) e FedRAMP (Federal Risk and Authorization Management Program ). Entre em contato se sua empresa precisar desta ou de qualquer outra certificação."
