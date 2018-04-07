@@ -152,7 +152,7 @@ PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: "or about $0.35 / device / mo"
 FREQUENTLY_ASKED_QUESTIONS: "Frequently Asked Questions"
 
 PRICING_QUESTION1: "For what I will be charged for?"
-PRICING_RESPONSE1: "Different from other providers, Tago doesn't charge by the number devices, dashboards, or even users. Our model is based on the real usage of the services, or in other words the system charges by transactions, and by the tools that are made available for you depending on your plan.  So, the monthly bill will be a sum of the plan that you selected plus the real usage of the services. You can also include some add-ons, such as the support plans."
+PRICING_RESPONSE1: "Different from other providers, Tago doesn't charge by the number devices, dashboards, or even for end users. Our model is based on the real usage of the services, or in other words the system charges by transactions, and by the tools that are made available for you depending on your plan.  So, the monthly bill will be a sum of the plan that you selected plus the real usage of the services. You can also include some add-ons, such as the support plans."
 
 PRICING_QUESTION2: "What is the billing cycle of Tago?"
 PRICING_RESPONSE2: "Tago closes the billing period at midnight on the last day of each month. Invoices are generally available with the first four days of the month."
