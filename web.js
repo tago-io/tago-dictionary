@@ -9,8 +9,13 @@ class Dictionary {
     this.initialize = this.initialize.bind(this);
   }
 
-  static setLang (lang) {
-    Dictionary.lang = lang !== 'en' && lang !== 'pt' ? 'en' : lang;
+  static setLang (value) {
+    let language = value;
+    if (value !== 'en' && value !== 'fr' && value !== 'es' && value !== 'pt') {
+      language = 'en';
+    }
+
+    Dictionary.lang = language;
   }
 
   initialize() {

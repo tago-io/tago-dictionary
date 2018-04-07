@@ -11,6 +11,8 @@ ENTER_YOUR_NAME: "entre com seu nome"
 ENTER_YOUR_PASSWORD: "entre com sua senha"
 ENTER_YOUR_PHONE_NUMBER: "entre com seu número de telefone"
 
+HIDE_TOUR: "Esconder botão 'Tour'"
+
 I_AM_USER_FINAL_USER: "Eu sou um <b>usuário</b> final"
 I_AM_DEVELOPER: "Eu sou um <b>desenvolvedor</b>"
 I_WILL_BUILD_APPLICATIONS_TAGO: "Eu irei construir aplicações na Tago"
@@ -31,5 +33,7 @@ USERS_MANAGEMENT: "Gerenciamento de Usuários"
 TOKENS: "Tokens"
 
 VIEW_MODE: "Modo visualização do admin"
+VISUALIZATION_PREFERENCES: "Preferências de Visualização"
+
 WE_OCCASIONALLY_SEND_NEWSLETTERS_WITH_RELEVANT_TOPICS: "Enviamos ocasionalmente noticias com tópicos relevantes"
 YOU_NEED_ENTER_SAME_PASSWORD_TWICE: "Senhas não podem ser diferentes"

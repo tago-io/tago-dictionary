@@ -1,0 +1,89 @@
+ACCEPT: "Aceptar"
+ACCEPTED: "Aceptado"
+ACCOUNT: "cuenta"
+ALL: "Todos"
+APPLICATION: "Aplicación"
+APPLICATIONS: "aplicaciones"
+ARE_YOU_SURE: "¿Estás seguro"
+AUDIT_LOG: "Registro de auditoría"
+
+BACK: "Regresar"
+
+CANCEL: "Cancelar"
+CLEAR: "Limpiar"
+CLICK: "Hacer clic"
+CLOSE: "Cerrar"
+COLLAPSE: "colapsar"
+COMPANY: "Empresa"
+CUSTOM: "Personalizado"
+
+DAY: "Día"
+DASHBOARD: "Tablero"
+DASHBOARDS: "Tableros"
+DECLINE: "Desistir"
+DECLINED: "Declinado"
+DEVELOPER: "Desarrollador"
+DEVICES: "Dispositivos"
+
+EMAIL: "Correo electrónico"
+ENTER_EMAIL: "ingrese la dirección de correo electrónico"
+ENTER_YOUR_EMAIL: "Introduce tu correo electrónico"
+EXPAND: "Expandir"
+
+FREE: "Gratis"
+FROM: "Desde"
+
+GENERAL_INFORMATION: "Informaciones Generales"
+GO_TO: "Ir para"
+
+HERE: "Aquí"
+HOUR: "Hora"
+
+IGNORE: "Ignorar"
+INDEFINITELY: "Indefinidamente"
+INFORMATION: "información"
+INVITE: "Invitar"
+
+LANGUAGE: "Idioma"
+
+MINUTE: "Minuto"
+MONTH: "Mes"
+MORE: "Más"
+MY_ACCOUNT: "Mi cuenta"
+MY_BILLING: "Mi facturación"
+
+NAME: "Nombre"
+NEXT: "Siguiente"
+NO: "No"
+NOTIFICATIONS: "Notificaciones"
+
+OF_PAGINATION: "De"
+OR: "o"
+
+REFUSED: "Rechazado"
+
+PASSWORD: "contraseña"
+PENDING: "Pendiente"
+PHONE: "Teléfono"
+PLEASE_CHECK_YOUR_EMAIL: "Por favor, verifique su correo electrónico"
+PLEASE_ENTER_YOUR_EMAIL: "Por favor, introduzca su correo electrónico"
+PLEASE_ENTER_REQUIRED_FIELDS: "Por favor ingrese los campos requeridos"
+PREVIOUS: "Anterior"
+
+SAVE: "Salvar"
+SECOND: "Segundo"
+SHARE: "Compartir"
+SIGN_OUT: "Desconectar"
+SOUND: "Sonido"
+SUBMIT: "Enviar"
+
+TIMEZONE: "Zona horaria"
+THIS_FIELD_IS_REQUIRED: "Este campo es requerido"
+THIS_FIELD_REQUIRES_AT_LEAST_THREE_CHARACTERS: "Este campo requiere al menos 3 caracteres"
+
+VALUE: "Valor"
+VARIABLE: "Variable"
+
+WEEK: "Semana"
+YEAR: "Año"
+YES: "Sí"
