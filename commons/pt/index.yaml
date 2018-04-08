@@ -5,7 +5,7 @@ ALL: "Todos"
 APPLICATION: "Aplicação"
 APPLICATIONS: "Aplicações"
 ARE_YOU_SURE: "Você tem certeza"
-AUDIT_LOG : "Log utilização"
+AUDIT_LOG : "Log de auditoria"
 
 BACK: "Voltar"
 
