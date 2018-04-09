@@ -36,33 +36,6 @@ RESOURCES_PARTNERS_DESCRIPTION: "Our partners can leverage their hardware, firmw
 RESOURCES_VIDEOS: "Videos"
 RESOURCES_VIDEOS_DESCRIPTION: "Videos to help you build the best connected product"
 
-RESOURCES_VIDEOS_VIDEO1: "Introducing to Tago Platform"
-RESOURCES_VIDEOS_VIDEO1_DESCRIPTION: "[Training] An overview of all the features offered by Tago to learn how to get started with our admin."
-
-RESOURCES_VIDEOS_VIDEO2: "Working with Buckets"
-RESOURCES_VIDEOS_VIDEO2_DESCRIPTION: "[Training] In this video we explain how to create and run your scripts on Tago."
-
-RESOURCES_VIDEOS_VIDEO3: "Working with Analysis"
-RESOURCES_VIDEOS_VIDEO3_DESCRIPTION: "[Training] Learn how to work with buckets to store and share your data."
-
-RESOURCES_VIDEOS_VIDEO4: "Publishing to Tago using MQTT"
-RESOURCES_VIDEOS_VIDEO4_DESCRIPTION: "[Training] In this video you will learn how to connect to Tago and send data using MQTT."
-
-RESOURCES_VIDEOS_VIDEO5: "Building Dashboards with Shared Buckets"
-RESOURCES_VIDEOS_VIDEO5_DESCRIPTION: "[Training] Learn how to create a dashboard using shared data."
-
-RESOURCES_VIDEOS_VIDEO6: "Simulating Devices with Google Sheets"
-RESOURCES_VIDEOS_VIDEO6_DESCRIPTION: "[Training] Learn how to send data from google spreadsheets to Tago using analysis."
-
-RESOURCES_VIDEOS_VIDEO7: "Creating Push Notifications"
-RESOURCES_VIDEOS_VIDEO7_DESCRIPTION: "[Training] Learn how to create push notifications using analysis."
-
-RESOURCES_VIDEOS_VIDEO8: "Creating a Microsoft Flow Connector"
-RESOURCES_VIDEOS_VIDEO8_DESCRIPTION: "[Training] Learn how to create a Microsoft Flow connector."
-
-RESOURCES_VIDEOS_VIDEO9: "Using Microsft Flow to monitor temperature"
-RESOURCES_VIDEOS_VIDEO9_DESCRIPTION: "[Training] Learn how to use Microsoft Flow to monitor temperature."
-
 RESOURCES_FAQ: "Frequently asked questions"
 RESOURCES_FAQ_DESCRIPTION: "If you need more information, these FAQs can help"
 
