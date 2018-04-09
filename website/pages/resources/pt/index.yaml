@@ -64,22 +64,22 @@ RESOURCES_VIDEOS_VIDEO9: "Using Microsft Flow to monitor temperature"
 RESOURCES_VIDEOS_VIDEO9_DESCRIPTION: "[Training] Learn how to use Microsoft Flow to monitor temperature."
 
 RESOURCES_FAQ: "'FAQ' - Perguntas Frequentes"
-RESOURCES_FAQ_DESCRIPTION: "Se você ainda tiver mais dúvidas, estas FAQs poderá ajudar"
+RESOURCES_FAQ_DESCRIPTION: "Se você ainda tiver mais dúvidas, estas FAQs poderão ajudar"
 
 RESOURCES_FAQ_QUESTION1: "Quais são os navegadores que o Admin da Tago pode rodar?"
-RESOURCES_FAQ_ANSWER1: "O Admin da Tago é otimizado para Chrome (última versão), Firefox (última versão), Safari (última versão), Edge, e com algumas limitações, no Internet Explorer 11. A Tago roda também no Chrome para Android (última versão), e Safari para iOS (última versão)."
+RESOURCES_FAQ_ANSWER1: "O Admin da Tago é otimizado para Chrome (última versão), Firefox (última versão), Safari (última versão), Edge, e com algumas limitações, para o Internet Explorer 11. A Tago roda também nos navegadores de celulares Chrome para Android (última versão), e Safari para iOS (última versão)."
 
 RESOURCES_FAQ_QUESTION2: "Onde os meus dados são armazenados?"
-RESOURCES_FAQ_ANSWER2: "O banco de dados da Tago é localizado nos servidores dos Estados Unidos para a versão aberta da Tago. No caso da versão Enterprise+, o cliente pode rodar em qualquer região/pais onde a AWS tem servidores, tais como: Europa, Brasil, Australia, e outros países. Além disto, os usuários podem abaixar e remover os dados a qualquer momento e manter todos os dados localmente."
+RESOURCES_FAQ_ANSWER2: "O banco de dados da Tago é localizado nos servidores dos Estados Unidos para a versão aberta da Tago. No caso da versão Enterprise+, o cliente pode rodar e manter os dados em qualquer região ou pais onde a AWS (Amazon Web Service) tiver servidores, tais como: Europa, Brasil, Australia, e outros países. Além disto, os usuários podem abaixar e remover os dados a qualquer momento e manter todos os dados localmente."
 
 RESOURCES_FAQ_QUESTION3: "Como os meus clientes podem ter acesso as aplicações que eu desenvolver?"
-RESOURCES_FAQ_ANSWER3: "Você pode compartilhar manualmente, ou liberar a sua aplicação no 'Explore' da Tago. Além disto, existe a versão 'Whitelabel' que separa todos os usuários para somente a sua empresa, de modo que você terá controle e visão total sabendo quem acessa o que na sua aplicação."
+RESOURCES_FAQ_ANSWER3: "Você pode compartilhar manualmente, ou liberar a sua aplicação no 'Explore' da Tago. Além disto, existe a versão 'Whitelabel' que separa todos os usuários para serem visualizados somente por sua empresa, de modo que você terá controle e visão total sabendo quem acessa o que na sua aplicação."
 
-RESOURCES_FAQ_QUESTION4: "Quais são as linguages disponíveis do Admin da Tago?"
-RESOURCES_FAQ_ANSWER4: "A versão Desenvolvedor do Admin da Tago está totalmente em Ingles. Já a versão para usuário final (Mode reduzido) está disponível em Portugues, Ingles, Espanhol e Frances."
+RESOURCES_FAQ_QUESTION4: "Quais são as linguages disponíveis para o Admin da Tago?"
+RESOURCES_FAQ_ANSWER4: "A versão Desenvolvedor do Admin da Tago está totalmente em Ingles. Já a versão para usuário final (Modo reduzido) está disponível em Português, Ingles, Espanhol e Frances."
 
-RESOURCES_FAQ_QUESTION5: "Existe uma versão da Tago que eu possa instalar nos meus próprio servidores?"
-RESOURCES_FAQ_ANSWER5: "Tago roda em servidores na nuvem para obter a melhor garantia de redundância, tempo de acesso, qualidade de serviços e menor custo. No momento, ainda não oferecemos uma versaão para instalação 'on-premises'"
+RESOURCES_FAQ_QUESTION5: "Existe uma versão da Tago que possa ser instalada em meus próprios servidores?"
+RESOURCES_FAQ_ANSWER5: "A Tago roda em servidores na nuvem para obter a melhor garantia de redundância, tempo de acesso, qualidade de serviços e menor custo. No momento, ainda não oferecemos uma versão para instalação 'on-premises'"
 
 RESOURCES_FAQ_QUESTION6: "A Tago está certificada para os padrões HIPAA ou FedRAMP?"
 RESOURCES_FAQ_ANSWER6: "Nosso planejamento inclue a certificação para HIPPA (Health Insurance Portability and Accountability Act of 1996) e FedRAMP (Federal Risk and Authorization Management Program ). Entre em contato se sua empresa precisar desta ou de qualquer outra certificação."

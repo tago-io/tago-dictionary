@@ -1,7 +1,7 @@
 TAGO_HOME: "Tago - Início"
 BANNER_TITLE: "Crie mais valor conectando seu produto com a Tago"
-BANNER_DESCRIPTION: "Você ficará surpreso ao saber como é rápido e fácil integrar seu produto com a Tago."
-GET_STARTED_HOME: "Inicie agora mesmo"
+BANNER_DESCRIPTION: "Extraia mais informações e otimize o seu processo."
+GET_STARTED_HOME: "Comece agora mesmo"
 WATCH_IT_IN_ACTION: "Entenda como funciona"
 WATCH_IT_IN_ACTION_YOUTUBEVIDEO: "Nf6IO7Yqhgw"
 
@@ -13,8 +13,8 @@ TAGO_PLATFORM_DESCRIPTION: "A Tago oferece as ferramentas para o seu negócio, g
 
 TAGO_BRINGS_ALL_FEATURES: "A Tago possui todos os recursos para construir sua solução"
 
-BUILD_YOUR_APPLICATION_IN_ON_TIME: "Construa sua aplicação sem perder tempo e com máximo de agilidade"
-BUILD_YOUR_APPLICATION_IN_ON_TIME_DESCRIPTION: "Comece a criar seu aplicativo na Tago usando nossos exemplos de painel e o hardware conectado. Traga seu próprio hardware com qualquer protocolo, basta integrá-lo com nosso conversor de protocolos. A Tago não requer treinamento, isso reduz as barreiras para o seu novo projeto. Nosso ambiente impulsiona a colaboração entre desenvolvedores, usuários e grupos corporativos para acelerar a implementação do projeto."
+BUILD_YOUR_APPLICATION_IN_ON_TIME: "Construa aplicaçoes com o máximo de agilidade"
+BUILD_YOUR_APPLICATION_IN_ON_TIME_DESCRIPTION: "Comece a criar seu aplicativo na Tago usando nossos aceleradores e conectores. Traga seu próprio hardware com qualquer protocolo, basta integrá-lo ao nosso conversor de protocolos. O uso da ferramenta Tago pelo usuário não requer treinamento, isso reduz as barreiras para o seu novo projeto."
 
 SHARE_YOUR_SOLUTIONS_EASILY: "Compartilhe suas soluções facilmente"
 SHARE_YOUR_SOLUTIONS_EASILY_DESCRIPTION: "Em um mundo conectado, compartilhar é uma chave para o sucesso. Compartilhe seus painéis e dados com usuários internos e externos de forma segura com apenas alguns cliques. É possível compartilhar soluções com qualquer pessoa, mesmo que elas não tenham uma conta na Tago. Quando você edita um painel compartilhado, todos recebem a atualização automaticamente."
@@ -22,10 +22,10 @@ SHARE_YOUR_SOLUTIONS_EASILY_DESCRIPTION: "Em um mundo conectado, compartilhar é
 SCALE_UP_SMOOTHLY: "Escale sua aplicação de forma rápida"
 SCALE_UP_SMOOTHLY_DESCRIPTION: "Inclua mais dispositivos e usuários à medida que seus aplicativos se expandem. Organize todos os seus aplicativos, usuários e dispositivos em uma única ferramenta de gerenciamento. Tudo o que você cria manualmente na Tago também pode ser automatizado usando scripts. A Tago oferece todas as ferramentas de monitoramento 24 horas por dia, 7 dias por semana, para que você não precise se preocupar com problemas inesperados."
 
-GO_BEYOND_IOT_WITH_INTEGRATION: "Vá além da IoT com integração"
+GO_BEYOND_IOT_WITH_INTEGRATION: "Vá além da IoT com a melhor integração"
 GO_BEYOND_IOT_WITH_INTEGRATION_DESCRIPTION: "O Tago oferece APIs poderosas para integração com serviços externos, como previsão do tempo, processamento de imagens, CRM, ERP e outros sistemas. Os kits de inicialização e suporte estão disponíveis para conexão com os melhores serviços do Google, Microsoft, IBM e AWS."
 
-LEARN_ABOUT_OUR_PRODUCT: "Conheça nosso produto"
+LEARN_ABOUT_OUR_PRODUCT: "Conheça detalhes do nosso produto"
 
 OUR_CUSTOMERS: "Nossos Clientes"
 
@@ -41,5 +41,5 @@ ERIC_HOOG_DESCRIPTION: "Tago ajudou tremendamente no desenvolvimento de nossos p
 
 BRENT_WARD: "Brent Ward"
 BRENT_WARD_COMPANY: "VP, Device Solutions Inc"
-BRENT_WARD_DESCRIPTION: "A Tago tem sido fundamental no fornecimento de elementos críticos para nossa plataforma de Monitoramento/Controle Remoto Cellio IoT. A capacidade de rotular a sua hospedagem de dados, painéis, aplicativos móveis, alertas e notificações permitiu o desenvolvimento de uma solução completa e pronta para uso, que provou ser extremamente flexível, desejável e valiosa para nossos clientes corporativos."
+BRENT_WARD_DESCRIPTION: "A Tago tem sido fundamental no fornecimento de elementos críticos para nossa plataforma de Monitoramento/Controle Remoto Cellio IoT. A capacidade de costumizar a hospedagem de dados, painéis, aplicativos móveis, alertas e notificações permitiu o desenvolvimento de uma solução completa e pronta para uso, o que provou ser extremamente flexível, desejável e valiosa para nossos clientes corporativos."
 

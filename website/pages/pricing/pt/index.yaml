@@ -35,7 +35,7 @@ RUN_ANALYSIS_SPAN_FREE: "rode até 250 scripts/hora"
 API_REQUESTS: "Requisições controlada de API"
 API_REQUESTS_SPAN_FREE: "até 250 / hora"
 API_REQUESTS_SPAN_STARTER: "até 10,000 / hora"
-API_REQUESTS_SPAN_SCALE_ENTERPRISE: "10,000 + / hora"
+API_REQUESTS_SPAN_SCALE_ENTERPRISE: "+ 10,000 / hora"
 
 CONFIGURABLE_MAX_REQUEST: "Controle de limite de acesso"
 
@@ -51,7 +51,7 @@ USER_PROFILE_MANAGEMENT_STARTER: "Adicione mais 1 usuário"
 USER_PROFILE_MANAGEMENT_SCALE: "Adicione até 5 usuários"
 USER_PROFILE_MANAGEMENT_ENTERPRISE: "Número ilimitado de usuários"
 
-COMPLETE_AUDIT_LOG: "Audit Log"
+COMPLETE_AUDIT_LOG: "Log de Auditoria"
 COMPLETE_AUDIT_LOG_STARTER: "limitado somente aos logs da conta"
 
 EMBED_WIDGET_CREATION: "Criação de Widget embarcados"
@@ -125,11 +125,11 @@ PRICING_EXAMPLE_1_MONTHLY_SERVICE_USAGE_VALUE5: "Número de registros armazenado
 PRICING_EXAMPLE_1_MONTHLY_SERVICE_USAGE_VALUE6: "Custo mensal do armazenamento online = 4,320,000 * $0.015 = $64.80"
 PRICING_EXAMPLE_1_MONTHLY_SERVICE_USAGE_VALUE7 : "Sub-total mensal do uso dos serviços = $18.00 + $64.80 = $82.80"
 PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES: "Custo mensal total:"
-PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES_VALUE1: "Custo mensal total = Custo do Plano + custo do uso = $49 + $82.80 = $131.80"
-PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES_VALUE2: "ou seja USD $0.12 / dispositivo / mês"
+PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES_VALUE1: "Custo mensal total = Custo do Plano + custo do uso = $49 + $82.80 = USD $131.80"
+PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES_VALUE2: "ou seja USD $0.13 / dispositivo / mês"
 
 PRICING_EXAMPLE_2: "Exemplo 2"
-PRICING_EXAMPLE_2_DESCRIPTION1: "Se você seleciona o plano Scale, adiciona 1,000 dispositivos que enviam (POST) um pacote de dados de 6 variáveis por hora. "
+PRICING_EXAMPLE_2_DESCRIPTION1: "Você seleciona o plano Scale e adiciona 1,000 dispositivos que enviam (POST) um pacote de dados de 6 variáveis por hora. "
 PRICING_EXAMPLE_2_DESCRIPTION2: "Adicionalmente, você decide executar uma Analysis (código) cada vez que um pacote de dados chegar na sua conta. Seus custos podem ser estimados como descrito a seguir:"
 PRICING_EXAMPLE_2_MONTHLY_PLAN: "Plano selecionado:"
 PRICING_EXAMPLE_2_MONTHLY_PLAN_VALUE: "Scale $199"
@@ -145,8 +145,8 @@ PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE_VALUE8: "Número de analysis executadas 
 PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE_VALUE9: "Custo mensal para executar as analysis = 720,000 * $0.10 = $72.00"
 PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE_VALUE10: "Sub-total mensal do uso dos serviços = $18.00 + $64.80 + $72.00 = $154.80"
 PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES: "Custo mensal total:"
-PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE1: "Custo mensal total = Custo do Plano + custo do uso = $199 + $154.80 = $353.80"
-PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: "ou seja $0.35 / dispositivo / mês"
+PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE1: "Custo mensal total = Custo do Plano + custo do uso = $199 + $154.80 = USD $353.80"
+PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: "ou seja USD $0.35 / dispositivo / mês"
 
 
 FREQUENTLY_ASKED_QUESTIONS: "Frequently Asked Questions"
