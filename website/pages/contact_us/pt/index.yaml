@@ -9,10 +9,7 @@ CONTACT_US_QUESTION_PLACEHOLDER_COMPANY_NAME: "Companhia"
 CONTACT_US_QUESTION_PLACEHOLDER_EMAIL: "Email"
 CONTACT_US_QUESTION_PLACEHOLDER_LEAVE_MESSAGE: "Deixe sua mensagem"
 
-CONTACT_US_QUESTION_BUTTON: "Fale com Vendas"
-
-CONTACT_US_BY_EMAIL: "Se voce preferir, você também poderá nos contactar por email:"
-CONTACT_US_BY_EMAIL_VALUE: "sales@tago.io"
+CONTACT_US_QUESTION_BUTTON: "Enviar mensagem"
 
 CONTACT_US_BY_PHONE: "ou ligue para:"
 CONTACT_US_BY_PHONE_VALUE: "+1 (800) 607-7410"
@@ -27,12 +24,7 @@ CONTACT_US_SUPPORT_SLACK_LINK: "Acesse nosso slack"
 CONTACT_US_SUPPORT_DEVELOPER_PAGE: "Visite nossa página para Desenvolvedores 24/7 & gratuíto."
 CONTACT_US_SUPPORT_DEVELOPER_PAGE_LINK: "Visite nossa página para Desenvolvedores"
 
-CONTACT_US_SUPPORT_EMAIL: "Entre em contato por email: "
-CONTACT_US_SUPPORT_EMAIL_VALUE: "dev@tago.io"
-CONTACT_US_SUPPORT_EMAIL_HREF: "mailto:dev@tago.io"
-CONTACT_US_SUPPORT_EMAIL_POINT: "."
-
-CONTACT_US_SUPPORT_SMS: "ou ligue para:"
+CONTACT_US_SUPPORT_SMS: "Ou ligue para:"
 CONTACT_US_SUPPORT_SMS_VALUE: "+1 (800) 607-7410"
 CONTACT_US_SUPPORT_SMS_HREF: "tel:8006077410"
 CONTACT_US_SUPPORT_SMS_POINT: "."
