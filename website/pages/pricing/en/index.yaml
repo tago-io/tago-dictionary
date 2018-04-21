@@ -90,7 +90,7 @@ USAGE_API_REQUESTS_UNIT: "1,000 requests"
 STORAGE_ONLINE_DATA: "Storage - Online Data"
 STORAGE_ONLINE_DATA_SPAN: "Online data is always available in buckets for visualization and data processing."
 STORAGE_ONLINE_DATA_COST: "$0.015"
-STORAGE_ONLINE_DATA_UNIT: "1,000 requests"
+STORAGE_ONLINE_DATA_UNIT: "1,000 registers"
 
 STORAGE_ONLINE_BACKUP: "Storage - Offline Backup"
 STORAGE_ONLINE_BACKUP_SPAN: "Backed up data is kept offline at lower cost."
