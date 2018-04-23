@@ -1,7 +1,7 @@
 ACCOUNT_SETTINGS: "Paramètres du compte"
 ACCOUNT_TYPE: "Type de compte"
 ALL_OTHER_EVENTS: "Tous les autres événements"
-ARE_YOU_SURE_YOU_WANT_CHANGE_YOUR_ACCOUNT: "Êtes-vous s?r de vouloir modifier votre compte pour"
+ARE_YOU_SURE_YOU_WANT_CHANGE_YOUR_ACCOUNT: "Êtes-vous sûr de vouloir modifier votre compte pour"
 CHANGE_YOUR_PASSWORD: "Changez votre mot de passe"
 CONFIRM_PASSWORD: "Confirmez le mot de passe"
 CONFIRM_YOUR_PASSWORD: "Confirmez votre mot de passe"
@@ -28,7 +28,7 @@ SHOW_NOTIFICATION_FROM: "Afficher la notification de"
 
 USAGE_STATISTICS: "Statistiques d'utilisation"
 USER_ONLY: "Seulement utilisateur"
-USER_REDUCE_VIEW: "Utilisateur (vue r?duite)"
+USER_REDUCE_VIEW: "Utilisateur (vue réduite)"
 USERS_MANAGEMENT: "Gestion des utilisateurs"
 TOKENS: "Jetons"
 
