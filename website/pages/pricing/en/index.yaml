@@ -40,7 +40,7 @@ API_REQUESTS_SPAN_SCALE_ENTERPRISE: "10,000 + / hour"
 CONFIGURABLE_MAX_REQUEST: "Configurable max request per device"
 
 DATA_RETENTION_CONTROL: "Data Retention Control"
-DATA_RETENTION_CONTROL_SPAN_FREE: "data is stored for 1 mo"
+DATA_RETENTION_CONTROL_SPAN_FREE: "data stored for 1 mo"
 
 AUTOMATIC_DATA_BACKUP: "Automatic Data Backup"
 
@@ -74,7 +74,7 @@ SERVICE_USAGE_DESCRIPTION: "Pay only for the services that you use. We don't cha
 
 
 SERVICE: "Service"
-COST: "Cost"
+COST: "Cost (USD)"
 UNIT: "Unit"
 
 ANALYSIS_RUNNING_SRIPTS: "Analysis (running scripts)"
@@ -83,14 +83,14 @@ ANALYSIS_RUNNING_SRIPTS_COST: "$0.100"
 ANALYSIS_RUNNING_SRIPTS_UNIT: "1,000 runs"
 
 USAGE_API_REQUESTS: "API Request"
-USAGE_API_REQUESTS_SPAN: "Any access done through API to POST/GET/DELET data"
+USAGE_API_REQUESTS_SPAN: "Any access done through API to POST/GET/DELETE data"
 USAGE_API_REQUESTS_COST: "$0.025"
 USAGE_API_REQUESTS_UNIT: "1,000 requests"
 
 STORAGE_ONLINE_DATA: "Storage - Online Data"
 STORAGE_ONLINE_DATA_SPAN: "Online data is always available in buckets for visualization and data processing."
 STORAGE_ONLINE_DATA_COST: "$0.015"
-STORAGE_ONLINE_DATA_UNIT: "1,000 requests"
+STORAGE_ONLINE_DATA_UNIT: "1,000 registers"
 
 STORAGE_ONLINE_BACKUP: "Storage - Offline Backup"
 STORAGE_ONLINE_BACKUP_SPAN: "Backed up data is kept offline at lower cost."
@@ -152,7 +152,7 @@ PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: "or about $0.35 / device / mo"
 FREQUENTLY_ASKED_QUESTIONS: "Frequently Asked Questions"
 
 PRICING_QUESTION1: "For what I will be charged for?"
-PRICING_RESPONSE1: "Different from other providers, Tago doesn't charge by the number devices, dashboards, or even users. Our model is based on the real usage of the services, or in other words the system charges by transactions, and by the tools that are made available for you depending on your plan.  So, the monthly bill will be a sum of the plan that you selected plus the real usage of the services. You can also include some add-ons, such as the support plans."
+PRICING_RESPONSE1: "Different from other providers, Tago doesn't charge by the number devices, dashboards, or even for end users. Our model is based on the real usage of the services, or in other words the system charges by transactions, and by the tools that are made available for you depending on your plan.  So, the monthly bill will be a sum of the plan that you selected plus the real usage of the services. You can also include some add-ons, such as the support plans."
 
 PRICING_QUESTION2: "What is the billing cycle of Tago?"
 PRICING_RESPONSE2: "Tago closes the billing period at midnight on the last day of each month. Invoices are generally available with the first four days of the month."

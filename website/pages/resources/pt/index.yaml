@@ -1,85 +1,58 @@
-RESOURCES_DEVELOPERS: "Developers"
-RESOURCES_DEVELOPERS_SUBTITLE: "Resources for you to develop your application on Tago"
+RESOURCES_DEVELOPERS: "Desenvolvedores"
+RESOURCES_DEVELOPERS_SUBTITLE: "Encontre aqui vários recursos para lhe ajudar a desenvolver sua aplicação com Tago."
 
-RESOURCES_DEVELOPERS_DOCUMENTATION: "Documentation"
-RESOURCES_DEVELOPERS_DOCUMENTATION_DESCRIPTION: "Access all documentation - from getting started to advanced features."
-RESOURCES_DEVELOPERS_DOCUMENTATION_LINK1: "Getting Started"
-RESOURCES_DEVELOPERS_DOCUMENTATION_LINK2: "Concepts"
-RESOURCES_DEVELOPERS_DOCUMENTATION_LINK3: "Tutorials"
+RESOURCES_DEVELOPERS_DOCUMENTATION: "Documentação"
+RESOURCES_DEVELOPERS_DOCUMENTATION_DESCRIPTION: "Acesse nossa documentação completa - do básico ao avançado."
+RESOURCES_DEVELOPERS_DOCUMENTATION_LINK1: "Comece aqui"
+RESOURCES_DEVELOPERS_DOCUMENTATION_LINK2: "Conceitos"
+RESOURCES_DEVELOPERS_DOCUMENTATION_LINK3: "Tutoriais"
 RESOURCES_DEVELOPERS_DOCUMENTATION_LINK4: "MQTT"
 
 RESOURCES_DEVELOPERS_SDK: "SDK"
-RESOURCES_DEVELOPERS_SDK_DESCRIPTION: "Develop faster using our SDK for the language your need."
+RESOURCES_DEVELOPERS_SDK_DESCRIPTION: "Desenvolva mais rapidamente usando nosso SDK para a linguagem que você precisar."
 RESOURCES_DEVELOPERS_SDK_LINK1: "NodeJS"
 RESOURCES_DEVELOPERS_SDK_LINK2: "Java"
 
 RESOURCES_DEVELOPERS_GITHUB: "Github"
-RESOURCES_DEVELOPERS_DESCRIPTION: "Access several libraries available on Github. Download, customize, and run them in your application."
-RESOURCES_DEVELOPERS_LINK1: "Repositories"
+RESOURCES_DEVELOPERS_DESCRIPTION: "Acesse nossas bibliotecas disponíveis no Github. Faça o download, customize, e rode os códigos em suas aplicaçoões."
+RESOURCES_DEVELOPERS_LINK1: "Repositórios"
 
-RESOURCES_DEVELOPERS_COMMUNITY: "Community"
-RESOURCES_DEVELOPERS_COMMUNITY_DESCRIPTION: "Join our Tago community on Slack to get help from anyone, including our developers."
+RESOURCES_DEVELOPERS_COMMUNITY: "Comunidade"
+RESOURCES_DEVELOPERS_COMMUNITY_DESCRIPTION: "Junte-se a comunidade Tago no Slack e ganhe acesso aos experts, incluindo nossos desenvolvedores."
 RESOURCES_DEVELOPERS_COMMUNITY_LINK1: "Slack"
 
 RESOURCES_DEVELOPERS_CHANGELOG: "Changelog"
-RESOURCES_DEVELOPERS_CHANGELOG_DESCRIPTION: "Don't miss the latest updates done in our back-end or front-end."
+RESOURCES_DEVELOPERS_CHANGELOG_DESCRIPTION: "Não perca o histórico de lançamento das mais recentes versões do nosso back-end e front-end."
 RESOURCES_DEVELOPERS_CHANGELOG_LINK1: "Back-end Changelog"
 RESOURCES_DEVELOPERS_CHANGELOG_LINK2: "Front-end Changelog"
 
-RESOURCES_DEVELOPERS_SYSTEM_STATUS: "System Status"
-RESOURCES_DEVELOPERS_SYSTEM_STATUS_DESCRIPTION: "Get updated status for all Tago services in real-time. Reports include uptime and average access time for Get and Post methods."
-RESOURCES_DEVELOPERS_SYSTEM_STATUS_LINK1: "System Status Report"
+RESOURCES_DEVELOPERS_SYSTEM_STATUS: "Status Operacional do Sistema"
+RESOURCES_DEVELOPERS_SYSTEM_STATUS_DESCRIPTION: "Acompanhe o status de todos os serviços da Tago em tempo-real. Os relatórios incluem uptime e o tempo de resposta para os métodos GET e POST."
+RESOURCES_DEVELOPERS_SYSTEM_STATUS_LINK1: "Relatório de Status"
 
-RESOURCES_PARTNERS: "Our Partners"
-RESOURCES_PARTNERS_DESCRIPTION: "Our partners can leverage their hardware, firmware, application, and network expertise to help you to create the best solution built on Tago platform"
+RESOURCES_PARTNERS: "Nossos Parceiros"
+RESOURCES_PARTNERS_DESCRIPTION: "Nossos parceiros trazem os melhores hardware, firmware, aplicaçoões, e experiência em conectividade para ajudar no desenvolvimento da sua solução usando a plataforma Tago"
 
-RESOURCES_VIDEOS: "Videos"
-RESOURCES_VIDEOS_DESCRIPTION: "Videos to help you build the best connected product"
+RESOURCES_VIDEOS: "Vídeos"
+RESOURCES_VIDEOS_DESCRIPTION: "Assista estes vídeos para lhe ajudar a construir a melhor solução conectada"
 
-RESOURCES_VIDEOS_VIDEO1: "Introducing to Tago Platform"
-RESOURCES_VIDEOS_VIDEO1_DESCRIPTION: "[Training] An overview of all the features offered by Tago to learn how to get started with our admin."
+RESOURCES_FAQ: "'FAQ' - Perguntas Frequentes"
+RESOURCES_FAQ_DESCRIPTION: "Se você ainda tiver mais dúvidas, estas FAQs poderão ajudar"
 
-RESOURCES_VIDEOS_VIDEO2: "Working with Buckets"
-RESOURCES_VIDEOS_VIDEO2_DESCRIPTION: "[Training] In this video we explain how to create and run your scripts on Tago."
+RESOURCES_FAQ_QUESTION1: "Quais são os navegadores que o Admin da Tago pode rodar?"
+RESOURCES_FAQ_ANSWER1: "O Admin da Tago é otimizado para Chrome (última versão), Firefox (última versão), Safari (última versão), Edge, e com algumas limitações, para o Internet Explorer 11. A Tago roda também nos navegadores de celulares Chrome para Android (última versão), e Safari para iOS (última versão)."
 
-RESOURCES_VIDEOS_VIDEO3: "Working with Analysis"
-RESOURCES_VIDEOS_VIDEO3_DESCRIPTION: "[Training] Learn how to work with buckets to store and share your data."
+RESOURCES_FAQ_QUESTION2: "Onde os meus dados são armazenados?"
+RESOURCES_FAQ_ANSWER2: "O banco de dados da Tago é localizado nos servidores dos Estados Unidos para a versão aberta da Tago. No caso da versão Enterprise+, o cliente pode rodar e manter os dados em qualquer região ou pais onde a AWS (Amazon Web Service) tiver servidores, tais como: Europa, Brasil, Australia, e outros países. Além disto, os usuários podem abaixar e remover os dados a qualquer momento e manter todos os dados localmente."
 
-RESOURCES_VIDEOS_VIDEO4: "Publishing to Tago using MQTT"
-RESOURCES_VIDEOS_VIDEO4_DESCRIPTION: "[Training] In this video you will learn how to connect to Tago and send data using MQTT."
+RESOURCES_FAQ_QUESTION3: "Como os meus clientes podem ter acesso as aplicações que eu desenvolver?"
+RESOURCES_FAQ_ANSWER3: "Você pode compartilhar manualmente, ou liberar a sua aplicação no 'Explore' da Tago. Além disto, existe a versão 'Whitelabel' que separa todos os usuários para serem visualizados somente por sua empresa, de modo que você terá controle e visão total sabendo quem acessa o que na sua aplicação."
 
-RESOURCES_VIDEOS_VIDEO5: "Building Dashboards with Shared Buckets"
-RESOURCES_VIDEOS_VIDEO5_DESCRIPTION: "[Training] Learn how to create a dashboard using shared data."
+RESOURCES_FAQ_QUESTION4: "Quais são as linguages disponíveis para o Admin da Tago?"
+RESOURCES_FAQ_ANSWER4: "A versão Desenvolvedor do Admin da Tago está totalmente em Ingles. Já a versão para usuário final (Modo reduzido) está disponível em Português, Ingles, Espanhol e Frances."
 
-RESOURCES_VIDEOS_VIDEO6: "Simulating Devices with Google Sheets"
-RESOURCES_VIDEOS_VIDEO6_DESCRIPTION: "[Training] Learn how to send data from google spreadsheets to Tago using analysis."
+RESOURCES_FAQ_QUESTION5: "Existe uma versão da Tago que possa ser instalada em meus próprios servidores?"
+RESOURCES_FAQ_ANSWER5: "A Tago roda em servidores na nuvem para obter a melhor garantia de redundância, tempo de acesso, qualidade de serviços e menor custo. No momento, ainda não oferecemos uma versão para instalação 'on-premises'"
 
-RESOURCES_VIDEOS_VIDEO7: "Creating Push Notifications"
-RESOURCES_VIDEOS_VIDEO7_DESCRIPTION: "[Training] Learn how to create push notifications using analysis."
-
-RESOURCES_VIDEOS_VIDEO8: "Creating a Microsoft Flow Connector"
-RESOURCES_VIDEOS_VIDEO8_DESCRIPTION: "[Training] Learn how to create a Microsoft Flow connector."
-
-RESOURCES_VIDEOS_VIDEO9: "Using Microsft Flow to monitor temperature"
-RESOURCES_VIDEOS_VIDEO9_DESCRIPTION: "[Training] Learn how to use Microsoft Flow to monitor temperature."
-
-RESOURCES_FAQ: "Frequently asked questions"
-RESOURCES_FAQ_DESCRIPTION: "If you need more information, these FAQs can help"
-
-RESOURCES_FAQ_QUESTION1: "Which web browser does Tago Admin work with?"
-RESOURCES_FAQ_ANSWER1: "Tago Admin is optimized for Chrome (latest version), Firefox (latest version), Safari (latest version), Edge, and with some limitations for Internet Explorer 11. Also, it works with Chrome on Android (latest version), and Safari on iOS (latest version)."
-
-RESOURCES_FAQ_QUESTION2: "Where is my data stored?"
-RESOURCES_FAQ_ANSWER2: "Tago database is located on servers in the United States. In case of customers in Europe or other continents, Tago may use servers in that regions upon request. Users always have the option to download all data to their own servers, and define the retention period that the data should be kept at Tago."
-
-RESOURCES_FAQ_QUESTION3: "How can I know which users are accessing my applications?"
-RESOURCES_FAQ_ANSWER3: "By using our Whitelabel edition, your applications and users will be separated to an area controlled by your master account. You will know who signed up, and will be able to grant or deny access to each one. This information will be available only for you."
-
-RESOURCES_FAQ_QUESTION4: "In what languages is Tago available?"
-RESOURCES_FAQ_ANSWER4: "Right now, Tago is fully supported in English. Soon, we will include Spanish, Portuguese and French."
-
-RESOURCES_FAQ_QUESTION5: "Is an on-premise version available?"
-RESOURCES_FAQ_ANSWER5: "Tago runs on cloud so that customers can get the best of redundancy, uptime with the minimum of overhead and costs. There is no on-premise version yet (for installation)."
-
-RESOURCES_FAQ_QUESTION6: "Is Tago HIPAA and FedRAMP compliant?"
-RESOURCES_FAQ_ANSWER6: "Our roadmap includes Tago certification for HIPPA (Health Insurance Portability and Accountability Act of 1996) and FedRAMP (Federal Risk and Authorization Management Program ). Contact us if any of these compliances are required for your project."
+RESOURCES_FAQ_QUESTION6: "A Tago está certificada para os padrões HIPAA ou FedRAMP?"
+RESOURCES_FAQ_ANSWER6: "Nosso planejamento inclue a certificação para HIPPA (Health Insurance Portability and Accountability Act of 1996) e FedRAMP (Federal Risk and Authorization Management Program ). Entre em contato se sua empresa precisar desta ou de qualquer outra certificação."

@@ -155,3 +155,8 @@ DETAIL_PARTNER25_FEATURE14: "Industrial Strength Plastic"
 DETAIL_PARTNER25_FEATURE15: "Embedded SIMs"
 DETAIL_PARTNER25_FEATURE16: "Free"
 DETAIL_PARTNER25_FEATURE17: "Data for Device Testing"
+
+DETAIL_PARTNER26_NAME: "DecentLab GmbH"
+DETAIL_PARTNER26_WEBSITE: "https://www.decentlab.com/products/"
+DETAIL_PARTNER26_DESCRIPTION1: "The main products include sensors and services based on LoRaWAN wireless communication technology that allow for continuous and cost-effective monitoring of physical characteristics in natural and artificially built environments. Decentlab has a range of products to standardise measurement and monitoring systems for controlled experiments and real-time monitoring. Some examples of sensors are: heat flux meter, photosynthetically Active Radiation, Sap flow, dendrometers, soil water, water level, conductivity, barometric, CO2, Displacement, air temperature, relative humidity, pressure and others. Decentlab’s devices have been engineered to support a wide range of sensors and can be adapted to be used in many applications."
+DETAIL_PARTNER26_PRODUCT1: "Air Monitor Sensor"
