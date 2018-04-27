@@ -25,7 +25,7 @@ GO_BEYOND_IOT_WITH_INTEGRATION_DESCRIPTION: "O Tago oferece APIs poderosas para 
 
 LEARN_ABOUT_OUR_PRODUCT: "Conheça nosso produto"
 
-OUR_CUSTOMERS: "Nossos Clientes"
+OUR_CUSTOMERS: "Companhias que já utilizam a Tago"
 
 OUR_CUSTOMERS_SAY_IT_BEST: "Depoimentos de nossos clientes"
 
@@ -40,4 +40,3 @@ ERIC_HOOG_DESCRIPTION: "Tago ajudou tremendamente no desenvolvimento de nossos p
 BRENT_WARD: "Brent Ward"
 BRENT_WARD_COMPANY: "VP Biz Dev, Device Solutions Inc"
 BRENT_WARD_DESCRIPTION: "A Tago tem sido fundamental no fornecimento de elementos críticos para nossa plataforma de Monitoramento/Controle Remoto Cellio IoT. A capacidade de rotular a sua hospedagem de dados, painéis, aplicativos móveis, alertas e notificações permitiu o desenvolvimento de uma solução completa e pronta para uso, que provou ser extremamente flexível, desejável e valiosa para nossos clientes corporativos."
-
