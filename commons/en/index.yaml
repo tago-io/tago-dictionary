@@ -81,6 +81,8 @@ TIMEZONE: "Timezone"
 THIS_FIELD_IS_REQUIRED: "This field is required"
 THIS_FIELD_REQUIRES_AT_LEAST_THREE_CHARACTERS: "This field requires at least 3 characters"
 
+UNDO: 'Undo'
+
 VALUE: "Value"
 VARIABLE: "Variable"
 

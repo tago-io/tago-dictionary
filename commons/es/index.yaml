@@ -81,6 +81,8 @@ TIMEZONE: "Zona horaria"
 THIS_FIELD_IS_REQUIRED: "Este campo es requerido"
 THIS_FIELD_REQUIRES_AT_LEAST_THREE_CHARACTERS: "Este campo requiere al menos 3 caracteres"
 
+UNDO: 'deshacer'
+
 VALUE: "Valor"
 VARIABLE: "Variable"
 

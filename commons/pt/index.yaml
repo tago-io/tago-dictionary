@@ -81,6 +81,8 @@ THIS_FIELD_IS_REQUIRED: "Esse campo é obrigatório"
 THIS_FIELD_REQUIRES_AT_LEAST_THREE_CHARACTERS: "Esse campo requer ao menos 3 letras"
 TIMEZONE: "Fuso horário"
 
+UNDO: 'Desfazer'
+
 VALUE: "Valor"
 VARIABLE: "Variável"
 

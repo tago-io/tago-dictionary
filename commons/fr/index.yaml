@@ -81,6 +81,8 @@ TIMEZONE: "Fuseau horaire"
 THIS_FIELD_IS_REQUIRED: "Ce domaine est requis"
 THIS_FIELD_REQUIRES_AT_LEAST_THREE_CHARACTERS: "Ce domaine nécessite au moins 3 caractères"
 
+UNDO: 'annuler le changement'
+
 VALUE: "Valeur"
 VARIABLE: "Variable"
 
