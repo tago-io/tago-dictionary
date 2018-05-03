@@ -1,3 +1,5 @@
+ACCOUNT_CREATED: "Compte créé"
+
 BY_CREATING_AN_ACCOUNT_YOU_AGREE_OUR: "En créant un compte, vous acceptez notre"
 COMPANY: "firme"
 FIRST_NAME: "prénom"
@@ -10,7 +12,11 @@ LAST_NAME: "Nom de famille"
 
 PASSWORD_MUST_CONTAIN_AT_LEAST_SIX_CHARACTERS: "Le mot de passe doit contenir au moins 6 caractères"
 
+RETURN_TO_LOGIN_PAGE: "Retour à la page de connexion"
+
 SIGN_IN_TO_YOUR_ACCOUNT: "Connectez-vous à votre compte"
 SIGN_UP: "S'inscrire"
 
 TERMS_AND_CONDITIONS: "Termes et conditions"
+
+WE_JUST_NEED_TO_CONFIRM_YOUR_EMAIL: "Nous avons juste besoin de confirmer votre e-mail. Vérifiez votre boîte e-mail pour plus de détails"
