@@ -43,8 +43,7 @@ class Dictionary {
 
     let text = this.data[key] || key;
     args.forEach((item, index) => {
-      text = text.replace(`$${index}$`,
-      );
+      text = text.replace(`$${index}$`, item);
     });
 
     const isTextFormated = text.indexOf('<b>') > -1;
