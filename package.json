@@ -13,7 +13,7 @@
   },
   "sasslintConfig": "./.scss-lint.yml",
   "devDependencies": {
-    "babel-eslint": "8.2.2",
+    "babel-eslint": "8.2.3",
     "babel-core": "^6.18.0",
     "babel-loader": "7.1.4",
     "babel-plugin-react-html-attrs": "2.1.0",
@@ -23,8 +23,8 @@
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-0": "6.24.1",
     "eslint": "4.19.1",
-    "eslint-plugin-import": "2.10.0",
-    "npm-check-updates": "2.14.1"
+    "eslint-plugin-import": "2.11.0",
+    "npm-check-updates": "2.14.2"
   },
   "dependencies": {
     "react": "^16.2.0"
