@@ -1,5 +1,3 @@
-import React from 'react';
-
 class Dictionary {
   constructor(path) {
     this.path = path;
