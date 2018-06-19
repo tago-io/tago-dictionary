@@ -7,7 +7,7 @@ class Dictionary {
     this.initialize = this.initialize.bind(this);
   }
 
-  static setLang (value) {
+  static setLang(value) {
     let language = value;
     if (value !== 'en' && value !== 'fr' && value !== 'es' && value !== 'pt') {
       language = 'en';
@@ -30,7 +30,7 @@ class Dictionary {
   build(p) {
     const currentLang = navigator.language || navigator.userLanguage;
     const langDefault = (currentLang || '').slice(0, 2).toLowerCase();
-    const data = require(`./${p}/${Dictionary.lang || langDefault}/index.yaml`);
+    const data = require(`./${p}/${Dictionary.lang || langDefault}/index.js`);
     return data;
   }
 
@@ -48,7 +48,7 @@ class Dictionary {
     if (!isTextFormated) {
       return text;
     }
-    return <span dangerouslySetInnerHTML={{__html: text }} />;
+    return <span dangerouslySetInnerHTML={{ __html: text }} />;
   }
 }
 
