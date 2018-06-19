@@ -44,11 +44,6 @@ class Dictionary {
       text = text.replace(`$${index}$`, item);
     });
 
-    const isTextFormated = text.indexOf('<b>') > -1;
-    if (!isTextFormated) {
-      return text;
-    }
-
     return text;
   }
 }
