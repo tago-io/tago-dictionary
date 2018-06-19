@@ -15,9 +15,14 @@ module.exports = {
   LOGIN_BTN_SIGNUP: 'Criar uma conta',
 
   SECTION_DASHBOARD: 'Painéis',
+  SECTION_DASHBOARD_INFO: 'Informações do Painel',
   SECTION_EXPLORE: 'Explore',
   SECTION_NOTIFICATION: 'Notificações',
   SECTION_SETTINGS: 'Configurações',
+  SECTION_SHAREPRIVATE: 'Compartilhamento',
+  SECTION_APPINFO: 'Aplicação',
+  SECTION_DEVICES: 'Dispositivos',
+
 
   SETTINGS_TOUCHID: 'Ativar TouchID',
   SETTINGS_NOTIFICATIONS: 'Notificações',
@@ -72,6 +77,7 @@ module.exports = {
   EXPLORER_BACKTOEXPLORE: 'Voltar para o Explore',
   EXPLORER_LOADING: 'Estamos trabalhando nisso...',
 
+  DASHBOARD_SHARE: 'Convidar',
   DASHBOARD_SHARE_ONEHOUR: 'Compartilhar por uma hora',
   DASHBOARD_SHARE_ENDDAY: 'Compartilhar até o final do dia',
   DASHBOARD_SHARE_INDEF: 'Compartilhar Indefinidamente',

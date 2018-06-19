@@ -15,9 +15,13 @@ module.exports = {
   LOGIN_BTN_SIGNUP: 'Create an Account',
 
   SECTION_DASHBOARD: 'Dashboards',
+  SECTION_DASHBOARD_INFO: 'Dashboard Information',
   SECTION_EXPLORE: 'Explore',
   SECTION_NOTIFICATION: 'Notifications',
   SECTION_SETTINGS: 'Settings',
+  SECTION_SHAREPRIVATE: 'Share Private',
+  SECTION_APPINFO: 'Application Information',
+  SECTION_DEVICES: 'Devices',
 
   SETTINGS_TOUCHID: 'Enable TouchID',
   SETTINGS_NOTIFICATIONS: 'Notifications',
@@ -72,6 +76,7 @@ module.exports = {
   EXPLORER_BACKTOEXPLORE: 'Back to Explore',
   EXPLORER_LOADING: 'We are working on it...',
 
+  DASHBOARD_SHARE: 'Share',
   DASHBOARD_SHARE_ONEHOUR: 'Share for One Hour',
   DASHBOARD_SHARE_ENDDAY: 'Share Until End of Day',
   DASHBOARD_SHARE_INDEF: 'Share Indefinitely',
