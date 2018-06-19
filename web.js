@@ -20,7 +20,7 @@ class Dictionary {
     if (Array.isArray(this.path)) {
       this.path.forEach((item) => {
         const values = this.build(item);
-        this.data = { ...this.data, ...values };
+        this.data = Object.assign({}, this.data, values);
       });
     } else {
       this.data = this.build(this.path);
@@ -48,7 +48,8 @@ class Dictionary {
     if (!isTextFormated) {
       return text;
     }
-    return <span dangerouslySetInnerHTML={{ __html: text }} />;
+
+    return text;
   }
 }
 
