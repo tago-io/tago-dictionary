@@ -1,0 +1,15 @@
+env:
+  browser: true
+  commonjs: true
+  es6: true
+extends:
+  - 'eslint:recommended'
+  - 'airbnb'
+parserOptions:
+  ecmaFeatures:
+    experimentalObjectRestSpread: true
+    jsx: false
+  sourceType: module
+rules:
+  camelcase: 0
+  'no-template-curly-in-string': 0
