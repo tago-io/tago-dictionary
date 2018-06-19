@@ -26,7 +26,6 @@ RECEIVE_NEWSLATTER: "Recevoir la newsletter"
 SAFARI_IE_NOT_SUPPORT_BROWSER_NOTIFICATION_SOUND: "Safari et IE ne prennent pas en charge la notification et le son du navigateur"
 SHOW_NOTIFICATION_FROM: "Afficher la notification de"
 
-USAGE_STATISTICS: "Statistiques d'utilisation"
 USER_ONLY: "Seulement utilisateur"
 USER_REDUCE_VIEW: "Utilisateur (vue réduite)"
 USERS_MANAGEMENT: "Gestion des utilisateurs"
