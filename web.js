@@ -10,12 +10,7 @@ class Dictionary {
   }
 
   static setLang (value) {
-    let language = value;
-    if (value !== 'en' && value !== 'fr' && value !== 'es' && value !== 'pt') {
-      language = 'en';
-    }
-
-    Dictionary.lang = language;
+    Dictionary.lang = value;
   }
 
   initialize() {
@@ -30,9 +25,17 @@ class Dictionary {
   }
 
   build(p) {
-    const currentLang = navigator.language || navigator.userLanguage;
-    const langDefault = (currentLang || '').slice(0, 2).toLowerCase();
-    const data = require(`./${p}/${Dictionary.lang || langDefault}/index.yaml`);
+    let currentLang = Dictionary.lang || navigator.language || navigator.userLanguage;
+    if (
+      currentLang !== 'en' &&
+      currentLang !== 'fr' &&
+      currentLang !== 'es' &&
+      currentLang !== 'pt') {
+      currentLang = 'en';
+    }
+
+    const langDefault = currentLang.slice(0, 2).toLowerCase();
+    const data = require(`./${p}/${langDefault}/index.yaml`);
     return data;
   }
 
