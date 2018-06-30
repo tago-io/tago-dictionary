@@ -49,7 +49,7 @@ RESOURCES_FAQ_QUESTION3: "How can I know which users are accessing my applicatio
 RESOURCES_FAQ_ANSWER3: "By using our Whitelabel edition, your applications and users will be separated to an area controlled by your master account. You will know who signed up, and will be able to grant or deny access to each one. This information will be available only for you."
 
 RESOURCES_FAQ_QUESTION4: "In what languages is Tago available?"
-RESOURCES_FAQ_ANSWER4: "Tago is fully supported in English for Developers. And for end users (User View) Tago is also available in Spanish, Portuguese and French."
+RESOURCES_FAQ_ANSWER4: "Tago is fully supported in English for Developers. And for end users (User View) Tago is also available in Spanish, Portuguese and French. Select the desired language in Account Settings > Visualization Preferences, under MyAccount option."
 
 RESOURCES_FAQ_QUESTION5: "Is an on-premises version available?"
 RESOURCES_FAQ_ANSWER5: "Tago runs on cloud so that customers can get the best of redundancy, uptime with the minimum of overhead and costs. There is no on-premises version yet (for installation)."
