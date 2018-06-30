@@ -1,6 +1,6 @@
 PRICING: "Planos"
-PRICING_DESCRIPTION1: "Tago pricing is based on the plan you select and the usage of services perfomed during a one-month period"
-PRICING_DESCRIPTION2: "We offer all the tools that you will need to build and manage the best application in your industry. Each of our plan is composed by a set of features suitable for different stages and sizes of your project"
+PRICING_DESCRIPTION1: "Tago pricing is based on the plan you select and the usage of services performed during a one-month period"
+PRICING_DESCRIPTION2: "We offer all the tools that you will need to build and manage the best application in your industry. Each one of our plans is composed by a set of features suitable for different stages and sizes of your project"
 
 FREE: "Free"
 FREE_VALUE: "0"
@@ -70,7 +70,7 @@ REALESE_SOLUTION_EXPLORE: "Release solution to Explore"
 WHITELABEL_VERSION: "WhiteLabel Version"
 
 SERVICE_USAGE: "Services Usage"
-SERVICE_USAGE_DESCRIPTION: "Pay only for the services that you use. We don't charge by the number of devices, dashboards or users that access your dashboards. Monthly bill is based on the number of transactions and data stored during the period."
+SERVICE_USAGE_DESCRIPTION: "Pay only for the services that you use. We don't charge by the number of devices, dashboards or users that access your dashboards. The monthly bill is based on the number of transactions and data stored during the period."
 
 
 SERVICE: "Service"
@@ -151,10 +151,10 @@ PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: "or about $0.35 / device / mo"
 
 FREQUENTLY_ASKED_QUESTIONS: "Frequently Asked Questions"
 
-PRICING_QUESTION1: "For what I will be charged for?"
-PRICING_RESPONSE1: "Different from other providers, Tago doesn't charge by the number devices, dashboards, or even for end users. Our model is based on the real usage of the services, or in other words the system charges by transactions, and by the tools that are made available for you depending on your plan.  So, the monthly bill will be a sum of the plan that you selected plus the real usage of the services. You can also include some add-ons, such as the support plans."
+PRICING_QUESTION1: "For what will I be charged for?"
+PRICING_RESPONSE1: "Different from other providers, Tago doesn't charge by the number of devices, dashboards, or even for end users. Our model is based on the real usage of the services, or in other words the system charges by transactions, and by the tools that are made available for you depending on your plan.  So, the monthly bill will be a sum of the plan that you selected plus the real usage of the services. You can also include some add-ons, such as the support plans."
 
-PRICING_QUESTION2: "What is the billing cycle of Tago?"
+PRICING_QUESTION2: "What is Tago's billing cycle?"
 PRICING_RESPONSE2: "Tago closes the billing period at midnight on the last day of each month. Invoices are generally available with the first four days of the month."
 
 PRICING_QUESTION3: "If I upgrade my plan, how will that be billed?"
@@ -166,7 +166,7 @@ PRICING_RESPONSE4: "Tago accepts most major credit cards for payment. In specifi
 PRICING_QUESTION5: "Do you save credit card details?"
 PRICING_RESPONSE5: "No. Your credit card details are not saved on our servers. In fact, all information goes directly from your computer to our payment service provider (Stripe)."
 
-PRICING_QUESTION6: "If I downgrade my plan, when will I see the change to be effective?"
+PRICING_QUESTION6: "If I downgrade my plan, when will the changes be put into effect?"
 PRICING_RESPONSE6: "We will downgrade you to the new selected plan at your next renewal date. Your subscription will remain active at its current level through the end of the billing period that you’ve already paid for."
 
 PRICING_QUESTION7: "If I downgrade to a free plan, what will happen with the data stored in my buckets?"
