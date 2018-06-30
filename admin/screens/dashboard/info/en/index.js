@@ -3,7 +3,7 @@ module.exports = {
   DASHBOARD_CREATED_USING_FREE_ACCOUNT: 'Dashboard created using a free account',
   EDIT_DASHBOARD: 'Edit dashboard',
   ENTER_FULL_SCREEN: 'Enter full screen',
-  EXIT_FULL_SCREEN: 'Exit full',
+  EXIT_FULL_SCREEN: 'Exit full screen',
   SHARE_DASHBOARD: 'Share dashboard',
   UPGRADE_PLAN: 'Upgrade plan',
   YOU_ARE_USING_FREE_ACCOUNT: 'You are using a free account',
