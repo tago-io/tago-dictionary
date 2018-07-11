@@ -1,30 +1,24 @@
-import React from 'react';
+function Dictionary (path) {
+  this.path = path;
+  this.data = {};
 
-class Dictionary {
-  constructor(path) {
-    this.path = path;
-    this.data = {};
+  /*
 
-    this.translate = this.translate.bind(this);
-    this.initialize = this.initialize.bind(this);
-  }
+  this.translate = this.translate.bind(this);
+  this.initialize = this.initialize.bind(this);
 
-  static setLang (value) {
-    Dictionary.lang = value;
-  }
-
-  initialize() {
+  this.initialize = function() {
     if (Array.isArray(this.path)) {
       this.path.forEach((item) => {
         const values = this.build(item);
-        this.data = { ...this.data, ...values };
+        this.data = Object.assign({}, this.data, values);
       });
     } else {
       this.data = this.build(this.path);
     }
   }
 
-  build(p) {
+    this.build = function(p) {
     let currentLang = Dictionary.lang || navigator.language || navigator.userLanguage;
     if (
       currentLang !== 'en' &&
@@ -35,11 +29,11 @@ class Dictionary {
     }
 
     const langDefault = currentLang.slice(0, 2).toLowerCase();
-    const data = require(`./${p}/${langDefault}/index.yaml`);
+    const data = require(`./${p}/${langDefault}/index`);
     return data;
   }
 
-  translate(key, ...args) {
+  this.translate = function(key, ...args) {
     if (!Object.keys(this.data).length) {
       this.initialize();
     }
@@ -49,12 +43,13 @@ class Dictionary {
       text = text.replace(`$${index}$`, item);
     });
 
-    const isTextFormated = text.indexOf('<b>') > -1;
-    if (!isTextFormated) {
-      return text;
-    }
-    return <span dangerouslySetInnerHTML={{__html: text }} />;
+    return text;
   }
+  */
+}
+
+Dictionary.setLang = function(value) {
+  Dictionary.lang = value;
 }
 
 module.exports = Dictionary;
