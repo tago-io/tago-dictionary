@@ -1,13 +1,17 @@
-function Dictionary (path) {
-  this.path = path;
-  this.data = {};
+class Dictionary {
+  constructor(path) {
+    this.path = path;
+    this.data = {};
 
-  /*
+    this.translate = this.translate.bind(this);
+    this.initialize = this.initialize.bind(this);
+  }
 
-  this.translate = this.translate.bind(this);
-  this.initialize = this.initialize.bind(this);
+  static setLang (value) {
+    Dictionary.lang = value;
+  }
 
-  this.initialize = function() {
+  initialize() {
     if (Array.isArray(this.path)) {
       this.path.forEach((item) => {
         const values = this.build(item);
@@ -18,7 +22,7 @@ function Dictionary (path) {
     }
   }
 
-    this.build = function(p) {
+  build(p) {
     let currentLang = Dictionary.lang || navigator.language || navigator.userLanguage;
     if (
       currentLang !== 'en' &&
@@ -33,7 +37,7 @@ function Dictionary (path) {
     return data;
   }
 
-  this.translate = function(key, ...args) {
+  translate(key, ...args) {
     if (!Object.keys(this.data).length) {
       this.initialize();
     }
@@ -45,11 +49,6 @@ function Dictionary (path) {
 
     return text;
   }
-  */
-}
-
-Dictionary.setLang = function(value) {
-  Dictionary.lang = value;
 }
 
 module.exports = Dictionary;
