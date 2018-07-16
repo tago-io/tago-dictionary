@@ -29,6 +29,10 @@ module.exports = {
   SETTINGS_KEEPAWAKE: 'Mantener Despierto',
   SETTINGS_LOGOUT: 'Cerrar sesión',
   SETTINGS_VERSION: 'Versión:',
+  SETTINGS_ARESURE: '¿Estás seguro?',
+  SETTINGS_DORELLY: '¿Realmente desea salir?',
+  SETTINGS_NO: 'No',
+  SETTINGS_YES: 'Si',
 
   NOTIFICATIONS_ACCEPTED: 'Aceptado',
   NOTIFICATIONS_DECLINED: 'Rechazado',
