@@ -11,8 +11,8 @@ module.exports = {
 
   LOGIN_EMAIL: 'Dirección E-mail',
   LOGIN_PASSWORD: 'Contraseña',
-  LOGIN_BTN_SIGNIN: 'iniciar Sesión',
-  LOGIN_BTN_SIGNUP: 'Crea una Cuenta',
+  LOGIN_BTN_SIGNIN: 'Iniciar sesión',
+  LOGIN_BTN_SIGNUP: 'Crea una cuenta',
 
   SECTION_DASHBOARD: 'Tableros',
   SECTION_DASHBOARD_INFO: 'Información del Tablero',
@@ -27,7 +27,7 @@ module.exports = {
   SETTINGS_NOTIFICATIONS: 'Notificaciones',
   SETTINGS_FULLSCREEN: 'Pantalla completa en horizoltal',
   SETTINGS_KEEPAWAKE: 'Mantener Despierto',
-  SETTINGS_LOGOUT: 'Cerrar Sesión',
+  SETTINGS_LOGOUT: 'Cerrar sesión',
   SETTINGS_VERSION: 'Versión:',
 
   NOTIFICATIONS_ACCEPTED: 'Aceptado',
