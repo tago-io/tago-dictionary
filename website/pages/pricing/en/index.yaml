@@ -148,7 +148,6 @@ PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES: "Total monthly charges:"
 PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE1: "Total monthly charges = Plan charges + Usage charges = $199 + $154.80 = $353.80"
 PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: "or about $0.35 / device / mo"
 
-
 FREQUENTLY_ASKED_QUESTIONS: "Frequently Asked Questions"
 
 PRICING_QUESTION1: "For what I will be charged for?"
@@ -174,3 +173,87 @@ PRICING_RESPONSE7: "First, your subscription will remain active at its current l
 
 PRICING_QUESTION8: "How is the Analysis Timeout defined?"
 PRICING_RESPONSE8: "When the Analysis runs your script, the execution time should be less than the Timeout defined for your plan. You can monitor the status using the Console feature."
+
+PRICING_ADDITIONAL_COAST: "Additional Coast"
+PRICING_ALL_FEATURES: "All features"
+PRICING_COLLAPSE_ALL: "Collapse All"
+PRICING_EXPAND_ALL: "Expand All"
+PRICING_NOT_INCLUDED: "Not Included"
+PRICING_SOME_FEATURES: "Some features"
+
+PRICING_MANAGE_DEVICES: "Manage Devices"
+PRICING_CONNECT_UNLIMITED_NUMBER_DEVICES: "Connect unlimited number of devices"
+PRICING_UP_TO: "up to"
+PRICING_TAGS_FOR_MANAGEMENT: "Tags for management"
+PRICING_NUMBER_API_REQUESTS_PER_HOUR: "Number of API requests per hour"
+
+PRICING_HELP_1: "We don't charge based on the number of devices connected. Each device receive a unique token to access your account."
+PRICING_HELP_2: "Manage all your devices using Tags to help to organize them by groups."
+PRICING_HELP_3: "Each time one device sends a package of data or does a read from the system it is counted as one API request."
+
+PRICING_CREATE_DASHBOARDS: "Create Dashboards"
+PRICING_BUILD_UNLIMITED_NUMBER_DASHBOARDS: "Build unlimited number of dashboards"
+PRICING_PREMIUM_WIDGETS: "Premium widgets"
+PRICING_EMBEDDED_WIDGETS: "Embedded widgets"
+
+PRICING_HELP_4: "Use our powerful and easy to use tools to build great ways to visualize data."
+PRICING_HELP_5: "Use advanced widgets that make easier for users to interact with your application."
+PRICING_HELP_6: "Embed widget on your website or portal. Scale version allows you to remove 'Power by Tago' water mark."
+
+PRICING_GO_MOBILE: "Go Mobile"
+PRICING_MOBILE_APP_ANDROIND_IOS: "Mobile app - Androind & iOS"
+
+PRICING_HELP_7: "Tago mobile is available for free to developers and final users to access their applications."
+
+PRICING_RUN_ANALYSIS_REAL_TIME: "Run Analysis in real-time"
+PRICING_RUN_SCRIPTS_ANALYZE_DATA: "Run scripts to analyze data"
+PRICING_RUN_MACHINE_LEARNING_REAL_TIME: "Run machine learning in real-time"
+
+PRICING_HELP_8: "Upload your own script into Tago's Analysis to process data in real-time."
+PRICING_HELP_9: "Talk to our technical support to use Machine Learning to make predictions that will bring additional value to your applications."
+
+PRICING_SHARE_YOUR_APPLICATION_AND_DATA: "Share your application and data"
+PRICING_NATIVE_SHARING_FOR_DASHBOARDS: "Native sharing for dashboards"
+PRICING_NATIVE_SHARING_FOR_DATA_BUCKETS: "Native sharing for data buckets"
+
+PRICING_HELP_10: "One-click sharing capability allows you share dashboards with anyone, publically or privately. Anyone without an existing Tago account will be prompted to sign up when you send them an invite."
+PRICING_HELP_11: "One-click sharing capability allows you share your data with anyone securely."
+
+PRICING_AUTOMATE_EXPAND_SOLUTIONS_WITH_INTEGRATION: "Automate and expand solutions with integration"
+PRICING_CONNECT_ANY_APP: "Connect to any app"
+PRICING_CONNECT_SIGFOX_LORAWAN: "Connect with Sigfox, LoRaWan..."
+PRICING_NATIVE_INTEGRATION_MICROSOFT_FLOW: "Native integration with Microsoft Flow"
+PRICING_NATIVE_INTEGRATION_CRM: "Native integration with CRM"
+PRICING_INTEGRATED_CUSTOMIZED_MIDDLEWARE: "Native integration with CRM"
+
+PRICING_HELP_12: "Connect external systems to Tago using our easy to use RESTfull API"
+PRICING_HELP_13: "Connect your device using our connector for Sigfox, LoRa providers and other network providers"
+PRICING_HELP_14: "Integrate your solution with Googlesheets, Excel, Zendesk, Twitter, and hundreds of services through Microsoft Flow"
+PRICING_HELP_15: "Indentify more sales opportunities by integrating your CRM with Tago"
+PRICING_HELP_16: "Tago can be connected to any protocol. Our middleware can convert from UDP, TCP/IP, or connect to several database formats."
+
+PRICING_SCALE_CONFIDENCE: "Scale with confidence"
+PRICING_MONITORING_EVERY_TRANSACTION_AUDIT_LOG: "Monitoring every transaction with Audit Log"
+PRICING_SRIPTS_THAT_GRANT_DIFFERENT_LEVELS_ACCESS: "Scripts that grant different levels of access"
+PRICING_ADD_USERS_MANAGE_ACCOUNT: "Add users to manage account"
+
+PRICING_HELP_17: "Our audit log will track what and who accessed your account, which kind of operations were done and when. Starter version offers some capabilities."
+PRICING_HELP_18: "New users will have access to your application based on the level you grant to them."
+PRICING_HELP_19: "We don't charge for final users, you can share your application with no cost for you or your customer. You can add more users to manage your account. One additional user for the Starter plan, and 10 for Scale."
+
+PRICING_BACK_UP_YOUR_DATA: "Back-up your data"
+PRICING_DOWNLOAD_YOUR_DATA: "Download your data"
+PRICING_DATA_RETENTION_POLICY: "Data retention policy"
+PRICING_LIMITED_30_DAYS: "limited to 30 days"
+PRICING_OFF_LINE_DATA_BACKUP_REDUCES_STORAGE_COST: "Off-line data backup reduces storage cost"
+
+PRICING_HELP_20: "Download your data in .csv, JSON, or XML format."
+PRICING_HELP_21: "You can determine how long online data should be kept in the data buckets."
+PRICING_HELP_22: "You can configure each data bucket to backed-up as need. Cost of off-line storage is a fraction of the on-line one."
+
+BRAND_ENGAGEMENT: "Brand engagement"
+ADD_YOUR_LOGO_YOUR_APPLICATION: "Add your logo in your application"
+WHITE_LABEL_VERSION: "White label version"
+
+PRICING_HELP_23: "Add logo using our image and video widgets in seconds"
+PRICING_HELP_24: "Add your own logo, colors, and url to engage customers with your brand. An add-ons is necessary."
