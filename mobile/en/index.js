@@ -29,6 +29,10 @@ module.exports = {
   SETTINGS_KEEPAWAKE: 'Keep Awake',
   SETTINGS_LOGOUT: 'Logout',
   SETTINGS_VERSION: 'Version:',
+  SETTINGS_ARESURE: 'Are you sure?',
+  SETTINGS_DORELLY: 'Do you really want to exit?',
+  SETTINGS_NO: 'No',
+  SETTINGS_YES: 'Yes',
 
   NOTIFICATIONS_ACCEPTED: 'Accepted',
   NOTIFICATIONS_DECLINED: 'Declined',

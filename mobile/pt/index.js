@@ -30,6 +30,10 @@ module.exports = {
   SETTINGS_KEEPAWAKE: 'Manter acordado',
   SETTINGS_LOGOUT: 'Sair',
   SETTINGS_VERSION: 'Versão:',
+  SETTINGS_ARESURE: 'Tem certeza?',
+  SETTINGS_DORELLY: 'Você realmente quer sair?',
+  SETTINGS_NO: 'Não',
+  SETTINGS_YES: 'Sim',
 
   NOTIFICATIONS_ACCEPTED: 'Aceito',
   NOTIFICATIONS_DECLINED: 'Recusou',
