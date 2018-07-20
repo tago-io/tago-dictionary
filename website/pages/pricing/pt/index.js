@@ -125,4 +125,88 @@ module.exports = {
   PRICING_RESPONSE7: 'First, your subscription will remain active at its current level through the end of the billing period that you’ve already paid for. Then, while in the free plan, our system will force the 30-days data retention policy - i.e. all data with timestamp older than that will be removed. So, we highly recommend that you plan this operation carefully to prevent undesired data lost.',
   PRICING_QUESTION8: 'How is the Analysis Timeout defined?',
   PRICING_RESPONSE8: 'When the Analysis runs your script, the execution time should be less than the Timeout defined for your plan. You can monitor the status using the Console feature.',
+
+  PRICING_ADDITIONAL_COAST: 'Custos adicionais',
+  PRICING_ALL_FEATURES: 'Todos recursos',
+  PRICING_COLLAPSE_ALL: 'Esconder todos',
+  PRICING_EXPAND_ALL: 'Mostrar todos',
+  PRICING_NOT_INCLUDED: 'Não inclúido',
+  PRICING_SOME_FEATURES: 'Alguns recursos',
+
+  PRICING_MANAGE_DEVICES: 'Gerencimanento de Dispositivos',
+  PRICING_CONNECT_UNLIMITED_NUMBER_DEVICES: 'Conecte ilimitados dispositivos',
+  PRICING_UP_TO: 'até',
+  PRICING_TAGS_FOR_MANAGEMENT: 'Tags para gerenciamento',
+  PRICING_NUMBER_API_REQUESTS_PER_HOUR: 'Número de requisições da api por hora',
+
+  PRICING_HELP_1: 'Não cobramos com base no número de dispositivos conectados. Cada dispositivo recebe um token exclusivo para acessar sua conta.',
+  PRICING_HELP_2: 'Gerencie todos os seus dispositivos usando Tags para ajudar a organizá-los por grupos.',
+  PRICING_HELP_3: 'Cada vez que um dispositivo envia um pacote de dados ou faz uma leitura do sistema, ele é contado como uma solicitação de API.',
+
+  PRICING_CREATE_DASHBOARDS: 'Criação de painéis',
+  PRICING_BUILD_UNLIMITED_NUMBER_DASHBOARDS: 'Número inlimitado de painéis',
+  PRICING_PREMIUM_WIDGETS: 'Premium widgets',
+  PRICING_EMBEDDED_WIDGETS: 'Embedded widgets',
+
+  PRICING_HELP_4: 'Use nossas ferramentas poderosas e fáceis de usar para criar ótimas maneiras de visualizar dados.',
+  PRICING_HELP_5: 'Utilize widgets avançados que facilitam a interação dos usuários com seu aplicativo.',
+  PRICING_HELP_6: "Adicione widgets no seu site ou portal. A versão em scale permite remover a marca d'água 'Power by Tago'.",
+
+  PRICING_GO_MOBILE: 'Utilização no celular',
+  PRICING_MOBILE_APP_ANDROIND_IOS: 'Aplicação para celular - Androind & iOS',
+
+  PRICING_HELP_7: 'Tago mobile está disponível gratuitamente para desenvolvedores e usuários finais para acessar suas aplicações.',
+
+  PRICING_RUN_ANALYSIS_REAL_TIME: 'Execução de análises em tempo real',
+  PRICING_RUN_SCRIPTS_ANALYZE_DATA: 'Execução de scripts para analisar dados',
+  PRICING_RUN_MACHINE_LEARNING_REAL_TIME: 'Execução machine learning em tempo real',
+
+  PRICING_HELP_8: 'Faça o upload do seu próprio script na Análise da Tago para processar dados em tempo real.',
+  PRICING_HELP_9: 'Fale com nosso suporte técnico para usar o Machine Learning para fazer previsões que trarão valor adicional aos suas aplicações.',
+
+  PRICING_SHARE_YOUR_APPLICATION_AND_DATA: 'Comatilhamento aplicação e seus dados',
+  PRICING_NATIVE_SHARING_FOR_DASHBOARDS: 'Compartilhamento nativo de painéis',
+  PRICING_NATIVE_SHARING_FOR_DATA_BUCKETS: 'Compartilhamento nativo de um buckets',
+
+  PRICING_HELP_10: 'O recurso de compartilhamento com um clique permite compartilhar painéis com qualquer pessoa, pública ou privada. Qualquer pessoa sem uma conta existente do Tango será solicitada a se inscrever quando você enviar um convite.',
+  PRICING_HELP_11: 'O recurso de compartilhamento com um clique permite compartilhar seus dados com qualquer pessoa com segurança.',
+
+  PRICING_AUTOMATE_EXPAND_SOLUTIONS_WITH_INTEGRATION: 'Automatize e expanda soluções com integração',
+  PRICING_CONNECT_ANY_APP: 'Conecte-se a qualquer aplicativo',
+  PRICING_CONNECT_SIGFOX_LORAWAN: 'Conecte-se com Sigfox, LoRaWan...',
+  PRICING_NATIVE_INTEGRATION_MICROSOFT_FLOW: 'Integração nativa com Microsoft Flow',
+  PRICING_NATIVE_INTEGRATION_CRM: 'Integração nativa com CRM',
+  PRICING_INTEGRATED_CUSTOMIZED_MIDDLEWARE: 'Integrado com middleware customizado',
+
+  PRICING_HELP_12: 'Conecte sistemas externos a Tago usando nossa API RESTful fácil de usar',
+  PRICING_HELP_13: 'Conecte seu dispositivo usando nosso conector para Sigfox, provedores LoRa e outros provedores de rede',
+  PRICING_HELP_14: 'Integre sua solução com Googlesheets, Excel, Zendesk, Twitter e centenas de serviços por meio do Microsoft Flow',
+  PRICING_HELP_15: 'Identifique mais oportunidades de vendas integrando seu CRM com a Tago',
+  PRICING_HELP_16: 'O Tago pode ser conectada a qualquer protocolo. Nosso middleware pode converter de UDP, TCP/IP ou conectar-se a vários formatos de banco de dados.',
+
+  PRICING_SCALE_CONFIDENCE: 'Scale with confidence',
+  PRICING_MONITORING_EVERY_TRANSACTION_AUDIT_LOG: 'Monitore todas as transações com Log de Auditoria',
+  PRICING_SRIPTS_THAT_GRANT_DIFFERENT_LEVELS_ACCESS: 'Scripts concedem diferentes níveis de acesso',
+  PRICING_ADD_USERS_MANAGE_ACCOUNT: 'Adicione usuários para gerenciar sua conta',
+
+  PRICING_HELP_17: 'Nosso registro de auditoria irá acompanhar o que e quem acessou sua conta, que tipo de operações foram feitas e quando. A versão inicial oferece alguns recursos.',
+  PRICING_HELP_18: 'Novos usuários terão acesso ao seu aplicativo com base no nível que você conceder a eles.',
+  PRICING_HELP_19: 'Não cobramos pelos usuários finais, você pode compartilhar seu aplicativo sem nenhum custo para você ou seu cliente. Você pode adicionar mais usuários para gerenciar sua conta. Um usuário adicional para o plano Starter e 10 para Scale',
+
+  PRICING_BACK_UP_YOUR_DATA: 'Faça backup de seus dados',
+  PRICING_DOWNLOAD_YOUR_DATA: 'Baixe seus dados',
+  PRICING_DATA_RETENTION_POLICY: 'Política de retenção de dados',
+  PRICING_LIMITED_30_DAYS: 'limitado a 30 dias',
+  PRICING_OFF_LINE_DATA_BACKUP_REDUCES_STORAGE_COST: 'Backup de dados off-line reduz o custo de armazenamento',
+
+  PRICING_HELP_20: 'Faça o download de seus dados no formato .csv, JSON ou XML.',
+  PRICING_HELP_21: 'Você pode determinar por quanto tempo os dados on-line devem ser mantidos.',
+  PRICING_HELP_22: 'Você pode configurar cada depósito de dados para backup conforme necessário. Custo de armazenamento off-line é uma fração do custo on-line.',
+
+  BRAND_ENGAGEMENT: 'Engajamento da marca',
+  ADD_YOUR_LOGO_YOUR_APPLICATION: 'Adicione seu logotipo na aplicação',
+  WHITE_LABEL_VERSION: 'Versão white label',
+
+  PRICING_HELP_23: 'Adicione o logotipo usando nossos widgets de imagem e vídeo em segundos',
+  PRICING_HELP_24: 'Adicione seu próprio logotipo, cores e URL para engajar os clientes com sua marca. Um add-ons é necessário.',
 };
