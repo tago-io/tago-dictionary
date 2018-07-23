@@ -126,7 +126,7 @@ module.exports = {
   PRICING_QUESTION8: 'How is the Analysis Timeout defined?',
   PRICING_RESPONSE8: 'When the Analysis runs your script, the execution time should be less than the Timeout defined for your plan. You can monitor the status using the Console feature.',
 
-  PRICING_ADDITIONAL_COAST: 'Additional Coast',
+  PRICING_ADDITIONAL_COAST: 'Additional Cost',
   PRICING_ALL_FEATURES: 'All features',
   PRICING_COLLAPSE_ALL: 'Collapse All',
   PRICING_EXPAND_ALL: 'Expand All',
@@ -208,5 +208,20 @@ module.exports = {
   WHITE_LABEL_VERSION: 'White label version',
 
   PRICING_HELP_23: 'Add logo using our image and video widgets in seconds',
-  PRICING_HELP_24: 'Add your own logo, colors, and url to engage customers with your brand. An add-ons is necessary.'
-};
+  PRICING_HELP_24: 'Add your own logo, colors, and url to engage customers with your brand. An add-ons is necessary.',
+
+  PRICING_SERVICES_MAXIMUM_INPUT_PER_HOUR: 'Maximum input per hour',
+  PRICING_SERVICES_MAXIMUM_OUTPUT_PER_HOUR: 'Maximum output per hour',
+  PRICING_SERVICES_TOTAL_NUMBER_OF_REGISTERS: 'Total number of registers',
+  PRICING_SERVICES_MAXIMUM_RUN_PER_HOUR: 'Maximum run per hour',
+  PRICING_SERVICES_MAXIMUM_PER_MONTH: 'Maximum per month',
+
+  PRICING_SERVICES_DATA_INPUT_TRANSACTIONS: 'Data Input Transactions',
+  PRICING_SERVICES_DATA_OUTPUT_TRANSACTIONS: 'Data Output Transactions',
+  PRICING_SERVICES_ANALYSIS_RUNS: 'Analysis Runs',
+  PRICING_SERVICES_DATA_REGISTERS_STORED: 'Data Registers Stored',
+  PRICING_SERVICES_SMS_SENT: 'SMS Sent',
+  PRICING_SERVICES_E_MAIL_SENT: 'E-Mail Sent',
+  PRICING_SERVICES_USAGE_ALLOC: 'Services Usage Allocation​',
+  PRICING_SERVICES_USAGE_LOCATION_DESC: '',
+}
