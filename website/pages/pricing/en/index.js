@@ -150,10 +150,10 @@ module.exports = {
 
   PRICING_HELP_4: 'Use our powerful and easy to use tools to build great ways to visualize data.',
   PRICING_HELP_5: 'Use advanced widgets that make easier for users to interact with your application.',
-  PRICING_HELP_6: "Embed widget on your website or portal. Scale version allows you to remove 'Power by Tago' water mark.",
+  PRICING_HELP_6: "Embed widget on your own website. Scale Plan allows you to remove 'Runs on Tago' water mark.",
 
   PRICING_GO_MOBILE: 'Go Mobile',
-  PRICING_MOBILE_APP_ANDROIND_IOS: 'Mobile app - Androind & iOS',
+  PRICING_MOBILE_APP_ANDROIND_IOS: 'Mobile app - Android & iOS',
 
   PRICING_HELP_7: 'Tago mobile is available for free to developers and final users to access their applications.',
 
