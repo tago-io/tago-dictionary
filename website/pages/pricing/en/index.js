@@ -185,9 +185,9 @@ module.exports = {
   PRICING_HELP_16: 'Tago can be connected to any protocol. Our middleware can convert from UDP, TCP/IP, or connect to several database formats.',
 
   PRICING_SCALE_CONFIDENCE: 'Scale with confidence',
-  PRICING_MONITORING_EVERY_TRANSACTION_AUDIT_LOG: 'Monitoring every transaction with Audit Log',
-  PRICING_SRIPTS_THAT_GRANT_DIFFERENT_LEVELS_ACCESS: 'Scripts that grant different levels of access',
-  PRICING_ADD_USERS_MANAGE_ACCOUNT: 'Add users to manage account',
+  PRICING_MONITORING_EVERY_TRANSACTION_AUDIT_LOG: 'Monitore all transactions with Audit Log',
+  PRICING_SRIPTS_THAT_GRANT_DIFFERENT_LEVELS_ACCESS: 'Grant different levels of access for users',
+  PRICING_ADD_USERS_MANAGE_ACCOUNT: 'Manage more users in your account',
 
   PRICING_HELP_17: 'Audit Log tracks all operations executed and who accessed your account. Starter Plan offers some capabilities.',
   PRICING_HELP_18: 'Users access your application based on the level you grant to them.',
