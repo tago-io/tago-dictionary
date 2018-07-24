@@ -14,7 +14,7 @@ function Dictionary (path) {
   }
 
   this.build = function(p) {
-    let currentLang = Dictionary.lang || navigator.language || navigator.userLanguage;
+    var currentLang = Dictionary.lang || navigator.language || navigator.userLanguage;
     if (
       currentLang !== 'en' &&
       currentLang !== 'fr' &&
