@@ -43,8 +43,6 @@ module.exports = {
   CUSTOMIZED_MIDDLEWARE_FOR_ANY_DEVICE: 'Customized Middleware for any device',
   REALESE_SOLUTION_EXPLORE: 'Release solution to Explore',
   WHITELABEL_VERSION: 'WhiteLabel Version',
-  SERVICE_USAGE: 'Services Usage',
-  SERVICE_USAGE_DESCRIPTION: "You pay only for the services that you provision for the month. We don't charge by devices, dashboards or users that access your dashboards. Estimate your monthly cost using the setting bars based on your expected usage.",
   SERVICE: 'Service',
   COST: 'Cost (USD)',
   UNIT: 'Unit',
@@ -223,4 +221,5 @@ module.exports = {
   PRICING_SERVICES_SMS_SENT: 'SMS',
   PRICING_SERVICES_E_MAIL_SENT: 'E-Mail',
   PRICING_SERVICES_USAGE_ALLOC: 'Flexible and Affordable Prices​',
+  PRICING_SERVICES_USAGE_LOCATION_DESC: "You pay only for the services that you provision for the month. We don't charge by devices, dashboards or users that access your dashboards. Estimate your monthly cost using the setting bars based on your expected usage.",
 };
