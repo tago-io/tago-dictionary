@@ -1,6 +1,6 @@
 module.exports = {
   VISIT_THIS_DEMO_NOW: 'Veja o demo agora',
-  PER_MONTH: '/mes',
+  PER_MONTH: 'mes',
   GO_TO_DOCUMENTATION: 'Vá para a documentação',
   VIDEO: 'Video',
   FEATURES_UNLIMITED: 'Ilimitado',

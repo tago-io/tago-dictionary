@@ -135,7 +135,6 @@ module.exports = {
   PRICING_CONNECT_UNLIMITED_NUMBER_DEVICES: 'Connect unlimited number of devices',
   PRICING_UP_TO: 'up to',
   PRICING_TAGS_FOR_MANAGEMENT: 'Tags for management',
-  PRICING_NUMBER_API_REQUESTS_PER_HOUR: 'Maximum Data Input Transactions per hour',
 
   PRICING_HELP_1: "We don't charge based on the number of devices connected. Each device receives a unique token.",
   PRICING_HELP_2: 'Organize all your devices by groups using Tags.',
@@ -196,6 +195,8 @@ module.exports = {
   PRICING_DATA_RETENTION_POLICY: 'Data retention policy',
   PRICING_LIMITED_30_DAYS: 'limited to 30 days',
   PRICING_OFF_LINE_DATA_BACKUP_REDUCES_STORAGE_COST: 'Off-line data backup reduces storage cost',
+  PRICING_MAXIMUM_OUTPUT_DATA_TRANSACTIONS_PER_HOUR: 'Maximum Output Data Transactions per hour',
+  PRICING_MAXIMUM_INPUT_DATA_TRANSACTIONS_PER_HOUR: 'Maximum Input data transactions per hour',
 
   PRICING_HELP_20: 'Download your data in .csv, JSON, or XML formats.',
   PRICING_HELP_21: 'Define how long your data should be kept.',
