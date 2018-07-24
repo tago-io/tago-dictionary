@@ -23,8 +23,6 @@ function Dictionary (path) {
       currentLang = 'en';
     }
 
-    currentLang = 'pt';
-
     const langDefault = currentLang.slice(0, 2).toLowerCase();
     const data = require('./' + p + '/' + langDefault + '/index');
     return data;
