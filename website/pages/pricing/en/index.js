@@ -223,4 +223,10 @@ module.exports = {
   PRICING_SERVICES_E_MAIL_SENT: 'E-Mail',
   PRICING_SERVICES_USAGE_ALLOC: 'Flexible and Affordable Pricing​',
   PRICING_SERVICES_USAGE_LOCATION_DESC: "You only pay for the services you selected. We don't charge by devices, dashboards or users that access your dashboards. Estimate your monthly cost using the setting bars based on the expected usage.",
+
+  PRICING_FOR_DEVELOPERS_STUDENTS: 'For developers and students starting with TagoIO',
+  PRICING_FOR_DEVELOPERS_BUSINESSES: 'For developers and businesses preparing to release applications',
+  PRICING_FOR_BUSINESSES_READY_TO_SCALE: 'For businesses ready to scale up applications and optimize their operations',
+
+  PRICING_ESTIMATED_MONTHLY_COST: 'Estimated monthly cost',
 };
