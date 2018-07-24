@@ -91,7 +91,7 @@ module.exports = {
   PRICING_EXAMPLE_1_MONTHLY_SERVICE_CHARGES_VALUE2: 'or about $0.09 / device / mo',
   PRICING_EXAMPLE_2: 'Pricing Example 2',
   PRICING_EXAMPLE_2_DESCRIPTION1: 'If you selected the Starter Plan, added 1,000 devices that sends a package of 4 variables at every 1 hour each.',
-  PRICING_EXAMPLE_2_DESCRIPTION2: 'In addition, you setup the Analysis to execute a script each time a data package arrives. In this case, devices should enable the 'Action' verification that will trigger the Analysis (adding one transaction per register that arrives).  Your charges would be estimated as follows:',
+  PRICING_EXAMPLE_2_DESCRIPTION2: 'In addition, you setup the Analysis to execute a script each time a data package arrives. In this case, devices should enable the \'Action\' verification that will trigger the Analysis (adding one transaction per register that arrives).  Your charges would be estimated as follows:',
   PRICING_EXAMPLE_2_MONTHLY_PLAN: 'Monthly Plan:',
   PRICING_EXAMPLE_2_MONTHLY_PLAN_VALUE: 'Scale $49',
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE: 'Monthly Services:',
@@ -223,5 +223,4 @@ module.exports = {
   PRICING_SERVICES_SMS_SENT: 'SMS',
   PRICING_SERVICES_E_MAIL_SENT: 'E-Mail',
   PRICING_SERVICES_USAGE_ALLOC: 'Flexible and Affordable Prices​',
-  PRICING_SERVICES_USAGE_LOCATION_DESC: '',
-}
+};
