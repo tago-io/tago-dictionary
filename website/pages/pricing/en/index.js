@@ -198,7 +198,7 @@ module.exports = {
   PRICING_OFF_LINE_DATA_BACKUP_REDUCES_STORAGE_COST: 'Off-line data backup reduces storage cost',
 
   PRICING_HELP_20: 'Download your data in .csv, JSON, or XML formats.',
-  PRICING_HELP_21: 'Define how long your online data should be kept in the data buckets.',
+  PRICING_HELP_21: 'Define how long your data should be kept.',
   PRICING_HELP_22: 'Configure data buckets to back-up as needed.',
 
   BRAND_ENGAGEMENT: 'Brand engagement',
