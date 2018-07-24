@@ -104,7 +104,7 @@ module.exports = {
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE_VALUE9: 'Monthly cost for Services = $20 + $40 + $55 = $115',
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE_VALUE10: '',
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES: 'Total monthly charges:',
-  PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE1: 'Estimated monthly charges = Plan + Services charges = $49 + $115 = $165',
+  PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE1: 'Estimated monthly charges = Plan + Services charges = $49 + $115 = $164',
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: 'or about $0.16 /device',
   FREQUENTLY_ASKED_QUESTIONS: 'Frequently Asked Questions',
   PRICING_QUESTION1: 'For what will I be charged for?',
@@ -190,7 +190,7 @@ module.exports = {
   PRICING_HELP_18: 'Users access your application based on the level you grant to them.',
   PRICING_HELP_19: "We don't charge for final users, you can share your application at no cost. Add users to manage your account. One additional user for the Starter plan, and 10 for Scale.",
 
-  PRICING_BACK_UP_YOUR_DATA: 'Back up your data',
+  PRICING_BACK_UP_YOUR_DATA: 'Manage your data',
   PRICING_DOWNLOAD_YOUR_DATA: 'Easy data downloading',
   PRICING_DATA_RETENTION_POLICY: 'Data retention policy',
   PRICING_LIMITED_30_DAYS: 'limited to 30 days',
