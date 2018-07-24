@@ -15,6 +15,8 @@ function Dictionary (path) {
 
   this.build = function(p) {
     var currentLang = Dictionary.lang || navigator.language || navigator.userLanguage;
+    currentLang = String(currentLang).slice(0, 2);
+
     if (
       currentLang !== 'en' &&
       currentLang !== 'fr' &&
