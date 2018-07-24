@@ -1,7 +1,7 @@
 module.exports = {
   PRICING: 'Planos',
   PRICING_DESCRIPTION1: 'TagoIO pricing is flexible and based on the Plan and Services provisioned for your application',
-  PRICING_DESCRIPTION2: 'Choose the plan most suitable for the stage and size of your project',
+  PRICING_DESCRIPTION2: 'Choose the most suitable options for the stage and size of your project',
   FREE: 'Free',
   FREE_VALUE: '0',
   STARTER: 'Starter',
