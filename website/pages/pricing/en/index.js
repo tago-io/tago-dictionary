@@ -220,6 +220,6 @@ module.exports = {
   PRICING_SERVICES_DATA_REGISTERS_STORED: 'Registers Storage',
   PRICING_SERVICES_SMS_SENT: 'SMS',
   PRICING_SERVICES_E_MAIL_SENT: 'E-Mail',
-  PRICING_SERVICES_USAGE_ALLOC: 'Flexible and Affordable Prices​',
-  PRICING_SERVICES_USAGE_LOCATION_DESC: "You pay only for the services that you provision for the month. We don't charge by devices, dashboards or users that access your dashboards. Estimate your monthly cost using the setting bars based on your expected usage.",
+  PRICING_SERVICES_USAGE_ALLOC: 'Flexible and Affordable Pricing​',
+  PRICING_SERVICES_USAGE_LOCATION_DESC: "You only pay for the services you selected. We don't charge by devices, dashboards or users that access your dashboards. Estimate your monthly cost using the setting bars based on the expected usage.",
 };
