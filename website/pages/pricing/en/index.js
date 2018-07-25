@@ -155,8 +155,8 @@ module.exports = {
   PRICING_HELP_7: 'TagoIO mobile App is available for free to all users.',
 
   PRICING_RUN_ANALYSIS_REAL_TIME: 'Run Analysis in real-time',
-  PRICING_RUN_SCRIPTS_ANALYZE_DATA: 'Run scripts to analyze data',
-  PRICING_RUN_MACHINE_LEARNING_REAL_TIME: 'Run machine learning in real-time',
+  PRICING_RUN_SCRIPTS_ANALYZE_DATA: 'Run scripts to analyze data *',
+  PRICING_RUN_MACHINE_LEARNING_REAL_TIME: 'Run machine learning in real-time *',
 
   PRICING_HELP_8: "Build and run scripts on TagoIO to process data in real-time.",
   PRICING_HELP_9: 'Talk to our technical support about how to use Machine Learning in your application.',
@@ -192,11 +192,11 @@ module.exports = {
 
   PRICING_BACK_UP_YOUR_DATA: 'Manage your data',
   PRICING_DOWNLOAD_YOUR_DATA: 'Easy data downloading',
-  PRICING_DATA_RETENTION_POLICY: 'Data retention policy',
+  PRICING_DATA_RETENTION_POLICY: 'Fast Data Storage for registers *',
   PRICING_LIMITED_30_DAYS: 'limited to 30 days',
   PRICING_OFF_LINE_DATA_BACKUP_REDUCES_STORAGE_COST: 'Off-line data backup reduces storage cost',
-  PRICING_MAXIMUM_OUTPUT_DATA_TRANSACTIONS_PER_HOUR: 'Maximum Output Data Transactions per hour',
-  PRICING_MAXIMUM_INPUT_DATA_TRANSACTIONS_PER_HOUR: 'Maximum Input data transactions per hour',
+  PRICING_MAXIMUM_OUTPUT_DATA_TRANSACTIONS_PER_HOUR: 'High rate of Output Data Transactions per hour *',
+  PRICING_MAXIMUM_INPUT_DATA_TRANSACTIONS_PER_HOUR: 'High rate of Input Data transactions per hour *',
 
   PRICING_HELP_20: 'Download your data in .csv, JSON, or XML formats.',
   PRICING_HELP_21: 'Define how long your data should be kept.',
