@@ -231,4 +231,6 @@ module.exports = {
   PRICING_FOR_BUSINESSES_READY_TO_SCALE: 'Para empresas prontas para ampliar aplicativos e otimizar suas operações',
 
   PRICING_ESTIMATED_MONTHLY_COST: 'Estimativa do custo mensal',
+  PRICING_THIS_IS_PART_OF_SERVICES: 'O plano faz parte dos Serviços e precisa ser selecionado para o período (consulte os preços abaixo para um período de provisionamento de um mês)',
+  PRICING_THIS_PAGE_IS_PROVIDED: 'Esta página é fornecida apenas para fins informativos e não tem garantia de estar livre de erros, nem está sujeita a quaisquer outras garantias.',
 };

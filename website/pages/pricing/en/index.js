@@ -229,4 +229,6 @@ module.exports = {
   PRICING_FOR_BUSINESSES_READY_TO_SCALE: 'For businesses ready to scale up applications and optimize their operations',
 
   PRICING_ESTIMATED_MONTHLY_COST: 'Estimated monthly cost',
+  PRICING_THIS_IS_PART_OF_SERVICES: 'This is part of Services and need to be selected for the period (see pricing below for one-month provisioning period)',
+  PRICING_THIS_PAGE_IS_PROVIDED: 'This page is provided for information purposes only and is not warranted to be error-free, nor is it subject to any other warranties.',
 };
