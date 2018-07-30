@@ -1,8 +1,8 @@
-function Dictionary (path) {
+function Dictionary(path, langs = ['en', 'fr', 'pt', 'es']) {
   var data = {};
   var self = this;
 
-  this.initialize = function() {
+  this.initialize = function () {
     if (Array.isArray(path)) {
       for (var i = 0; i < path.length; i++) {
         const values = self.build(path[i]);
@@ -13,16 +13,12 @@ function Dictionary (path) {
     }
   }
 
-  this.build = function(p) {
+  this.build = function (p) {
     var currentLang = Dictionary.lang || navigator.language || navigator.userLanguage;
     currentLang = String(currentLang).slice(0, 2);
 
-    if (
-      currentLang !== 'en' &&
-      currentLang !== 'fr' &&
-      currentLang !== 'es' &&
-      currentLang !== 'pt') {
-      currentLang = 'en';
+    if (!langs.includes(currentLang)) {
+      currentLang = 'en'
     }
 
     const langDefault = currentLang.slice(0, 2).toLowerCase();
@@ -30,7 +26,7 @@ function Dictionary (path) {
     return data;
   }
 
-  this.translate = function(key, args) {
+  this.translate = function (key, args) {
     if (!Object.keys(data).length) {
       self.initialize();
     }
@@ -45,7 +41,7 @@ function Dictionary (path) {
   }
 }
 
-Dictionary.setLang = function(value) {
+Dictionary.setLang = function (value) {
   Dictionary.lang = value;
 };
 
