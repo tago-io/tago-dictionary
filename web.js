@@ -1,4 +1,8 @@
-function Dictionary(path, langs = ['en', 'fr', 'pt', 'es']) {
+function Dictionary(path, langs) {
+  if (!langs) {
+    langs = ['en', 'fr', 'pt', 'es'];
+  }
+
   var data = {};
   var self = this;
 
