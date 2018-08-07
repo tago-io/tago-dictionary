@@ -222,7 +222,7 @@ module.exports = {
   PRICING_SERVICES_SMS_SENT: 'SMS',
   PRICING_SERVICES_E_MAIL_SENT: 'E-Mail',
   PRICING_SERVICES_USAGE_ALLOC: 'Flexible and Affordable Pricing​',
-  PRICING_SERVICES_USAGE_LOCATION_DESC: "You only pay for the services you selected. We don't charge by devices, dashboards or users that access your dashboards. Estimate your monthly cost using the setting bars based on the expected usage.",
+  PRICING_SERVICES_USAGE_LOCATION_DESC: "You only pay for the services you selected. We don't charge by devices, dashboards or users that access your dashboards. Estimate your monthly cost using the setting bars based on the expected usage, or use our Pricing Calculator below.",
 
   PRICING_FOR_DEVELOPERS_STUDENTS: 'For developers and students starting with TagoIO',
   PRICING_FOR_DEVELOPERS_BUSINESSES: 'For developers and businesses preparing to release applications',
@@ -232,7 +232,7 @@ module.exports = {
   PRICING_THIS_IS_PART_OF_SERVICES: 'This is part of Services and need to be selected for the period (see pricing below for one-month provisioning period)',
   PRICING_THIS_PAGE_IS_PROVIDED: 'This page is provided for information purposes only and is not warranted to be error-free, nor is it subject to any other warranties.',
 
-  PRICING_CALCULATOR: 'Pricing calculator',
+  PRICING_CALCULATOR: 'Pricing Calculator',
   PRICING_CALCULATOR_HMANYDE: 'How many devices?',
   PRICING_CALCULATOR_HMANYREG: 'How many registers sent per package?',
   PRICING_CALCULATOR_HOFTENDATA: 'How often will they send data?',
