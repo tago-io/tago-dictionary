@@ -252,5 +252,6 @@ module.exports = {
   PRICING_CALCULATOR_REGISTERS: 'Registers',
   PRICING_CALCULATOR_TALKSALES: 'Talk with Sales',
   PRICING_CALCULATOR_SHOWPRICES: 'Update Pricing Estimator',
-  PRICING_CALCULATOR_INFO: 'Use this calculator to estimate your monthly cost. A register is counted for each variable (e.g. temperature) and its metadata (e.g. gps location). For simplification, we assume that each time an Analysis runs it reads 10 registers for calculation, which means 10 Data Output transactions per Analysis runs, and that the data will be stored for one month. Click on Update Pricing Estimator button to update your monhthly cost. Learn more about how transactions for each Service is calculated here.',
+  PRICING_CALCULATOR_INFO: 'Use this calculator to estimate your monthly cost. A register is counted for each variable (e.g. temperature) and its metadata (e.g. gps location). For simplification, we assume that each time an Analysis runs it reads 10 registers for calculation, which means 10 Data Output transactions per Analysis runs, and that the data will be stored for one month. Click on Update Pricing Estimator button to update your monhthly cost. Learn more about how transactions for each Service is',
+  PRICING_CALCULATOR_LINK_INFO: 'calculated here',
 };
