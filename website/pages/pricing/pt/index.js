@@ -224,7 +224,7 @@ module.exports = {
   PRICING_SERVICES_E_MAIL_SENT: 'E-Mail',
 
   PRICING_SERVICES_USAGE_ALLOC: 'Preços flexíveis e acessíveis',
-  PRICING_SERVICES_USAGE_LOCATION_DESC: "Você paga apenas pelos serviços contratados. Não cobramos por dispositivos, painéis ou usuários que utilizam seus painéis. Estime seu custo mensal usando as barras de configuração com base no uso estimado.",
+  PRICING_SERVICES_USAGE_LOCATION_DESC: "Você paga apenas pelos serviços contratados. Não cobramos por dispositivos, painéis ou usuários que utilizam seus painéis. Estime seu custo mensal usando as barras de configuração com base no uso estimado ou usando nossa Calculadora abaixo.",
 
   PRICING_FOR_DEVELOPERS_STUDENTS: 'Para desenvolvedores e estudantes que começam com a TagoIO',
   PRICING_FOR_DEVELOPERS_BUSINESSES: 'Para desenvolvedores e empresas que estão se preparando para liberar aplicativos',
