@@ -234,7 +234,7 @@ module.exports = {
   PRICING_THIS_IS_PART_OF_SERVICES: 'O plano faz parte dos Serviços e precisa ser selecionado para o período (consulte os preços abaixo para um período de provisionamento de um mês)',
   PRICING_THIS_PAGE_IS_PROVIDED: 'Esta página é fornecida apenas para fins informativos e não tem garantia de estar livre de erros, nem está sujeita a quaisquer outras garantias.',
 
-  PRICING_CALCULATOR: 'Calculadora de Precos',
+  PRICING_CALCULATOR: 'Calculadora de Preços',
   PRICING_CALCULATOR_HMANYDE: 'Quantos dispositivos?',
   PRICING_CALCULATOR_HMANYREG: 'Quantos registros enviados por pacote?',
   PRICING_CALCULATOR_HOFTENDATA: 'Qual a frequência de envio de dados?',
@@ -253,6 +253,6 @@ module.exports = {
   PRICING_CALCULATOR_REGISTERS: 'Registros',
   PRICING_CALCULATOR_TALKSALES: 'Fale com Vendas',
   PRICING_CALCULATOR_SHOWPRICES: 'Atualize o Preço Estimado',
-  PRICING_CALCULATOR_INFO: 'Use nossa calculadora para estimar seu custo mensal. Um registro é contado para cada variável (ex. Temperatura) incluindo seu metadata (ex. localização). Para simplificar, assumimos que cada Analysis fará a leitura 10 registros por vez, o que significa que 10 Transaçoes de Data Output por Analysis. E também para o exemplo, o dado é mantido por 1 mês. Clique no botão Atualize o Preço Estimado para atualizar os cálculos. Leia mais sobre como as transações para cada serviços são',
+  PRICING_CALCULATOR_INFO: 'Use nossa calculadora para estimar seu custo mensal. Um registro é contado para cada variável (ex. Temperatura) incluindo seu metadata (ex. localização). Para simplificar, assumimos que cada Analysis fará a leitura de 10 registros por vez, o que significa 10 Transaçoes de Data Output por Analysis. E também para o exemplo os registros são mantidos por 1 mês. Clique no botão Atualize o Preço Estimado para atualizar os cálculos. Leia mais sobre como as transações de cada serviço são',
   PRICING_CALCULATOR_LINK_INFO: 'calculados aqui',
 };
