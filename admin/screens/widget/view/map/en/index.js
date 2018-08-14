@@ -21,10 +21,12 @@ module.exports = {
 
   FINISH_DRAWING: 'Finish drawing',
 
+  NO_EVENT: 'No event',
   NO_LAYERS_TO_DELETE: 'No layers to delete',
   NO_LAYERS_TO_EDIT: 'No layers to edit',
 
   RADIUS: 'Radius',
 
   SAVE_CHANGES: 'Save changes',
+  SELECT_EVENT: 'Select an event',
 };
