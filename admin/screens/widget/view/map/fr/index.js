@@ -21,10 +21,12 @@ module.exports = {
 
   FINISH_DRAWING: 'Terminer le dessin',
 
+  NO_EVENT: 'Aucun événement',
   NO_LAYERS_TO_DELETE: 'Aucun calque à supprimer',
   NO_LAYERS_TO_EDIT: 'Aucun calque à modifier',
 
   RADIUS: 'Rayon',
 
   SAVE_CHANGES: 'Sauvegarder les modifications',
+  SELECT_EVENT: 'Sélectionnez un événement',
 };
