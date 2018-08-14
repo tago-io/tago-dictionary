@@ -32,6 +32,7 @@ module.exports = {
   EXPAND: 'Expand',
   FEBRUARY: 'February',
   FILTER: 'filter',
+  FINISH: 'Finish',
   FREE: 'free',
   FRIDAY: 'Friday',
   FROM: 'From',

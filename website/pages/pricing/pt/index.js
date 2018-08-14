@@ -1,7 +1,7 @@
 module.exports = {
   PRICING: 'Planos',
-  PRICING_DESCRIPTION1: 'Nossos preços flexíveis são compostos pela combinação do Plano de ferramentas e dos Serviços selecionados durante o período de um mês. Todos os valores são expressos em Dólar Americano (USD).',
-  PRICING_DESCRIPTION2: 'Cada plano é formado por uma série de características ideal para cada estágio e tamanho do seu projeto.',
+  PRICING_DESCRIPTION1: 'Nossos preços flexíveis são compostos pelo Plano de ferramentas e Serviços selecionados durante o mês. Todos os valores são expressos em Dólar Americano(USD).',
+  PRICING_DESCRIPTION2: 'Cada plano é formado por uma série de características ideal para o estágio e tamanho do seu projeto.',
   FREE: 'Free',
   FREE_VALUE: '0',
   STARTER: 'Starter',
@@ -44,7 +44,7 @@ module.exports = {
   REALESE_SOLUTION_EXPLORE: 'Publicaçāo no Explore',
   WHITELABEL_VERSION: 'Versão WhiteLabel',
   SERVICE_USAGE: 'Uso dos Serviços',
-  SERVICE_USAGE_DESCRIPTION: 'Pague somente pelos serviços que voce utilizar. Não cobramos por números de dispositivos, painéis, ou usuários. Os custos do uso são cobrados mensalmente baseado na transações realizadas e na quantidade de dados armazenadas.',
+  SERVICE_USAGE_DESCRIPTION: 'Pague somente pelos serviços alocados. Não cobramos por números de dispositivos, painéis, ou usuários. Os custos do uso são cobrados mensalmente baseado na transações realizadas e na quantidade de dados armazenadas.',
   SERVICE: 'Serviço',
   COST: 'Custo (USD)',
   UNIT: 'Unidade',
@@ -106,11 +106,11 @@ module.exports = {
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE_VALUE9: 'Sub-total mensal do uso dos serviços = $20 + $40 + $55 = $115',
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_USAGE_VALUE10: '',
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES: 'Custo mensal total:',
-  PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE1: 'Custo mensal total = Custo do Plano + custo do uso = $49 + $115= USD $165',
+  PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE1: 'Custo mensal total = Custo do Plano + custo do uso = $49 + $115= USD $164',
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: 'ou seja USD $0.16 / dispositivo',
   FREQUENTLY_ASKED_QUESTIONS: 'Perguntas frequentes',
   PRICING_QUESTION1: 'Pelo que será cobrado?',
-  PRICING_RESPONSE1: "Diferente de outros provedores, o Tago não cobra pelo número de dispositivos, painéis ou até usuários. Nosso modelo é baseado no uso real dos serviços, ou em outras palavras, o sistema cobra pelos Serviços alocados para o mês e pelas ferramentas que são disponibilizados dependendo do seu plano. Assim, a fatura mensal será uma soma do plano que você selecionou mais os serviços. Você também pode incluir alguns complementos, como os planos de Suporte.",
+  PRICING_RESPONSE1: "Diferente de outros provedores, o TagoIO não cobra pelo número de dispositivos, painéis ou até usuários. Nosso modelo é baseado no uso real dos serviços, ou em outras palavras, o sistema cobra pelos Serviços alocados para o mês e pelas ferramentas que são disponibilizados dependendo do seu plano. Assim, a fatura mensal será uma soma do plano que você selecionou mais os serviços. Você também pode incluir alguns complementos, como os planos de Suporte.",
   PRICING_QUESTION2: 'Qual é o ciclo de faturamento da TagoIO?',
   PRICING_RESPONSE2: 'O TagoIO fecha o período de cobrança à meia-noite do último dia de cada mês. Geralmente, as faturas estão disponíveis nos primeiros quatro dias do mês subsequente. ',
   PRICING_QUESTION3: 'Se eu fizer o upgrade do meu plano, como isso será cobrado?',
@@ -138,7 +138,7 @@ module.exports = {
   PRICING_TAGS_FOR_MANAGEMENT: 'Tags para gerenciamento',
 
   PRICING_HELP_1: 'Não cobramos com base no número de dispositivos conectados. Cada dispositivo recebe um token exclusivo para acessar sua conta.',
-  PRICING_HELP_2: 'Gerencie todos os seus dispositivos usando Tags para ajudar a organizá-los por grupos.',
+  PRICING_HELP_2: 'Gerencie todos os seus dispositivos usando Tags e organize-os por grupos.',
   PRICING_HELP_3: 'Cada vez que um dispositivo envia um registro de dado, ele é contado como uma transação de Entrada de Dados.',
 
   PRICING_CREATE_DASHBOARDS: 'Criação de painéis',
@@ -146,9 +146,9 @@ module.exports = {
   PRICING_PREMIUM_WIDGETS: 'Premium widgets',
   PRICING_EMBEDDED_WIDGETS: 'Embedded widgets',
 
-  PRICING_HELP_4: 'Use nossas ferramentas poderosas e fáceis de usar para criar ótimas maneiras de visualizar dados.',
+  PRICING_HELP_4: 'Use nossas ferramentas poderosas e fáceis de usar para criar ótimas visualizaçoões de dados.',
   PRICING_HELP_5: 'Utilize widgets avançados que facilitam a interação dos usuários com seu aplicativo.',
-  PRICING_HELP_6: "Adicione widgets no seu site ou portal. A versão em scale permite remover a marca d'água 'Power by Tago'.",
+  PRICING_HELP_6: "Adicione widgets no seu site ou portal. A versão Scale permite remover a marca d'água 'Runs on Tago'.",
 
   PRICING_GO_MOBILE: 'Utilização no celular',
   PRICING_MOBILE_APP_ANDROIND_IOS: 'Aplicação para celular - Android & iOS',
@@ -166,7 +166,7 @@ module.exports = {
   PRICING_NATIVE_SHARING_FOR_DASHBOARDS: 'Compartilhamento nativo de Painéis',
   PRICING_NATIVE_SHARING_FOR_DATA_BUCKETS: 'Compartilhamento nativo de Buckets',
 
-  PRICING_HELP_10: 'Com um clique, voce compartilha painéis com qualquer pessoa, pública ou privada. Qualquer pessoa sem uma conta existente do Tango será solicitada a se inscrever quando você enviar um convite.',
+  PRICING_HELP_10: 'Com um clique, voce compartilha painéis com qualquer pessoa, pública ou privada. Usuários sem conta na TagoIO receberāo convites',
   PRICING_HELP_11: 'Com um clique, a TagoIO permite compartilhar seus dados com qualquer pessoa com segurança.',
 
   PRICING_AUTOMATE_EXPAND_SOLUTIONS_WITH_INTEGRATION: 'Automatize e expanda soluções com integração',
@@ -187,7 +187,7 @@ module.exports = {
   PRICING_SRIPTS_THAT_GRANT_DIFFERENT_LEVELS_ACCESS: 'Scripts concedem diferentes níveis de acesso',
   PRICING_ADD_USERS_MANAGE_ACCOUNT: 'Adicione usuários para gerenciar sua conta',
 
-  PRICING_HELP_17: 'Nosso registro de auditoria irá acompanhar o que e quem acessou sua conta, que tipo de operações foram feitas e quando. A versão inicial oferece alguns recursos.',
+  PRICING_HELP_17: 'O registro de auditoria irá acompanhar quem acessou sua conta, que tipo de operações foram feitas e quando. O plano Starter oferece alguns recursos.',
   PRICING_HELP_18: 'Novos usuários terão acesso ao seu aplicativo com base no nível que você conceder a eles.',
   PRICING_HELP_19: 'Não cobramos pelos usuários finais, você pode compartilhar seu aplicativo sem nenhum custo para você ou seu cliente. Um usuário desenvolvedor adicional para o plano Starter e 10 para Scale',
 
@@ -218,7 +218,7 @@ module.exports = {
 
   PRICING_SERVICES_DATA_INPUT_TRANSACTIONS: 'Transações de entrada de dados',
   PRICING_SERVICES_DATA_OUTPUT_TRANSACTIONS: 'Transações de saída de dados',
-  PRICING_SERVICES_ANALYSIS_RUNS: 'Execuções de analises',
+  PRICING_SERVICES_ANALYSIS_RUNS: 'Execuções de análises',
   PRICING_SERVICES_DATA_REGISTERS_STORED: 'Dados armazenados',
   PRICING_SERVICES_SMS_SENT: 'SMS',
   PRICING_SERVICES_E_MAIL_SENT: 'E-Mail',

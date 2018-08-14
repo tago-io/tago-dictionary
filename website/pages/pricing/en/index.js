@@ -110,7 +110,7 @@ module.exports = {
   PRICING_QUESTION1: 'For what will I be charged for?',
   PRICING_RESPONSE1: "Different from other providers, Tago doesn't charge by the number of devices, dashboards, or even for end users. Our model is based on Plan and Services provisioned in your account. The amount will be committed until the last day of the month and the billing will be renewed automatically in the following month. You can also include some add-ons, such as support plans.",
   PRICING_QUESTION2: "What is Tago's billing cycle?",
-  PRICING_RESPONSE2: 'Tago closes the billing period at midnight on the last day of each month. Invoices are generally available within the first four days of the month.',
+  PRICING_RESPONSE2: 'TagoIO closes the billing period at midnight on the last day of each month. Invoices are generally available within the first four days of the month.',
   PRICING_QUESTION3: 'If I upgrade my plan, how will that be billed?',
   PRICING_RESPONSE3: 'We make a one-time prorated charge at the time of the upgrade for the equivalent reminder of the billing cycle. For example, if you upgrade from the Free plan to the Starter plan when there is 10 remaining days in the month, we will charge 1/3 of the Starter monthly pricing immediately when you confirm the upgrade. In the next month, we will charge the full price of the Starter plan and the provisioned services.',
   PRICING_QUESTION4: 'What payment methods are accepted?',
@@ -206,8 +206,8 @@ module.exports = {
   ADD_YOUR_LOGO_YOUR_APPLICATION: 'Add your logo in your application',
   WHITE_LABEL_VERSION: 'White label version',
 
-  PRICING_HELP_23: 'Add logo using our image and video widgets in seconds',
-  PRICING_HELP_24: 'Add your own logo, colors, and url to engage customers with your brand.',
+  PRICING_HELP_23: 'Add logo using Image or Video widgets in seconds',
+  PRICING_HELP_24: 'Add your logo, colors, and url to engage customers with your brand.',
 
   PRICING_SERVICES_MAXIMUM_INPUT_PER_HOUR: 'Maximum input per hour',
   PRICING_SERVICES_MAXIMUM_OUTPUT_PER_HOUR: 'Maximum output per hour',
@@ -226,7 +226,7 @@ module.exports = {
 
   PRICING_FOR_DEVELOPERS_STUDENTS: 'For developers and students starting with TagoIO',
   PRICING_FOR_DEVELOPERS_BUSINESSES: 'For developers and businesses preparing to release applications',
-  PRICING_FOR_BUSINESSES_READY_TO_SCALE: 'For businesses ready to scale up applications and optimize their operations',
+  PRICING_FOR_BUSINESSES_READY_TO_SCALE: 'For businesses ready to scale up and optimize their operations',
 
   PRICING_ESTIMATED_MONTHLY_COST: 'Estimated monthly cost',
   PRICING_THIS_IS_PART_OF_SERVICES: 'This is part of Services, and needs to be selected for the period (see pricing below for one-month period)',
