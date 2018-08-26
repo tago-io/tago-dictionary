@@ -1,6 +1,6 @@
 module.exports = {
   RESOURCES_DEVELOPERS: 'Desenvolvedores',
-  RESOURCES_DEVELOPERS_SUBTITLE: 'Encontre aqui vários recursos para lhe ajudar a desenvolver sua aplicação com Tago.',
+  RESOURCES_DEVELOPERS_SUBTITLE: 'Encontre aqui vários recursos para lhe ajudar a desenvolver sua aplicação com Tago',
   RESOURCES_DEVELOPERS_DOCUMENTATION: 'Documentação',
   RESOURCES_DEVELOPERS_DOCUMENTATION_DESCRIPTION: 'Acesse nossa documentação completa - do básico ao avançado.',
   RESOURCES_DEVELOPERS_DOCUMENTATION_LINK1: 'Comece aqui',

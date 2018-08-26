@@ -1,6 +1,6 @@
 module.exports = {
   PRICING: 'Planos',
-  PRICING_DESCRIPTION1: 'Nossos preços flexíveis são compostos pelo Plano de ferramentas e Serviços selecionados durante o mês. Todos os valores são expressos em Dólar Americano(USD).',
+  PRICING_DESCRIPTION1: 'Nossos preços flexíveis são compostos pelo Plano de ferramentas e Serviços selecionados durante o mês. Todos os valores são expressos em Dólar Americano(USD)',
   PRICING_DESCRIPTION2: 'Cada plano é formado por uma série de características ideal para o estágio e tamanho do seu projeto.',
   FREE: 'Free',
   FREE_VALUE: '0',
