@@ -23,7 +23,7 @@ module.exports = {
   SECTION_APPINFO: 'Información de Aplicación',
   SECTION_DEVICES: 'Dispositivos',
 
-  SETTINGS_TOUCHID: 'Habilitar TouchID',
+  SETTINGS_TOUCHID: 'Autenticación biométrica',
   SETTINGS_NOTIFICATIONS: 'Notificaciones',
   SETTINGS_FULLSCREEN: 'Pantalla completa en horizoltal',
   SETTINGS_KEEPAWAKE: 'Mantener Despierto',
