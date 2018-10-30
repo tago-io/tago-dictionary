@@ -21,6 +21,7 @@ module.exports = {
   RECEIVE_NEWSLATTER: 'Recibir boletín informativo',
   SAFARI_IE_NOT_SUPPORT_BROWSER_NOTIFICATION_SOUND: 'Safari y IE no son compatibles con la notificación y el sonido del navegador',
   SHOW_NOTIFICATION_FROM: 'Mostrar notificación de',
+  SHOW_LAST_UPDATE_AT: 'Mostrar la última actualización en',
   USAGE_STATISTICS: 'Estadísticas de uso',
   USER_ONLY: 'Solo usuario',
   USER_REDUCE_VIEW: 'Usuario (vista reducida)',
@@ -29,5 +30,7 @@ module.exports = {
   VIEW_MODE: 'Modo de vista Admin',
   VISUALIZATION_PREFERENCES: 'Preferencias de visualización',
   WE_OCCASIONALLY_SEND_NEWSLETTERS_WITH_RELEVANT_TOPICS: 'Ocasionalmente enviamos boletines informativos con temas relevantes',
+  WIDGET_MENU: 'Widget de menú',
+  WIDGET_FOOTER: 'Pie de página del widget',
   YOU_NEED_ENTER_SAME_PASSWORD_TWICE: 'Debes ingresar la misma contraseña dos veces',
 };
