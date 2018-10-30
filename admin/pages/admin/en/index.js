@@ -6,6 +6,8 @@ module.exports = {
   NOTIFICATIONS_FROM_USER_REGISTERED_FAIL: 'Oops... $0 is now registered on Tago, but something went wrong with the sharing. Try to share again.',
   ONLY_UNREAD: 'Only unread',
   OTHER_USERS: 'Other Users',
+  RESEND_EMAIL_CONFIRMATION: 'Resend confirmation email',
   TAGO_SYSTEM: 'Tago System',
   YOU_REALLY_WANT_EXIT: 'Do you really want to exit',
+  YOUR_EMAIL_HASNT_BEEN_CONFIRMED: 'Your email hasn’t been confirmed yet. Confirm your email to use all TagoIO features.',
 };
