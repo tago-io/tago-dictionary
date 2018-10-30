@@ -6,6 +6,8 @@ module.exports = {
   NOTIFICATIONS_SEARCH: 'filtrar notificações',
   ONLY_UNREAD: 'Somente não lidas',
   OTHER_USERS: 'Outros usuários',
+  RESEND_EMAIL_CONFIRMATION: 'Reenviar email de confirmação',
   TAGO_SYSTEM: 'Sistema Tago',
   YOU_REALLY_WANT_EXIT: 'Você realmente deseja sair',
+  YOUR_EMAIL_HASNT_BEEN_CONFIRMED: 'Seu email ainda não foi confirmado. Confirme seu e-mail para usar todos os recursos do TagoIO.',
 };
