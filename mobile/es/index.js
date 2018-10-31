@@ -27,6 +27,7 @@ module.exports = {
   SETTINGS_NOTIFICATIONS: 'Notificaciones',
   SETTINGS_FULLSCREEN: 'Pantalla completa en horizoltal',
   SETTINGS_KEEPAWAKE: 'Mantener Despierto',
+  SETTINGS_SHOWLASTUPDATE: 'Mostrar la última actualización',
   SETTINGS_LOGOUT: 'Cerrar sesión',
   SETTINGS_VERSION: 'Versión:',
   SETTINGS_ARESURE: '¿Estás seguro?',

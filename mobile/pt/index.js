@@ -28,6 +28,7 @@ module.exports = {
   SETTINGS_NOTIFICATIONS: 'Notificações',
   SETTINGS_FULLSCREEN: 'Tela cheia na horizontal',
   SETTINGS_KEEPAWAKE: 'Manter acordado',
+  SETTINGS_SHOWLASTUPDATE: 'Mostrar última atualização',
   SETTINGS_LOGOUT: 'Sair',
   SETTINGS_VERSION: 'Versão:',
   SETTINGS_ARESURE: 'Tem certeza?',

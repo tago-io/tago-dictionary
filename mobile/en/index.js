@@ -27,6 +27,7 @@ module.exports = {
   SETTINGS_NOTIFICATIONS: 'Notifications',
   SETTINGS_FULLSCREEN: 'Fullscreen on landscape',
   SETTINGS_KEEPAWAKE: 'Keep Awake',
+  SETTINGS_SHOWLASTUPDATE: 'Show last update',
   SETTINGS_LOGOUT: 'Logout',
   SETTINGS_VERSION: 'Version:',
   SETTINGS_ARESURE: 'Are you sure?',
