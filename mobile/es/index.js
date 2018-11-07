@@ -170,4 +170,6 @@ module.exports = {
   APPLICATION_NDEVICES_VERIFCODE: 'Código de verificación:',
   APPLICATION_NDEVICES_EVERIFCODE: 'Introduzca el código de verificación...',
   APPLICATION_NDEVICES_ADDD: 'Añadir dispositivo',
+
+  OPENLASTDASHBOARD: 'Abrir el último tablero:',
 };

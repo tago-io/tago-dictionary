@@ -170,4 +170,6 @@ module.exports = {
   APPLICATION_NDEVICES_VERIFCODE: 'Verification Code:',
   APPLICATION_NDEVICES_EVERIFCODE: 'Enter the verification code...',
   APPLICATION_NDEVICES_ADDD: 'Add Device',
+
+  OPENLASTDASHBOARD: 'Open Last Dashboard:',
 };
