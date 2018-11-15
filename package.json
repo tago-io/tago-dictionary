@@ -1,9 +1,12 @@
 {
-  "name": "tago-dictionary",
+  "name": "@tago/tago-dictionary",
   "version": "1.0.0",
   "description": "Tago Dictionary",
   "author": "Tago LLC",
   "license": "Copyright",
-  "private": true,
-  "main": "index.js"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tago-io/tago-dictionary.git"
+  }
 }
