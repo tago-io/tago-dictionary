@@ -1,9 +1,8 @@
 {
-  "name": "tago-dictionary",
+  "name": "@tago/tago-dictionary",
   "version": "1.0.0",
   "description": "Tago Dictionary",
   "author": "Tago LLC",
   "license": "Copyright",
-  "private": true,
   "main": "index.js"
 }
