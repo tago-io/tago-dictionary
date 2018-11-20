@@ -33,4 +33,6 @@ module.exports = {
   YOU_REALLY_WANT_DELETE_SHARE: '¿De verdad quieres eliminar esta intercambio?',
   YOU_REALLY_WANT_CANCEL_SHARING: '¿De verdad quieres cancelar el intercambio?',
   YOUR_PLAN_ALLOWS_YOU_CREATE_UP: 'Su plan le permite crear hasta 5 paneles',
+  LIST_OF_USERS_INVITED: 'Lista de usuários convidados',
+  YOU_ARE_NOT_ALLOWED_TO_SHARE_THIS_DASHBOARD: 'No se permite compartir este panel',
 };

@@ -33,4 +33,6 @@ module.exports = {
   YOU_REALLY_WANT_DELETE_SHARE: 'Voulez-vous vraiment supprimer ce partage',
   YOU_REALLY_WANT_CANCEL_SHARING: 'Voulez-vous vraiment annuler le partage',
   YOUR_PLAN_ALLOWS_YOU_CREATE_UP: "Votre plan vous permet de créer jusqu'à 5 tableaux de bord",
+  LIST_OF_USERS_INVITED: 'Liste des utilisateurs invites',
+  YOU_ARE_NOT_ALLOWED_TO_SHARE_THIS_DASHBOARD: 'Vous n\'êtes pas autorisé à partager ce panneau',
 };
