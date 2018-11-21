@@ -147,4 +147,78 @@ module.exports = {
   DETAIL_PARTNER27_FEATURE6: 'Cost Modeling and DFM assistance of electronic products.',
   DETAIL_PARTNER27_FEATURE7: 'Low volumes electronics boards Pilot batches.',
   DETAIL_PARTNER27_FEATURE8: 'IoT development Kits.',
+
+  DETAIL_PARTNER28_NAME: 'Silkober',
+  DETAIL_PARTNER28_DESCRIPTION: 'Silkober is a Brazilian technology company focused on delivering solutions based on IoT in the following areas: Housing, construction, smart cities, and logistic.We have partners that offer hardware to be deployed by our team using our know - how.We believe that IoT is changing the way companies will operate and we are ready to support them in this transformation.Visit our website for more information.',
+  DETAIL_PARTNER28_WEBSITE: 'http://silkober.com.br/',
+  DETAIL_PARTNER29_NAME: 'ResourcesIT Solutions',
+  DETAIL_PARTNER29_DESCRIPTION: 'Resource is one of the leading Brazilian multinationals in IT Services and Digital Integration. Have more than 25 years, expertise in the financial sector combined with the best technologies, understands the need of the customer and delivery not only solutions, but value. In constant innovation, three pillars make up the catalog of IT services: Digital, Managed Services and Consulting and Business Solutions. Solutions such as: Application Development, Automation, RPA, Artificial Intelligence, Machine Learning, Blockchain, Mobile, Portals, ERP, CRM, SAP, Salesforce, Agile, Innovation, Analytics, Big Data, Cloud Solutions, User Experience.',
+  DETAIL_PARTNER29_WEBSITE: 'http://us.resourceit.com/',
+  DETAIL_PARTNER30_NAME: 'uDev',
+  DETAIL_PARTNER30_DESCRIPTION: 'A uDEV é uma empresa de pesquisa, desenvolvimento e inovação, localizada em Campinas/SP. Foi criada nos modernos conceitos de startups, onde todos podem – e devem – contribuir com ideias, opiniões e sonhos! Conta com uma equipe de profissionais qualificados e experientes em diversas áreas de conhecimento, transformando grandes ideias em produtos e soluções diferenciadas.',
+  DETAIL_PARTNER30_WEBSITE: 'http://www.udev.com.br/',
+  DETAIL_PARTNER30_PRODUCT1: 'PMS100',
+
+  // Sigmais:
+  DETAIL_PARTNER31_NAME: 'Sigmais',
+  DETAIL_PARTNER31_DESCRIPTION: 'Sigmais is a thecnology company focused on the IoT market. ' +
+    'Our mission is to develop and deploy innovative solutions based on IoT aiming to turn ' +
+    'people life easier and better. Sigmais has the technical competence and capabilities ' +
+    'needed to supply the complete solution, from the design phase to the manufacturing process.' +
+    'We offer some off-the-self sensors and design customized project as well.',
+  DETAIL_PARTNER31_WEBSITE: 'http://sigmais.com.br/',
+
+  // Globalsat:
+  DETAIL_PARTNER32_NAME: 'GlobalSat',
+  DETAIL_PARTNER32_DESCRIPTION: 'GlobalSat WorldCom Corp. was established in 2000 and soon ' +
+    'became a major manufacturer for GPS receivers and module makers in the world. After ' +
+    'years of innovation and cultivation, GlobalSat has accumulated profound experiences in ' +
+    'all types of GPS application fields and refined its core product lines into four categories: ' +
+    '1. GPS Tracking System for personal and fleet, ' +
+    '2. GPS/Bluetooth Wearable Sport Devices, ' +
+    '3. IoT Products(3G/4G, NB-IoT, Lora, Sigfox), ' +
+    '4. GPS Modules and Receivers. We have strong confidence and are prepared for the upcoming IoT world!',
+  DETAIL_PARTNER32_WEBSITE: 'https://www.globalsat.com.tw/en/product-c30692/IoT-M2M.html',
+  DETAIL_PARTNER32_PRODUCT1: 'LT-100',
+  DETAIL_PARTNER32_PRODUCT2: 'LT-501',
+  DETAIL_PARTNER32_PRODUCT3: 'LS-134',
+
+  // Everynet:
+  DETAIL_PARTNER33_NAME: 'Everynet LoRaWan Network',
+  DETAIL_PARTNER33_DESCRIPTION: 'Everynet is a leading Low Power Wide Area (LPWA) technology pioneer ' +
+    'and network operator with deployments around the globe including the Americas, EMEA, and APAC. ' +
+    'In green-field geographies, Everynet builds and operates neutral-host shared infrastructure to ' +
+    'enable MNOs and Enterprises to rapidly enter the IoT market using our Low Cost Wide Area™ technology. ' +
+    'Outside of our network footprint, Evernet licenses IP to the LoRaWAN ecosystem including technology ' +
+    'providers, network operators, platform companies, and device companies.  Everynet is a Contributor ' +
+    'Member of the LoRa Alliance™. Everynet in partnership with TagoIO, released a new connector, ' +
+    'making it easier and more intuitive to link your devices between Everynet and TagoIO platforms. ' +
+    'The new move simplifies & streamlines the addition of any new device added to an Everynet ' +
+    'account to be automatically accessible in TagoIO with its data ready to be visualized and processed.',
+  DETAIL_PARTNER33_WEBSITE: 'https://tago.elevio.help/en/articles/129',
+
+  // TTN:
+  DETAIL_PARTNER34_NAME: 'The Things Network LoRaWan Network',
+  DETAIL_PARTNER34_DESCRIPTION: 'The Things Network is building a network for the Internet of Things by ' +
+    'creating abundant data connectivity, so applications and businesses can flourish. The technology ' +
+    'we use is called LoRaWAN and it allows for things to talk to the internet without 3G or WiFi. ' +
+    'So no WiFi codes and no mobile subscriptions. It features low battery usage, long range and ' +
+    'low bandwidth. Perfect for the internet of things. TagoIO and TTN partnered to release a ' +
+    'connector that turned very easy for developers to integrate both systems.  Take a look at our ' +
+    'tutorial to get your LoRaWan devices communicating with TagoIO',
+  DETAIL_PARTNER34_WEBSITE: 'https://tago.elevio.help/en/articles/129',
+
+  // Loriot:
+  DETAIL_PARTNER35_NAME: 'Loriot LoRaWan Network',
+  DETAIL_PARTNER35_DESCRIPTION: 'LORIOT AG is a Swiss start-up in the field of Internet of ' +
+    'Things, founded in 2015. Our core product today is software for scalable, distributed, ' +
+    'resilient operation of LoRaWAN networks and end-to-end applications, which we offer under a ' +
+    'variety of business models. Due to our unique positioning in the LoRa ecosystem as both ' +
+    'software provider and network operator, we are in direct contact with LoRa hardware producers ' +
+    'and integrate many of their solutions directly with our services. The collaboration allows us ' +
+    'to offer not only network software, but a complete end-to-end solution for a real-world IoT ' +
+    'application, including gateway and sensor hardware. Loriot and TagoIO collaborated to release ' +
+    'a connector that turned the integration between both platforms very easy.  Check our ' +
+    'documentation and follow the steps to get your LoRaWan devices up and running in minutes.',
+  DETAIL_PARTNER35_WEBSITE: 'https://tago.elevio.help/en/articles/137',
 };
