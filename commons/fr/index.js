@@ -101,6 +101,8 @@ module.exports = {
   YEAR: 'an',
   YES: 'Oui',
   CONFIGURATION: 'Paramètres',
+  DASHBOARDS_SHARE_DASHBOARD: 'Partager le tableau de bord',
   DUPLICATE_DASHBOARD: 'Panneau dupliqué',
   BUILD_TEMPLATE: 'Construire le modèle',
+  DASHBOARDS_DELETE_DASHBOARD: 'Supprimer le tableau de bord',
 };

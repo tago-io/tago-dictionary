@@ -101,6 +101,8 @@ module.exports = {
   YEAR: 'Ano',
   YES: 'Sim',
   CONFIGURATION: 'Configurações',
+  DASHBOARDS_SHARE_DASHBOARD: 'Compartilhar Painel',
   DUPLICATE_DASHBOARD: 'Duplicar Painel',
   BUILD_TEMPLATE: 'Construir Modelo',
+  DASHBOARDS_DELETE_DASHBOARD: 'Remover Painel',
 };

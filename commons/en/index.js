@@ -100,7 +100,9 @@ module.exports = {
   WEEK: 'week',
   YEAR: 'year',
   YES: 'Yes',
-  CONFIGURATION: 'Ajustes',
+  CONFIGURATION: 'Configuration',
+  DASHBOARDS_SHARE_DASHBOARD: 'Share Dashboard',
   DUPLICATE_DASHBOARD: 'Duplicate Dashboard',
   BUILD_TEMPLATE: 'Build Template',
+  DASHBOARDS_DELETE_DASHBOARD: 'Remove Dashboard',
 };
