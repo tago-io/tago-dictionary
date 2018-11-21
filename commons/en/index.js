@@ -100,4 +100,7 @@ module.exports = {
   WEEK: 'week',
   YEAR: 'year',
   YES: 'Yes',
+  CONFIGURATION: 'Ajustes',
+  DUPLICATE_DASHBOARD: 'Duplicate Dashboard',
+  BUILD_TEMPLATE: 'Build Template',
 };

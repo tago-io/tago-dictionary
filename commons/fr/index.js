@@ -100,4 +100,7 @@ module.exports = {
   WEEK: 'Semaine',
   YEAR: 'an',
   YES: 'Oui',
+  CONFIGURATION: 'Paramètres',
+  DUPLICATE_DASHBOARD: 'Panneau dupliqué',
+  BUILD_TEMPLATE: 'Construire le modèle',
 };

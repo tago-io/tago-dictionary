@@ -100,4 +100,7 @@ module.exports = {
   WEEK: 'Semana',
   YEAR: 'Ano',
   YES: 'Sim',
+  CONFIGURATION: 'Configurações',
+  DUPLICATE_DASHBOARD: 'Duplicar Painel',
+  BUILD_TEMPLATE: 'Construir Modelo',
 };
