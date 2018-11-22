@@ -35,4 +35,6 @@ module.exports = {
   YOUR_PLAN_ALLOWS_YOU_CREATE_UP: 'Su plan le permite crear hasta 5 paneles',
   LIST_OF_USERS_INVITED: 'Lista de usuários convidados',
   YOU_ARE_NOT_ALLOWED_TO_SHARE_THIS_DASHBOARD: 'No se permite compartir este panel',
+  ONCE_YOU_REMOVE_FROM_YOUR_LIST: 'Después de quitar panel $0 de tu lista, ya no podrás verlo',
+  YOU_REALLY_WANT_REMOVE_FROM_YOUR_LIST: '¿Realmente quieres eliminar este panel de tu lista',
 };
