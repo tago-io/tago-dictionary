@@ -37,4 +37,7 @@ module.exports = {
   YOU_ARE_NOT_ALLOWED_TO_SHARE_THIS_DASHBOARD: 'No se permite compartir este panel',
   ONCE_YOU_REMOVE_FROM_YOUR_LIST: 'Después de quitar panel $0 de tu lista, ya no podrás verlo',
   YOU_REALLY_WANT_REMOVE_FROM_YOUR_LIST: '¿Realmente quieres eliminar este panel de tu lista',
+  DUPLICATE_DASHBOARD_WITH_NAME: 'Duplicar "$0"',
+  DUPLICATE_DASHBOARD_MESSAGE_WITH_NAME: 'Estás duplicando "$0" en tu cuenta. Siéntase libre de establecer un nuevo nombre para este panel',
+  ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Una vez que duplique este panel, se creará una copia en su cuenta sin ningún dato.'
 };

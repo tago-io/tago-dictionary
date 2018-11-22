@@ -39,4 +39,7 @@ module.exports = {
   ONCE_YOU_REMOVE_FROM_YOUR_LIST: 'This dashboard has been shared with you, once you remove this dashboard from your list you will no longer be able to see it',
   YOU_REALLY_WANT_REMOVE_FROM_YOUR_LIST: 'Do you really want to remove the dashboard $0 from your list',
   THIS_DASHBOARD_HAS_BEEN_SHARED_SMALL: 'Shared with you by $0',
+  DUPLICATE_DASHBOARD_WITH_NAME: 'Duplicate "$0"',
+  DUPLICATE_DASHBOARD_MESSAGE_WITH_NAME: 'You are duplicating "$0" into your account. Feel free to set a new name for this dashboard',
+  ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Once you duplicate this dashboard, a copy of it without any data will be created into your account.'
 };

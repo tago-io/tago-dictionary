@@ -7,5 +7,5 @@ module.exports = {
   SHARE_DASHBOARD: 'Compartilhar painel',
   UPGRADE_PLAN: 'Atualizar plano',
   YOU_ARE_USING_FREE_ACCOUNT: 'Você está usando uma conta free',
-  YOU_DONT_HAVE_RIGHTS: 'Você não tem permissão para comppartilhar esse painel. Solicite a $0$ uma autorização para compartilhar com outros usuários',
+  YOU_DONT_HAVE_RIGHTS: 'Você não tem permissão para compartilhar esse painel. Solicite a $0 uma autorização para compartilhar com outros usuários',
 };
