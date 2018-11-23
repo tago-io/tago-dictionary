@@ -23,10 +23,11 @@ module.exports = {
   SECTION_APPINFO: 'Application Information',
   SECTION_DEVICES: 'Devices',
 
-  SETTINGS_TOUCHID: 'Enable TouchID',
+  SETTINGS_TOUCHID: 'Biometric Authentication',
   SETTINGS_NOTIFICATIONS: 'Notifications',
   SETTINGS_FULLSCREEN: 'Fullscreen on landscape',
   SETTINGS_KEEPAWAKE: 'Keep Awake',
+  SETTINGS_SHOWLASTUPDATE: 'Show last update',
   SETTINGS_LOGOUT: 'Logout',
   SETTINGS_VERSION: 'Version:',
   SETTINGS_ARESURE: 'Are you sure?',
@@ -169,4 +170,6 @@ module.exports = {
   APPLICATION_NDEVICES_VERIFCODE: 'Verification Code:',
   APPLICATION_NDEVICES_EVERIFCODE: 'Enter the verification code...',
   APPLICATION_NDEVICES_ADDD: 'Add Device',
+
+  OPENLASTDASHBOARD: 'Open Last Dashboard:',
 };

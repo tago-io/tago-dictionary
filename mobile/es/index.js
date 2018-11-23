@@ -23,10 +23,11 @@ module.exports = {
   SECTION_APPINFO: 'Información de Aplicación',
   SECTION_DEVICES: 'Dispositivos',
 
-  SETTINGS_TOUCHID: 'Habilitar TouchID',
+  SETTINGS_TOUCHID: 'Autenticación biométrica',
   SETTINGS_NOTIFICATIONS: 'Notificaciones',
   SETTINGS_FULLSCREEN: 'Pantalla completa en horizoltal',
   SETTINGS_KEEPAWAKE: 'Mantener Despierto',
+  SETTINGS_SHOWLASTUPDATE: 'Mostrar la última actualización',
   SETTINGS_LOGOUT: 'Cerrar sesión',
   SETTINGS_VERSION: 'Versión:',
   SETTINGS_ARESURE: '¿Estás seguro?',
@@ -169,4 +170,6 @@ module.exports = {
   APPLICATION_NDEVICES_VERIFCODE: 'Código de verificación:',
   APPLICATION_NDEVICES_EVERIFCODE: 'Introduzca el código de verificación...',
   APPLICATION_NDEVICES_ADDD: 'Añadir dispositivo',
+
+  OPENLASTDASHBOARD: 'Abrir el último tablero:',
 };
