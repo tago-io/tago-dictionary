@@ -39,5 +39,6 @@ module.exports = {
   YOU_REALLY_WANT_REMOVE_FROM_YOUR_LIST: 'Voulez-vous vraiment supprimer ce tableau de bord de votre liste',
   DUPLICATE_DASHBOARD_WITH_NAME: 'Dupliquer "$0"',
   DUPLICATE_DASHBOARD_MESSAGE_WITH_NAME: 'Vous dupliquez "0$" sur votre compte. N\'hésitez pas à définir un nouveau nom pour ce tableau de bord',
-  ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Une fois que vous dupliquez ce tableau de bord, une copie de celui-ci sera créée dans votre compte, sans aucune donnée.'
+  ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Une fois que vous dupliquez ce tableau de bord, une copie de celui-ci sera créée dans votre compte, sans aucune donnée.',
+  KEEP_THE_SAME_DEVICES: 'Gardez les mêmes appareils',
 };

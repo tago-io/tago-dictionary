@@ -41,5 +41,6 @@ module.exports = {
   THIS_DASHBOARD_HAS_BEEN_SHARED_SMALL: 'Compartilhado com você por $0',
   DUPLICATE_DASHBOARD_WITH_NAME: 'Duplicar "$0"',
   DUPLICATE_DASHBOARD_MESSAGE_WITH_NAME: 'Você está duplicando "$0". Sinta-se livre para inserir um novo nome para o painel',
-  ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Uma vez que você duplicar esse painel, uma cópia sem nenhum dado será criada na sua conta'
+  ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Uma vez que você duplicar esse painel, uma cópia sem nenhum dado será criada na sua conta',
+  KEEP_THE_SAME_DEVICES: 'Manter os mesmos dispositivos',
 };
