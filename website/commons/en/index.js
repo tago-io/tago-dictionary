@@ -11,4 +11,5 @@ module.exports = {
   PARTNER_DETAIL_PRODUCTS_SERVICES_INTEGRATED_TAGO: 'Products and services integrated with Tago',
   PLAN: 'Plan',
   SERVICES: 'Services',
+  HOW_PARTNER_INTEGRATES_WITH_TAGO: 'How $0 integrates with TagoIO',
 };
