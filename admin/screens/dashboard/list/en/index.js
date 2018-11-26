@@ -11,4 +11,7 @@ module.exports = {
 
   EXPLANATION_SHARING_DASHBOARDS: 'Sharing Dashboards',
   EXPLANATION_IF_YOUR_APPLICATION_PROVIDER_ALLOWS: 'If your application provider allows, you can share you dashboards with others for the period of time you desire. Just click on the top-right Gear icon to grant or revoke access to other users.',
+
+  THIS_SHARE_WILL_NEVER_END: 'This share will never end',
+  THIS_SHARE_WILL_END_IN: 'This share will end in $0',
 };

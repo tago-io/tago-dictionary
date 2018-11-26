@@ -11,4 +11,7 @@ module.exports = {
 
   EXPLANATION_SHARING_DASHBOARDS: 'Compartilhamento de painéis',
   EXPLANATION_IF_YOUR_APPLICATION_PROVIDER_ALLOWS: 'Se o seu provedor de aplicativos permitir, você poderá compartilhar seus painéis com outras pessoas pelo período de tempo desejado. Basta clicar no ícone engrenagem superior direito para conceder ou revogar o acesso a outros usuários.',
+
+  THIS_SHARE_WILL_NEVER_END: 'Esse compartilhamento nunca será encerrado',
+  THIS_SHARE_WILL_END_IN: 'Esse compartilhamento se encerrará em $0',
 };
