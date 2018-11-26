@@ -147,7 +147,6 @@ module.exports = {
   DETAIL_PARTNER27_FEATURE6: 'Cost Modeling and DFM assistance of electronic products.',
   DETAIL_PARTNER27_FEATURE7: 'Low volumes electronics boards Pilot batches.',
   DETAIL_PARTNER27_FEATURE8: 'IoT development Kits.',
-
   DETAIL_PARTNER28_NAME: 'Silkober',
   DETAIL_PARTNER28_DESCRIPTION: 'Silkober is a Brazilian technology company focused on delivering solutions based on IoT in the following areas: Housing, construction, smart cities, and logistic.We have partners that offer hardware to be deployed by our team using our know - how.We believe that IoT is changing the way companies will operate and we are ready to support them in this transformation.Visit our website for more information.',
   DETAIL_PARTNER28_WEBSITE: 'http://silkober.com.br/',
@@ -221,4 +220,6 @@ module.exports = {
     'a connector that turned the integration between both platforms very easy.  Check our ' +
     'documentation and follow the steps to get your LoRaWan devices up and running in minutes.',
   DETAIL_PARTNER35_WEBSITE: 'https://tago.elevio.help/en/articles/137',
+
+  LEARN_ABOUT_THIS_INTEGRATION_HERE: 'Saiba mais sobre essa integração aqui',
 };
