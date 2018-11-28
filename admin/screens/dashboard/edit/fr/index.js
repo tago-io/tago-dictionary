@@ -33,4 +33,12 @@ module.exports = {
   YOU_REALLY_WANT_DELETE_SHARE: 'Voulez-vous vraiment supprimer ce partage',
   YOU_REALLY_WANT_CANCEL_SHARING: 'Voulez-vous vraiment annuler le partage',
   YOUR_PLAN_ALLOWS_YOU_CREATE_UP: "Votre plan vous permet de créer jusqu'à 5 tableaux de bord",
+  LIST_OF_USERS_INVITED: 'Liste des utilisateurs invites',
+  YOU_ARE_NOT_ALLOWED_TO_SHARE_THIS_DASHBOARD: 'Vous n\'êtes pas autorisé à partager ce panneau',
+  ONCE_YOU_REMOVE_FROM_YOUR_LIST: 'Après avoir retiré ce panneau $0 de votre liste, vous ne le verrez plus',
+  YOU_REALLY_WANT_REMOVE_FROM_YOUR_LIST: 'Voulez-vous vraiment supprimer ce tableau de bord de votre liste',
+  DUPLICATE_DASHBOARD_WITH_NAME: 'Dupliquer "$0"',
+  DUPLICATE_DASHBOARD_MESSAGE_WITH_NAME: 'Vous dupliquez "0$" sur votre compte. N\'hésitez pas à définir un nouveau nom pour ce tableau de bord',
+  ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Une fois que vous dupliquez ce tableau de bord, une copie de celui-ci sera créée dans votre compte, sans aucune donnée.',
+  KEEP_THE_SAME_DEVICES: 'Gardez les mêmes appareils',
 };

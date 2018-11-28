@@ -11,4 +11,7 @@ module.exports = {
 
   EXPLANATION_SHARING_DASHBOARDS: 'Partage de tableaux de bord',
   EXPLANATION_IF_YOUR_APPLICATION_PROVIDER_ALLOWS: "Si votre fournisseur d’application le permet, vous pouvez partager vos tableaux de bord avec d’autres pour la période souhaitée. Cliquez simplement sur l'icône d'engrenage en haut à droite pour accorder ou révoquer l'accès à d'autres utilisateurs.",
+  
+  THIS_SHARE_WILL_NEVER_END: 'Cette action ne sera jamais fermée',
+  THIS_SHARE_WILL_END_IN: 'Cette action expirera dans $0',
 };

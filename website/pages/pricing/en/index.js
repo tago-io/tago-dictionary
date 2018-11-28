@@ -158,7 +158,7 @@ module.exports = {
   PRICING_RUN_SCRIPTS_ANALYZE_DATA: 'Run scripts to analyze data *',
   PRICING_RUN_MACHINE_LEARNING_REAL_TIME: 'Run machine learning in real-time *',
 
-  PRICING_HELP_8: "Build and run scripts on TagoIO to process data in real-time.",
+  PRICING_HELP_8: 'Build and run scripts on TagoIO to process data in real-time.',
   PRICING_HELP_9: 'Talk to our technical support about how to use Machine Learning in your application.',
 
   PRICING_SHARE_YOUR_APPLICATION_AND_DATA: 'Share your application and data',
