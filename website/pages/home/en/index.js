@@ -29,4 +29,19 @@ module.exports = {
   BRENT_WARD: 'Brent Ward',
   BRENT_WARD_COMPANY: 'VP Biz Dev, Device Solutions Inc',
   BRENT_WARD_DESCRIPTION: 'Tago has been instrumental in providing critical elements for our Cellio IIoT Remote Monitoring/Control platform. The ability to white label their data hosting, dashboarding, mobile apps, alerts, and notifications have enabled us to provide a complete end-to-end out-of-the-box solution that has proven to be extremely flexible, desirable, and valuable to our corporate customers.',
+
+  MAIN_TITLE_HOME_PAGE: 'Easily Create Your Own IoT Solutions',
+  SUB_TITLE_HOME_PAGE: 'Dashboard, Analytics, Storage, Notification, Device and User Management Included.',
+  WHAT_IS_TAGO_IO: 'What is TagoIO?',
+  CHECK_TAGO_FEATURES: 'Check TagoIO Features',
+  CHECK_PRODUCT_FEATURES: 'Check Product Features',
+  VIEW_DASHBOARD: 'View dashboard',
+  GET_DASHBOARD: 'Get dashboard',
+  WHAT_CAN_I_DO_TITLE: 'What can I do with TagoIO?',
+  WHAT_CAN_I_DO_DESCRIPTION: 'Some examples of how TagoIO creates value ' + 
+      'for different applications. Add in your account to watch them in action.',
+  ENTER_EMAIL_GAIN_ACCESS: 'Please enter your e-mail below to gain access to the $0 dashboard',
+  GOT_IT: 'Got it',
+  WE_ARE_WAITING_FOR_YOU: 'We are waiting for you!',
+  WE_SENT_YOU_EMAIL:  'We\'ve sent you an e-mail with the chosen dashboard, all you have to do is accept it!',
 };
