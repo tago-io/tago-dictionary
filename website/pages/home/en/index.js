@@ -12,9 +12,9 @@ module.exports = {
   BUILD_YOUR_APPLICATION_IN_ON_TIME: 'Build Applications',
   BUILD_YOUR_APPLICATION_IN_ON_TIME_DESCRIPTION: 'Use our templates to start quickly, collaborate with others, and get it done at no time',
   SHARE_YOUR_SOLUTIONS_EASILY: 'Share Easily',
-  SHARE_YOUR_SOLUTIONS_EASILY_DESCRIPTION: "Share applications with anyone privately or using public links",
+  SHARE_YOUR_SOLUTIONS_EASILY_DESCRIPTION: 'Share applications with anyone privately or using public links',
   SCALE_UP_SMOOTHLY: 'Scale Up Smoothly',
-  SCALE_UP_SMOOTHLY_DESCRIPTION: "Manage new users and devices individually or in batches. Use our scripts to automate the process",
+  SCALE_UP_SMOOTHLY_DESCRIPTION: 'Manage new users and devices individually or in batches. Use our scripts to automate the process',
   CONNECT_ANY_DEVICE: 'Connect Any Device',
   CONNECT_ANY_DEVICE_DESCRIPTION: 'Connect your own devices with WiFi, LoRa, Sigfox, GPRS, LTE, BLE, Zigbee, and others',
   LEARN_ABOUT_OUR_PRODUCT: 'Learn about our Product',
@@ -25,7 +25,7 @@ module.exports = {
   JULIO_ALMEIDA_DESCRIPTION: 'After we have compared several IoT platforms, we opted for Tago due to its strong capabilities for device and data management, and the intuitive UX for dashboard creation. By running our analytics on Tago we were able to deliver a robust solution.',
   ERIC_HOOG: 'Eric Hoog',
   ERIC_HOOG_COMPANY: 'CEO - Zquel',
-  ERIC_HOOG_DESCRIPTION: "Tago has helped tremendously in our product development. It's versatility and ease of use have helped us achieve our product goals much faster than other alternatives.",
+  ERIC_HOOG_DESCRIPTION: 'Tago has helped tremendously in our product development. It\'s versatility and ease of use have helped us achieve our product goals much faster than other alternatives.',
   BRENT_WARD: 'Brent Ward',
   BRENT_WARD_COMPANY: 'VP Biz Dev, Device Solutions Inc',
   BRENT_WARD_DESCRIPTION: 'Tago has been instrumental in providing critical elements for our Cellio IIoT Remote Monitoring/Control platform. The ability to white label their data hosting, dashboarding, mobile apps, alerts, and notifications have enabled us to provide a complete end-to-end out-of-the-box solution that has proven to be extremely flexible, desirable, and valuable to our corporate customers.',
@@ -46,10 +46,10 @@ module.exports = {
   HOW_DOES_IT_WORK: 'Como funciona?',
   GET_DASHBOARD: 'Get dashboard',
   WHAT_CAN_I_DO_TITLE: 'What can I do with TagoIO?',
-  WHAT_CAN_I_DO_DESCRIPTION: 'Some examples of how TagoIO creates value ' + 
+  WHAT_CAN_I_DO_DESCRIPTION: 'Some examples of how TagoIO creates value ' +
       'for different applications. Add in your account to watch them in action.',
   ENTER_EMAIL_GAIN_ACCESS: 'Please enter your e-mail below to gain access to the $0 dashboard',
   GOT_IT: 'Got it',
   WE_ARE_WAITING_FOR_YOU: 'We are waiting for you!',
-  WE_SENT_YOU_EMAIL:  'We\'ve sent you an e-mail with the chosen dashboard, all you have to do is accept it!',
+  WE_SENT_YOU_EMAIL: 'We\'ve sent you an e-mail with the chosen dashboard, all you have to do is accept it!',
 };

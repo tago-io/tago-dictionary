@@ -2,7 +2,7 @@ module.exports = {
   TAGO_HOME: 'Tago - Início',
   BANNER_TITLE: 'Crie mais valor conectando seu produto com a Tago',
   BANNER_DESCRIPTION: 'Extraia mais informações e otimize o seu processo.',
-  GET_STARTED_HOME: 'Comece agora mesmo',
+  GET_STARTED_HOME: 'Comece agora',
   WATCH_IT_IN_ACTION: 'Entenda como funciona',
   WATCH_IT_IN_ACTION_YOUTUBEVIDEO: 'Nf6IO7Yqhgw',
   TAGO_DIVULGE_EVENTS_REGISTER: 'Registre-se já!',
@@ -12,9 +12,9 @@ module.exports = {
   BUILD_YOUR_APPLICATION_IN_ON_TIME: 'Construa Aplicações',
   BUILD_YOUR_APPLICATION_IN_ON_TIME_DESCRIPTION: 'Use nossos templates para iniciar rapidamente, colaborar com outros, e criar sua aplicação rapidamente!',
   SHARE_YOUR_SOLUTIONS_EASILY: 'Compartilhe facilmente',
-  SHARE_YOUR_SOLUTIONS_EASILY_DESCRIPTION: "Compartilhe aplicações com qualquer um de forma privada ou usando links públicos",
+  SHARE_YOUR_SOLUTIONS_EASILY_DESCRIPTION: 'Compartilhe aplicações com qualquer um de forma privada ou usando links públicos',
   SCALE_UP_SMOOTHLY: 'Escale sua aplicação de forma rápida',
-  SCALE_UP_SMOOTHLY_DESCRIPTION: "Gerencie novos usuários e dispositivos individualmente ou em remessas. Use nossos scripts para automatizar o processo",
+  SCALE_UP_SMOOTHLY_DESCRIPTION: 'Gerencie novos usuários e dispositivos individualmente ou em remessas. Use nossos scripts para automatizar o processo',
   CONNECT_ANY_DEVICE: 'Conecte qualquer dispositivo',
   CONNECT_ANY_DEVICE_DESCRIPTION: 'Conecte seus próprios dispositivos com WiFi, LoRa, Sigfox, GPRS, LTE, BLE, Zigbee, e outros',
   LEARN_ABOUT_OUR_PRODUCT: 'Conheça detalhes do nosso produto',
@@ -29,7 +29,6 @@ module.exports = {
   BRENT_WARD: 'Brent Ward',
   BRENT_WARD_COMPANY: 'VP, Device Solutions Inc',
   BRENT_WARD_DESCRIPTION: 'A Tago tem sido fundamental no fornecimento de elementos críticos para nossa plataforma de Monitoramento/Controle Remoto Cellio IoT. A capacidade de costumizar a hospedagem de dados, painéis, aplicativos móveis, alertas e notificações permitiu o desenvolvimento de uma solução completa e pronta para uso, o que provou ser extremamente flexível, desejável e valiosa para nossos clientes corporativos.',
-  
 
   INDUSTRIAL_AUTOMATION: 'Automação Industrial',
   SMART_IRRIGATION: 'Irrigação Inteligente',
@@ -47,10 +46,10 @@ module.exports = {
   HOW_DOES_IT_WORK: 'Como funciona?',
   GET_DASHBOARD: 'Adquirir Painel',
   WHAT_CAN_I_DO_TITLE: 'O que posso fazer com a TagoIO?',
-  WHAT_CAN_I_DO_DESCRIPTION: 'Alguns exemplos de como a TagoIO cria valor ' + 
+  WHAT_CAN_I_DO_DESCRIPTION: 'Alguns exemplos de como a TagoIO cria valor ' +
       'para aplicações diferentes, adicione-os na sua conta para vê-los em ação.',
   ENTER_EMAIL_GAIN_ACCESS: 'Por favor insira seu e-mail para adquirir acesso ao painel $0',
   GOT_IT: 'Entendi',
   WE_ARE_WAITING_FOR_YOU: 'Estamos esperando por você!',
-  WE_SENT_YOU_EMAIL:  'We\'ve sent you an e-mail with the chosen dashboard, all you have to do is accept it!',
+  WE_SENT_YOU_EMAIL: 'We\'ve sent you an e-mail with the chosen dashboard, all you have to do is accept it!',
 };
