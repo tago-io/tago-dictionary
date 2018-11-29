@@ -43,7 +43,7 @@ module.exports = {
   CHECK_TAGO_FEATURES: 'Check TagoIO Features',
   CHECK_PRODUCT_FEATURES: 'Check Product Features',
   VIEW_DASHBOARD: 'View dashboard',
-  HOW_DOES_IT_WORK: 'Como funciona?',
+  HOW_DOES_IT_WORK: 'How does it work?',
   GET_DASHBOARD: 'Get dashboard',
   WHAT_CAN_I_DO_TITLE: 'What can I do with TagoIO?',
   WHAT_CAN_I_DO_DESCRIPTION: 'Some examples of how TagoIO creates value ' +
