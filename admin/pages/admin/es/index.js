@@ -10,7 +10,7 @@ module.exports = {
   TAGO_SYSTEM: 'Tago System',
   YOU_REALLY_WANT_EXIT: '¿Realmente desea salir',
   YOUR_EMAIL_HASNT_BEEN_CONFIRMED: 'Tu correo electrónico no ha sido confirmado todavía. Confirma tu correo electrónico para utilizar todas las funciones de TagoIO.',
-  
+
   TEMPLATE_TAB_NAME: 'Distribute the template of this $0',
   TEMPLATE_TAB_DESCRIPTION: 'Send the generated URL to others so they can access your $0 through a customized install page.',
   TEMPLATE_TAB_LINK_DESCRIPTION: 'Create a link that contains the template of this $0. Share the link with anyone.',
