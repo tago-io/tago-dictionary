@@ -103,6 +103,6 @@ module.exports = {
   CONFIGURATION: 'Configurar',
   DASHBOARDS_SHARE_DASHBOARD: 'Compartilhar',
   DUPLICATE_DASHBOARD: 'Duplicar',
-  BUILD_TEMPLATE: 'Modelo',
+  BUILD_TEMPLATE: 'Distribuir',
   DASHBOARDS_DELETE_DASHBOARD: 'Remover',
 };
