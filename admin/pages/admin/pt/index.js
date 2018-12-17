@@ -36,4 +36,9 @@ module.exports = {
   NOTIFICATION_PROFILE_SHARE: '$0 quer compartilhar um perfil com você',
   NOTIFICATION_BUCKET_SHARE: '$0 quer compartilhar o depósito de $1 com você',
   NOTIFICATION_DASHBOARD_SHARE: '$0 quer compartilhar o painel $1 com você',
+  NEW_USER_RESENT_CONFIRMATION_EMAIL: 'Enviamos um email para $0. Por favor, confirme seu email para ter acesso a todos os recursos!',
+  DASHBOARD_ACCEPTED_NOTIFICATION: 'O painel foi adicionado à <b> barra lateral esquerda</b>.',
+  PROFILE_ACCEPTED_NOTIFICATION: 'O perfil foi aceito! <br /> <b> Por favor, faça logout</b> para ter acesso à conta de $0.',
+  BUCKET_ACCEPTED_NOTIFICATION: 'O intervalo foi aceito e adicionado à <b> lista de intervalos</b>.',
+  GO_TO_DASHBOARD: 'Me leve para o painel',
 };
