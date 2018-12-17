@@ -36,9 +36,9 @@ module.exports = {
   NOTIFICATION_PROFILE_SHARE: '$0 quiere compartir un perfil contigo',
   NOTIFICATION_BUCKET_SHARE: '$0 quiere compartir el cubo $1 contigo',
   NOTIFICATION_DASHBOARD_SHARE: '$0 quiere compartir el tablero $1 contigo',
-  NEW_USER_RESENT_CONFIRMATION_EMAIL: 'Hemos enviado un correo electrónico a $0. Por favor, confirme su correo electrónico para obtener acceso a todas las funciones!',
+  NEW_USER_RESENT_CONFIRMATION_EMAIL: 'Hemos enviado un correo electrónico a <b> $0 </b>. Por favor, confirme su correo electrónico para obtener acceso a todas las funciones!',
   DASHBOARD_ACCEPTED_NOTIFICATION: 'El panel de control se agregó a la <b> barra lateral izquierda </b>.',
   PROFILE_ACCEPTED_NOTIFICATION: '¡Se aceptó el perfil! <br /> <b> Por favor cierre la sesión </b> para obtener acceso a la cuenta de $0.',
   BUCKET_ACCEPTED_NOTIFICATION: 'El grupo se aceptó y se agregó a la <b> lista de grupos </b>.',
-  GO_TO_DASHBOARD: 'Llevame al salpicadero',
+  GO_TO_DASHBOARD: 'Ir al panel de control',
 };

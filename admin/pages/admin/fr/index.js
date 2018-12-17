@@ -36,9 +36,9 @@ module.exports = {
   NOTIFICATION_PROFILE_SHARE: '$0 veut partager un profil avec vous',
   NOTIFICATION_BUCKET_SHARE: '$0 veut partager le seau $1 avec vous',
   NOTIFICATION_DASHBOARD_SHARE: '$0 veut partager le tableau de bord $1 avec vous',
-  NEW_USER_RESENT_CONFIRMATION_EMAIL: 'Nous avons envoyé un email à $0. S\'il vous plaît, confirmez votre email pour avoir accès à toutes les fonctionnalités!',
+  NEW_USER_RESENT_CONFIRMATION_EMAIL: 'Nous avons envoyé un courrier électronique à <b> $0</b>. S\'il vous plaît, confirmez votre email pour avoir accès à toutes les fonctionnalités!',
   DASHBOARD_ACCEPTED_NOTIFICATION: 'Le tableau de bord a été ajouté à la <b> barre latérale gauche</b>.',
   PROFILE_ACCEPTED_NOTIFICATION: 'Le profil a été accepté! <br /> <b> Veuillez vous déconnecter</b> pour accéder au compte de $0.',
   BUCKET_ACCEPTED_NOTIFICATION: 'Le compartiment a été accepté et ajouté à la <b> liste de compartiments</b>.',
-  GO_TO_DASHBOARD: 'Emmenez-moi au tableau de bord',
+  GO_TO_DASHBOARD: 'Aller au tableau de bord',
 };

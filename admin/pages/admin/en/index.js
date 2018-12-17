@@ -36,9 +36,9 @@ module.exports = {
   NOTIFICATION_PROFILE_SHARE: '$0 wants to share a profile with you',
   NOTIFICATION_BUCKET_SHARE: '$0 wants to share the bucket $1 with you',
   NOTIFICATION_DASHBOARD_SHARE: '$0 wants to share the dashboard $1 with you',
-  NEW_USER_RESENT_CONFIRMATION_EMAIL: 'We\'ve sent an email to $0. Please, confirm your email to get access to all features!',
+  NEW_USER_RESENT_CONFIRMATION_EMAIL: 'We\'ve sent an email to <b>$0</b>. Please, confirm your email to get access to all features!',
   DASHBOARD_ACCEPTED_NOTIFICATION: 'The dashboard was added to the <b>left sidebar</b>.',
   PROFILE_ACCEPTED_NOTIFICATION: 'The profile was accepted!<br /><b>Please logout</b> to get access to $0\'s account.',
   BUCKET_ACCEPTED_NOTIFICATION: 'The bucket was accepted and added to the <b>bucket list</b>.',
-  GO_TO_DASHBOARD: 'Take me to the dashboard',
+  GO_TO_DASHBOARD: 'Go to dashboard',
 };
