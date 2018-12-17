@@ -42,4 +42,5 @@ module.exports = {
   ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Une fois que vous dupliquez ce tableau de bord, une copie de celui-ci sera créée dans votre compte, sans aucune donnée.',
   KEEP_THE_SAME_DEVICES: 'Gardez les mêmes appareils',
   THE_DASHBOARD_WAS_DELETED: 'Le tableau de bord $0 a été supprimé.',
+  THE_DASHBOARD_WAS_REMOVED: 'Le tableau de bord $0 a été supprimé.',
 };

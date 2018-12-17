@@ -42,4 +42,5 @@ module.exports = {
   ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Una vez que duplique este panel, se creará una copia en su cuenta sin ningún dato.',
   KEEP_THE_SAME_DEVICES: 'Mantener los mismos dispositivos',
   THE_DASHBOARD_WAS_DELETED: 'El tablero de control $0 fue eliminado.',
+  THE_DASHBOARD_WAS_REMOVED: 'El tablero de mandos $0 fue eliminado.',
 };

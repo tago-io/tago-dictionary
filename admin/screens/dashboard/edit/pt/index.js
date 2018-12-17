@@ -44,4 +44,5 @@ module.exports = {
   ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Uma vez que você duplicar esse painel, uma cópia sem nenhum dado será criada na sua conta',
   KEEP_THE_SAME_DEVICES: 'Manter os mesmos dispositivos',
   THE_DASHBOARD_WAS_DELETED: 'O painel $0 foi excluído.',
+  THE_DASHBOARD_WAS_REMOVED: 'O painel $0 foi removido.',
 };

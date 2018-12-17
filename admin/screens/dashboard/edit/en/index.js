@@ -44,4 +44,5 @@ module.exports = {
   ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Once you duplicate this dashboard, a copy of it without any data will be created into your account.',
   KEEP_THE_SAME_DEVICES: 'Keep the same devices',
   THE_DASHBOARD_WAS_DELETED: 'The dashboard $0 was deleted.',
+  THE_DASHBOARD_WAS_REMOVED: 'The dashboard $0 was removed.',
 };
