@@ -43,4 +43,5 @@ module.exports = {
   DUPLICATE_DASHBOARD_MESSAGE_WITH_NAME: 'Você está duplicando "$0". Sinta-se livre para inserir um novo nome para o painel',
   ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Uma vez que você duplicar esse painel, uma cópia sem nenhum dado será criada na sua conta',
   KEEP_THE_SAME_DEVICES: 'Manter os mesmos dispositivos',
+  THE_DASHBOARD_WAS_DELETED: 'O painel $0 foi excluído.',
 };

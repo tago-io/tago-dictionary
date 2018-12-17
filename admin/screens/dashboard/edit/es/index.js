@@ -41,4 +41,5 @@ module.exports = {
   DUPLICATE_DASHBOARD_MESSAGE_WITH_NAME: 'Estás duplicando "$0" en tu cuenta. Siéntase libre de establecer un nuevo nombre para este panel',
   ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Una vez que duplique este panel, se creará una copia en su cuenta sin ningún dato.',
   KEEP_THE_SAME_DEVICES: 'Mantener los mismos dispositivos',
+  THE_DASHBOARD_WAS_DELETED: 'El tablero de control $0 fue eliminado.',
 };
