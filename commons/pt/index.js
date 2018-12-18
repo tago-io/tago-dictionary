@@ -105,4 +105,5 @@ module.exports = {
   DUPLICATE_DASHBOARD: 'Duplicar',
   BUILD_TEMPLATE: 'Distribuir',
   DASHBOARDS_DELETE_DASHBOARD: 'Remover',
+  DISMISS: 'Dispensar',
 };

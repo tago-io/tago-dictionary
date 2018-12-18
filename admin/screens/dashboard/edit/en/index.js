@@ -21,7 +21,7 @@ module.exports = {
   SHARE_PRIVATE: 'Share private',
   SHARED_WITH: 'Shared with',
   THIS_DASHBOARD_HAS_BEEN_SHARED: 'This dashboard has been shared with you (you can not edit it)',
-  USER_DOESNT_HAVE_AN_ACCOUNT_YET: "User doesn't have an account yet",
+  USER_DOESNT_HAVE_AN_ACCOUNT_YET: 'User doesn\'t have an account yet',
   WHEN_HIDDEN_THE_DASHBOARD_WILL_NOT_LISTED: 'When hidden, the dashboard will not be listed in the left menu bar',
   WHEN_YOU_SHARE_DASHBOARD_OTHERS: 'When you share this dashboard, others will not be able to edit it.',
   YOU_ARE_CURRENTLY_SHARING_DASHBOARD: 'You are currently sharing this dashboard with other users. If you proceed, it will also be removed from their view',
@@ -43,4 +43,6 @@ module.exports = {
   DUPLICATE_DASHBOARD_MESSAGE_WITH_NAME: 'You are duplicating "$0" into your account. Feel free to set a new name for this dashboard',
   ONCE_YOU_DUPLICATE_THIS_DASHBOARD: 'Once you duplicate this dashboard, a copy of it without any data will be created into your account.',
   KEEP_THE_SAME_DEVICES: 'Keep the same devices',
+  THE_DASHBOARD_WAS_DELETED: 'The dashboard $0 was deleted.',
+  THE_DASHBOARD_WAS_REMOVED: 'The dashboard $0 was removed.',
 };

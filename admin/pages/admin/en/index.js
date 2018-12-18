@@ -10,7 +10,6 @@ module.exports = {
   TAGO_SYSTEM: 'Tago System',
   YOU_REALLY_WANT_EXIT: 'Do you really want to exit',
   YOUR_EMAIL_HASNT_BEEN_CONFIRMED: 'Your email hasn’t been confirmed yet. Confirm your email to use all TagoIO features.',
-
   TEMPLATE_TAB_NAME: 'Distribute the template of this $0',
   TEMPLATE_TAB_DESCRIPTION: 'Send the generated URL to others so they can access your $0 through a customized install page.',
   TEMPLATE_TAB_LINK_DESCRIPTION: 'Create a link that contains the template of this $0. Share the link with anyone.',
@@ -34,4 +33,12 @@ module.exports = {
   SETUP_LIST_DESCRIPTION_DASHBOARD: 'enter a detailed description for this device',
   COPIED: 'Copied',
   COPY: 'Copy',
+  NOTIFICATION_PROFILE_SHARE: '$0 wants to share a profile with you',
+  NOTIFICATION_BUCKET_SHARE: '$0 wants to share the bucket $1 with you',
+  NOTIFICATION_DASHBOARD_SHARE: '$0 wants to share the dashboard $1 with you',
+  NEW_USER_RESENT_CONFIRMATION_EMAIL: 'We\'ve sent an email to <b>$0</b>. Please, confirm your email to get access to all features!',
+  DASHBOARD_ACCEPTED_NOTIFICATION: 'The dashboard was added to the <b>left sidebar</b>.',
+  PROFILE_ACCEPTED_NOTIFICATION: 'The profile was accepted!<br /><b>Please logout</b> to get access to $0\'s account.',
+  BUCKET_ACCEPTED_NOTIFICATION: 'The bucket was accepted and added to the <b>bucket list</b>.',
+  GO_TO_DASHBOARD: 'Go to dashboard',
 };

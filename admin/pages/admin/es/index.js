@@ -10,7 +10,6 @@ module.exports = {
   TAGO_SYSTEM: 'Tago System',
   YOU_REALLY_WANT_EXIT: '¿Realmente desea salir',
   YOUR_EMAIL_HASNT_BEEN_CONFIRMED: 'Tu correo electrónico no ha sido confirmado todavía. Confirma tu correo electrónico para utilizar todas las funciones de TagoIO.',
-
   TEMPLATE_TAB_NAME: 'Distribute the template of this $0',
   TEMPLATE_TAB_DESCRIPTION: 'Send the generated URL to others so they can access your $0 through a customized install page.',
   TEMPLATE_TAB_LINK_DESCRIPTION: 'Create a link that contains the template of this $0. Share the link with anyone.',
@@ -34,4 +33,12 @@ module.exports = {
   SETUP_LIST_DESCRIPTION_DASHBOARD: 'enter a detailed description for this device',
   COPIED: 'Copied',
   COPY: 'Copy',
+  NOTIFICATION_PROFILE_SHARE: '$0 quiere compartir un perfil contigo',
+  NOTIFICATION_BUCKET_SHARE: '$0 quiere compartir el cubo $1 contigo',
+  NOTIFICATION_DASHBOARD_SHARE: '$0 quiere compartir el tablero $1 contigo',
+  NEW_USER_RESENT_CONFIRMATION_EMAIL: 'Hemos enviado un correo electrónico a <b> $0 </b>. Por favor, confirme su correo electrónico para obtener acceso a todas las funciones!',
+  DASHBOARD_ACCEPTED_NOTIFICATION: 'El panel de control se agregó a la <b> barra lateral izquierda </b>.',
+  PROFILE_ACCEPTED_NOTIFICATION: '¡Se aceptó el perfil! <br /> <b> Por favor cierre la sesión </b> para obtener acceso a la cuenta de $0.',
+  BUCKET_ACCEPTED_NOTIFICATION: 'El grupo se aceptó y se agregó a la <b> lista de grupos </b>.',
+  GO_TO_DASHBOARD: 'Ir al panel de control',
 };
