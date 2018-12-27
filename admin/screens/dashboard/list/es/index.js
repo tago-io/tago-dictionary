@@ -11,4 +11,7 @@ module.exports = {
 
   EXPLANATION_SHARING_DASHBOARDS: 'Compartir paneles de instrumentos',
   EXPLANATION_IF_YOUR_APPLICATION_PROVIDER_ALLOWS: 'Si su proveedor de aplicaciones lo permite, puede compartir sus paneles con otros durante el período de tiempo que desee. Simplemente haga clic en el ícono de engranaje superior derecho para otorgar o revocar el acceso a otros usuarios.',
+  
+  THIS_SHARE_WILL_NEVER_END: 'Este compartimiento nunca se cerrará',
+  THIS_SHARE_WILL_END_IN: 'Este compartimiento se cerrará en  $0',
 };

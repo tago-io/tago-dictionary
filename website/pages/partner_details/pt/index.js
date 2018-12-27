@@ -220,4 +220,6 @@ module.exports = {
     'a connector that turned the integration between both platforms very easy.  Check our ' +
     'documentation and follow the steps to get your LoRaWan devices up and running in minutes.',
   DETAIL_PARTNER35_WEBSITE: 'https://tago.elevio.help/en/articles/137',
+
+  LEARN_ABOUT_THIS_INTEGRATION_HERE: 'Saiba mais sobre essa integração aqui',
 };

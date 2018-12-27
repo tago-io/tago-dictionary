@@ -158,7 +158,7 @@ module.exports = {
   PRICING_RUN_SCRIPTS_ANALYZE_DATA: 'Run scripts to analyze data *',
   PRICING_RUN_MACHINE_LEARNING_REAL_TIME: 'Run machine learning in real-time *',
 
-  PRICING_HELP_8: "Build and run scripts on TagoIO to process data in real-time.",
+  PRICING_HELP_8: 'Build and run scripts on TagoIO to process data in real-time.',
   PRICING_HELP_9: 'Talk to our technical support about how to use Machine Learning in your application.',
 
   PRICING_SHARE_YOUR_APPLICATION_AND_DATA: 'Share your application and data',
@@ -251,7 +251,6 @@ module.exports = {
   PRICING_CALCULATOR_MO: '/mo',
   PRICING_CALCULATOR_REGISTERS: 'Registers',
   PRICING_CALCULATOR_TALKSALES: 'Talk with Sales',
-  PRICING_CALCULATOR_SHOWPRICES: 'Update Pricing Estimator',
   PRICING_CALCULATOR_INFO: 'Use our calculator to estimate your monthly cost. A register is counted for each variable (e.g. temperature) and its metadata (e.g. location). For simplification, we assume that each time an Analysis runs it reads 10 registers for calculation, which means 10 Data Output transactions per Analysis runs. Also, data will be stored for one month period. Click on Update Pricing Estimator button to update your monthly cost. Learn more about how transactions for each Service are',
   PRICING_CALCULATOR_LINK_INFO: 'calculated here',
 };
