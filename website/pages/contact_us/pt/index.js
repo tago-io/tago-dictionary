@@ -1,7 +1,7 @@
 module.exports = {
   CONTACT_US: 'Contact-us',
   CONTACT_US_DESCRIPTION: 'Preencha o formulário abaixo e entraremos em contato o mais breve possível.',
-  CONTACT_US_QUESTION: 'Você tem alguma pergunta para o nosso time de vendas?',
+  CONTACT_US_QUESTION: 'Você tem alguma pergunta para nós?',
   CONTACT_US_QUESTION_PLACEHOLDER_FIRST_NAME: 'Nome',
   CONTACT_US_QUESTION_PLACEHOLDER_LAST_NAME: 'Sobrenome',
   CONTACT_US_QUESTION_PLACEHOLDER_PHONE: 'Telefone',
