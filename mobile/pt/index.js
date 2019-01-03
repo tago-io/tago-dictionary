@@ -43,6 +43,7 @@ module.exports = {
   NOTIFICATIONS_IGNORE: 'Ignorar',
   NOTIFICATIONS_GOTODASH: 'Ir para o Painél',
   NOTIFICATIONS_APPSETTINGS: 'Configurações da aplicação',
+  NOTIFICATIONS_LIMITALERT: 'Alerta de limite',
   NOTIFICATIONS_NEWUSERREGISTERED: 'Novo usuário registrado',
   NOTIFICATIONS_NEWUSERREGISTERED_DESC: '$0$ acabou de criar uma conta na Tago. O item que você compartilhou está disponível para ele aceitar',
   NOTIFICATIONS_SHAREPROFILE: 'Compartilhamento de perfil',

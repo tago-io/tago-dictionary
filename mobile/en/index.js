@@ -42,6 +42,7 @@ module.exports = {
   NOTIFICATIONS_IGNORE: 'Ignore',
   NOTIFICATIONS_GOTODASH: 'Go to dashboard',
   NOTIFICATIONS_APPSETTINGS: 'Application settings',
+  NOTIFICATIONS_LIMITALERT: 'Limit Alert',
   NOTIFICATIONS_NEWUSERREGISTERED: 'New user registered',
   NOTIFICATIONS_NEWUSERREGISTERED_DESC: '$0$ just created an account on Tago. The item you shared is available for him to accept',
   NOTIFICATIONS_SHAREPROFILE: 'Sharing profile',
