@@ -131,66 +131,51 @@ module.exports = {
   PRICING_EXPAND_ALL: 'Mostrar todos',
   PRICING_NOT_INCLUDED: 'Não incluído',
   PRICING_SOME_FEATURES: 'Alguns recursos',
-
   PRICING_MANAGE_DEVICES: 'Gerencimanento de Dispositivos',
   PRICING_CONNECT_UNLIMITED_NUMBER_DEVICES: 'Conecte ilimitados dispositivos',
   PRICING_UP_TO: 'até',
   PRICING_TAGS_FOR_MANAGEMENT: 'Tags para gerenciamento',
-
   PRICING_HELP_1: 'Não cobramos com base no número de dispositivos conectados. Cada dispositivo recebe um token exclusivo para acessar sua conta.',
   PRICING_HELP_2: 'Gerencie todos os seus dispositivos usando Tags e organize-os por grupos.',
   PRICING_HELP_3: 'Cada vez que um dispositivo envia um registro de dado, ele é contado como uma transação de Entrada de Dados.',
-
   PRICING_CREATE_DASHBOARDS: 'Criação de painéis',
   PRICING_BUILD_UNLIMITED_NUMBER_DASHBOARDS: 'Número inlimitado de painéis',
   PRICING_PREMIUM_WIDGETS: 'Premium widgets',
   PRICING_EMBEDDED_WIDGETS: 'Embedded widgets',
-
   PRICING_HELP_4: 'Use nossas ferramentas poderosas e fáceis de usar para criar ótimas visualizaçoões de dados.',
   PRICING_HELP_5: 'Utilize widgets avançados que facilitam a interação dos usuários com seu aplicativo.',
-  PRICING_HELP_6: "Adicione widgets no seu site ou portal. A versão Scale permite remover a marca d'água 'Runs on Tago'.",
-
+  PRICING_HELP_6: 'Adicione widgets no seu site ou portal. A versão Scale permite remover a marca d\'água \'Runs on Tago\'.',
   PRICING_GO_MOBILE: 'Utilização no celular',
   PRICING_MOBILE_APP_ANDROIND_IOS: 'Aplicação para celular - Android & iOS',
-
   PRICING_HELP_7: 'TagoIO mobile está disponível gratuitamente para todos os usuários sem custo.',
-
   PRICING_RUN_ANALYSIS_REAL_TIME: 'Execução de análises em tempo real',
   PRICING_RUN_SCRIPTS_ANALYZE_DATA: 'Execução de scripts para analisar dados',
   PRICING_RUN_MACHINE_LEARNING_REAL_TIME: 'Execução machine learning em tempo real',
-
   PRICING_HELP_8: 'Faça o upload do seu próprio script na Análise da Tago para processar dados em tempo real.',
   PRICING_HELP_9: 'Fale com nosso suporte técnico para usar o Machine Learning para fazer previsões que trarão valor adicional aos suas aplicações.',
-
   PRICING_SHARE_YOUR_APPLICATION_AND_DATA: 'Compatilhamento aplicação e seus dados',
   PRICING_NATIVE_SHARING_FOR_DASHBOARDS: 'Compartilhamento nativo de Painéis',
   PRICING_NATIVE_SHARING_FOR_DATA_BUCKETS: 'Compartilhamento nativo de Buckets',
-
   PRICING_HELP_10: 'Com um clique, voce compartilha painéis com qualquer pessoa, pública ou privada. Usuários sem conta na TagoIO receberāo convites',
   PRICING_HELP_11: 'Com um clique, a TagoIO permite compartilhar seus dados com qualquer pessoa com segurança.',
-
   PRICING_AUTOMATE_EXPAND_SOLUTIONS_WITH_INTEGRATION: 'Automatize e expanda soluções com integração',
   PRICING_CONNECT_ANY_APP: 'Conecte-se a qualquer aplicativo',
   PRICING_CONNECT_SIGFOX_LORAWAN: 'Conecte-se com Sigfox, LoRaWan...',
   PRICING_NATIVE_INTEGRATION_MICROSOFT_FLOW: 'Integração nativa com Microsoft Flow',
   PRICING_NATIVE_INTEGRATION_CRM: 'Integração nativa com CRMs',
   PRICING_INTEGRATED_CUSTOMIZED_MIDDLEWARE: 'Integrado com middleware customizado',
-
   PRICING_HELP_12: 'Conecte sistemas externos a Tago usando nossa API RESTful fácil de usar',
   PRICING_HELP_13: 'Conecte seu dispositivo usando nosso conector para Sigfox, provedores LoRa e outros provedores de rede',
   PRICING_HELP_14: 'Integre sua solução com Googlesheets, Excel, Zendesk, Twitter e centenas de serviços por meio do Microsoft Flow',
   PRICING_HELP_15: 'Identifique mais oportunidades de vendas integrando seu CRM com a Tago',
   PRICING_HELP_16: 'Conecte a qualquer protocolo. Nosso middleware pode converter de UDP, TCP/IP ou conectar-se a vários formatos de banco de dados.',
-
   PRICING_SCALE_CONFIDENCE: 'Escale com segurança',
   PRICING_MONITORING_EVERY_TRANSACTION_AUDIT_LOG: 'Monitore todas as transações com Log de Auditoria',
   PRICING_SRIPTS_THAT_GRANT_DIFFERENT_LEVELS_ACCESS: 'Scripts concedem diferentes níveis de acesso',
   PRICING_ADD_USERS_MANAGE_ACCOUNT: 'Adicione usuários para gerenciar sua conta',
-
   PRICING_HELP_17: 'O registro de auditoria irá acompanhar quem acessou sua conta, que tipo de operações foram feitas e quando. O plano Starter oferece alguns recursos.',
   PRICING_HELP_18: 'Novos usuários terão acesso ao seu aplicativo com base no nível que você conceder a eles.',
   PRICING_HELP_19: 'Não cobramos pelos usuários finais, você pode compartilhar seu aplicativo sem nenhum custo para você ou seu cliente. Um usuário desenvolvedor adicional para o plano Starter e 10 para Scale',
-
   PRICING_BACK_UP_YOUR_DATA: 'Faça backup de seus dados',
   PRICING_DOWNLOAD_YOUR_DATA: 'Baixe seus dados',
   PRICING_DATA_RETENTION_POLICY: 'Política de retenção de dados',
@@ -198,42 +183,33 @@ module.exports = {
   PRICING_OFF_LINE_DATA_BACKUP_REDUCES_STORAGE_COST: 'Backup de dados off-line reduz o custo de armazenamento',
   PRICING_MAXIMUM_OUTPUT_DATA_TRANSACTIONS_PER_HOUR: 'Máxima saída de dados por hora',
   PRICING_MAXIMUM_INPUT_DATA_TRANSACTIONS_PER_HOUR: 'Máxima entrada de dados por hora',
-
   PRICING_HELP_20: 'Abaixe seus dados nos formatos .csv, JSON ou XML.',
   PRICING_HELP_21: 'Determine por quanto tempo os dados devem ser mantidos.',
   PRICING_HELP_22: 'Configure seu backup conforme necessário. Custo de armazenamento off-line é uma fração do custo on-line.',
-
   BRAND_ENGAGEMENT: 'Engajamento da marca',
   ADD_YOUR_LOGO_YOUR_APPLICATION: 'Adicione seu logotipo na aplicação',
   WHITE_LABEL_VERSION: 'Versão white-label',
-
   PRICING_HELP_23: 'Adicione o logotipo usando nossos widgets de imagem e vídeo',
   PRICING_HELP_24: 'Adicione seu próprio logotipo, cores e URL para engajar os clientes com sua marca.',
-
   PRICING_SERVICES_MAXIMUM_INPUT_PER_HOUR: 'Máxima entrada de dados por hora',
   PRICING_SERVICES_MAXIMUM_OUTPUT_PER_HOUR: 'Máxima saída de dados por hora',
   PRICING_SERVICES_TOTAL_NUMBER_OF_REGISTERS: 'Quantidade de dados disponiveis',
   PRICING_SERVICES_MAXIMUM_RUN_PER_HOUR: 'Máxima execução por hora',
   PRICING_SERVICES_MAXIMUM_PER_MONTH: 'Máxima execução por mês',
-
   PRICING_SERVICES_DATA_INPUT_TRANSACTIONS: 'Transações de entrada de dados',
   PRICING_SERVICES_DATA_OUTPUT_TRANSACTIONS: 'Transações de saída de dados',
   PRICING_SERVICES_ANALYSIS_RUNS: 'Execuções de análises',
   PRICING_SERVICES_DATA_REGISTERS_STORED: 'Dados armazenados',
   PRICING_SERVICES_SMS_SENT: 'SMS',
   PRICING_SERVICES_E_MAIL_SENT: 'E-Mail',
-
   PRICING_SERVICES_USAGE_ALLOC: 'Preços flexíveis e acessíveis',
   PRICING_SERVICES_USAGE_LOCATION_DESC: 'Você paga apenas pelos serviços contratados. Não cobramos por dispositivos, painéis ou usuários que utilizam seus painéis. Estime seu custo mensal usando as barras de configuração com base no uso estimado ou usando nossa Calculadora abaixo.',
-
   PRICING_FOR_DEVELOPERS_STUDENTS: 'Para desenvolvedores e estudantes que começam com a TagoIO',
   PRICING_FOR_DEVELOPERS_BUSINESSES: 'Para desenvolvedores e empresas que estão se preparando para liberar aplicativos',
   PRICING_FOR_BUSINESSES_READY_TO_SCALE: 'Para empresas prontas para ampliar aplicativos e otimizar suas operações',
-
   PRICING_ESTIMATED_MONTHLY_COST: 'Estimativa do custo mensal',
   PRICING_THIS_IS_PART_OF_SERVICES: 'O plano faz parte dos Serviços e precisa ser selecionado para o período (consulte os preços abaixo para um período de provisionamento de um mês)',
   PRICING_THIS_PAGE_IS_PROVIDED: 'Esta página é fornecida apenas para fins informativos e não tem garantia de estar livre de erros, nem está sujeita a quaisquer outras garantias.',
-
   PRICING_CALCULATOR: 'Calculadora de Preços',
   PRICING_CALCULATOR_HMANYDE: 'Quantos dispositivos?',
   PRICING_CALCULATOR_HMANYREG: 'Quantos registros enviados por pacote?',
@@ -255,4 +231,5 @@ module.exports = {
   PRICING_CALCULATOR_SHOWPRICES: 'Atualize o Preço Estimado',
   PRICING_CALCULATOR_INFO: 'Use nossa calculadora para estimar seu custo mensal. Um registro é contado para cada variável (ex. Temperatura) incluindo seu metadata (ex. localização). Para simplificar, assumimos que cada Analysis fará a leitura de 10 registros por vez, o que significa 10 Transaçoes de Data Output por Analysis. E também para o exemplo os registros são mantidos por 1 mês. Clique no botão Atualize o Preço Estimado para atualizar os cálculos. Leia mais sobre como as transações de cada serviço são',
   PRICING_CALCULATOR_LINK_INFO: 'calculados aqui',
+  PRICING_DESCRIPTION: 'O modelo de precificação do TagoIO é flexível e baseado no Plano e Serviços provisionados para sua aplicação. Você paga apenas pelos serviços que seleciona e pode usar nossa calculadora de preços para estimar seu custo mensal com base nas características de seu projeto.',
 };

@@ -47,4 +47,5 @@ module.exports = {
   ENERGY_CUSTOMER_STORY_2_AUTHOR: '<b>Eric Hoog</b>, <small>CEO - Zquel<small>',
   ENERGY_CUSTOMER_STORY_3_TITLE: 'A Tago tem sido fundamental no fornecimento de elementos críticos para nossa plataforma de Monitoramento/Controle Remoto Cellio IoT. A capacidade de costumizar a hospedagem de dados, painéis, aplicativos móveis, alertas e notificações permitiu o desenvolvimento de uma solução completa e pronta para uso, o que provou ser extremamente flexível, desejável e valiosa para nossos clientes corporativos.',
   ENERGY_CUSTOMER_STORY_3_AUTHOR: '<b>Brent Ward</b>, <small>VP. Device Solutions Inc<small>',
+  DEVICES_DESCRIPTION: 'O TagoIO é integrado com a maioria dos provedores de rede e sensores, de modo que é fácil para você construir sua solução de IoT. Basta selecionar seu dispositivo, adicionar as credenciais e clicar em instalar.',
 };

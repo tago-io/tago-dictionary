@@ -17,4 +17,5 @@ module.exports = {
   POLICY_SECURITY_DESCRIPTION: 'We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the personally identifiable information provided by our users. We do not, however, guarantee that unauthorized, inadvertent disclosure will never occur.',
   TRANSFER_CUSTOMER_INFORMATION: 'TRANSFER OF CUSTOMER INFORMATION',
   TRANSFER_CUSTOMER_INFORMATION_DESCRIPTION: 'Customer lists and information are properly considered assets of a business. Accordingly, if we merge with another entity or if we sell our assets to another entity, our customer lists and information, including personally identifiable information you have provided us, would be included among the assets that would be transferred.',
+  FAQ_DESCRIPTION: 'Dê uma olhada nas nossas perguntas frequentes sobre como o TagoIO funciona e quais opções estão disponíveis para você.',
 };

@@ -18,7 +18,7 @@ module.exports = {
   RESOURCES_DEVELOPERS_COMMUNITY_DESCRIPTION: 'Join our Tago community on Slack to get help from anyone, including our developers.',
   RESOURCES_DEVELOPERS_COMMUNITY_LINK1: 'Slack',
   RESOURCES_DEVELOPERS_CHANGELOG: 'Changelog',
-  RESOURCES_DEVELOPERS_CHANGELOG_DESCRIPTION: "Don't miss the latest updates done in our back-end or front-end.",
+  RESOURCES_DEVELOPERS_CHANGELOG_DESCRIPTION: 'Don\'t miss the latest updates done in our back-end or front-end.',
   RESOURCES_DEVELOPERS_CHANGELOG_LINK1: 'Back-end Changelog',
   RESOURCES_DEVELOPERS_CHANGELOG_LINK2: 'Front-end Changelog',
   RESOURCES_DEVELOPERS_SYSTEM_STATUS: 'System Status',
@@ -47,4 +47,5 @@ module.exports = {
   RESOURCES_FAQ_ANSWER5: 'Tago runs on cloud so that customers can get the best of redundancy, uptime with the minimum of overhead and costs. There is no on-premises version yet (for installation).',
   RESOURCES_FAQ_QUESTION6: 'Is Tago HIPAA and FedRAMP compliant?',
   RESOURCES_FAQ_ANSWER6: 'Our roadmap includes Tago certification for HIPPA (Health Insurance Portability and Accountability Act of 1996) and FedRAMP (Federal Risk and Authorization Management Program ). Contact us if any of these compliances are required for your project.',
+  DEVELOPERS_DESCRIPTION: 'Our knowledge area contains rich resources for you to quickly develop IoT solutions using TagoIO tools.',
 };

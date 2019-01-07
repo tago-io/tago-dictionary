@@ -16,4 +16,5 @@ module.exports = {
   INDUSTRIAL: 'Industrial',
   INDUSTRIAL_SHORT_DESCRIPTION: 'Reduzindo o tempo de inatividade, conectando-se em qualquer lugar',
   INDUSTRIAL_FULL_DESCRIPTION: 'Operações industriais críticas exigem soluções com alta confiabilidade e níveis de disponibilidade em ambientes agressivos. Nossos desenvolvedores projetaram aplicativos que monitoram e controlam sistemas de instalações localizados em grandes centros e em locais remotos. Uma combinação de cloud computing e edge computing é normalmente a melhor solução em tais casos - e os recursos do Tago se encaixam muito bem aqui. Em parceria com os melhores fornecedores de hardware, nossos clientes podem usar gateways inteligentes que podem tomar decisões locais em combinação com análises executadas na Tago. Algumas aplicações para refinaria de petróleo ou extração de madeira também podem se beneficiar da interface da Tago com os satélites.',
+  USE_CASES_META: 'Aprenda com alguns de nossos casos de uso que inspirarão você a criar sua própria solução que gera valor com base na plataforma TagoIO.',
 };

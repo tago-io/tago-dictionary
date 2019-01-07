@@ -29,14 +29,12 @@ module.exports = {
   BRENT_WARD: 'Brent Ward',
   BRENT_WARD_COMPANY: 'VP Biz Dev, Device Solutions Inc',
   BRENT_WARD_DESCRIPTION: 'TagoIO has been instrumental in providing critical elements for our Cellio IIoT Remote Monitoring/Control platform. The ability to white label their data hosting, dashboarding, mobile apps, alerts, and notifications have enabled us to provide a complete end-to-end out-of-the-box solution that has proven to be extremely flexible, desirable, and valuable to our corporate customers.',
-
   INDUSTRIAL_AUTOMATION: 'Industrial automation',
   SMART_IRRIGATION: 'Smart Irrigation',
   WAREHOUSE_INDOOR_LOCATION: 'Warehouse Indoor Location',
   COMPOSE: 'Compose',
   REFRIGERATED: 'Refrigerated',
   TELEMATICS: 'Telematics',
-
   MAIN_TITLE_HOME_PAGE: 'Easily Create Your Own IoT Solutions',
   SUB_TITLE_HOME_PAGE: 'Dashboard, Analytics, Storage, Notification, Device and User Management Included.',
   WHAT_IS_TAGO_IO: 'What is TagoIO?',
@@ -46,10 +44,11 @@ module.exports = {
   HOW_DOES_IT_WORK: 'How does it Work?',
   GET_DASHBOARD: 'Get dashboard',
   WHAT_CAN_I_DO_TITLE: 'What can I do with TagoIO?',
-  WHAT_CAN_I_DO_DESCRIPTION: 'Some examples of how TagoIO creates value ' +
-      'for different applications. Enter your e-mail to get a demo dashboard.',
+  WHAT_CAN_I_DO_DESCRIPTION: 'Some examples of how TagoIO creates value for different applications. Enter your e-mail to get a demo dashboard.',
   ENTER_EMAIL_GAIN_ACCESS: 'Please enter your e-mail below to gain access to the $0 dashboard',
   GOT_IT: 'Got it',
   WE_ARE_WAITING_FOR_YOU: 'We are waiting for you!',
   WE_SENT_YOU_EMAIL: 'We\'ve sent you an e-mail with the chosen dashboard, all you have to do is accept it!',
+  HOME_DESCRIPTION: 'TagoIO offers an end-to-end cloud platform that transforms the way businesses create value from connected products and user interactions with the Internet of Things.',
+  VIDEOS_DESCRIPTION: 'Watch these videos that contains training, webinars, demos, and how-to build IoT applications quickly and with confidence.',
 };

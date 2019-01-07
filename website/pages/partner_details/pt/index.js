@@ -35,7 +35,7 @@ module.exports = {
   DETAIL_PARTNER7_PRODUCT1: 'Dashboard',
   DETAIL_PARTNER7_PRODUCT2: 'Portal',
   DETAIL_PARTNER8_NAME: 'WND',
-  DETAIL_PARTNER8_DESCRIPTION1: "Sigfox Operator. The world’s first pan-continental wireless network for the Internet of Things. WND is a unique partnership covering over 70% of the GDP of Latin America. Combines SIGFOX's leading wireless connectivity solution and WND's decades of experience in network operations. Tago partnered with WND Brazil to support customers to implement their complete solution using Sigfox network and Tago platform.",
+  DETAIL_PARTNER8_DESCRIPTION1: 'Sigfox Operator. The world’s first pan-continental wireless network for the Internet of Things. WND is a unique partnership covering over 70% of the GDP of Latin America. Combines SIGFOX\'s leading wireless connectivity solution and WND\'s decades of experience in network operations. Tago partnered with WND Brazil to support customers to implement their complete solution using Sigfox network and Tago platform.',
   DETAIL_PARTNER8_WEBSITE: 'http://wndbrasil.com/index.php/ecossistema/',
   DETAIL_PARTNER9_NAME: 'Sigfox',
   DETAIL_PARTNER9_DESCRIPTION1: 'Tago is an official Channel Partner of Sigfox. Sigfox is the world’s leading provider of connectivity for the Internet of Things (IoT). The company has built a global network to connect billions of devices to the Internet while consuming as little energy as possible, as simply as possible. Sigfox’s unique approach to device-to-cloud communications addresses the three greatest barriers to global IoT adoption: cost, energy consumption, and global scalability.',
@@ -54,7 +54,7 @@ module.exports = {
   DETAIL_PARTNER11_PRODUCT3: 'Dashboard',
   DETAIL_PARTNER12_NAME: 'Wiser Systems',
   DETAIL_PARTNER12_DESCRIPTION1: 'The WISER Locator™ is the industry’s first easy-to-install and easy-to-use wireless mesh location system. It delivers real-time, inexpensive location of critical assets within a defined perimeter – indoors or out – accurate within one meter. Our Redundant, Real-time Locating Technology (RRLT™) provides autonomous, granular location and ‘on-the-move’ tracking that can be monitored through a web-based interface from any computer or mobile device.',
-  DETAIL_PARTNER12_DESCRIPTION2: "This systems includes Mesh Antenna Nodes, key-fob-sized Mini Tracker Tags, and WISER's Locator Software. Antenna Nodes delineate a mesh network within which individual tags can be tracked, sending real-time alerts and updates on the status of tagged assets to a computer or mobile device.",
+  DETAIL_PARTNER12_DESCRIPTION2: 'This systems includes Mesh Antenna Nodes, key-fob-sized Mini Tracker Tags, and WISER\'s Locator Software. Antenna Nodes delineate a mesh network within which individual tags can be tracked, sending real-time alerts and updates on the status of tagged assets to a computer or mobile device.',
   DETAIL_PARTNER12_WEBSITE: 'https://www.wisersystems.com',
   DETAIL_PARTNER12_PRODUCT1: 'Kit',
   DETAIL_PARTNER13_NAME: 'Duodigit',
@@ -96,7 +96,7 @@ module.exports = {
   DETAIL_PARTNER21_PRODUCT2: 'mcModule120',
   DETAIL_PARTNER21_PRODUCT3: 'mcDemo205',
   DETAIL_PARTNER22_NAME: 'DevTecnologia',
-  DETAIL_PARTNER22_DESCRIPTION1: "DEV Tecnologia offers complete development services for electronic products from RF hardware to software. We also offer our own designed products as OEM and make customizations for our client's needs.",
+  DETAIL_PARTNER22_DESCRIPTION1: 'DEV Tecnologia offers complete development services for electronic products from RF hardware to software. We also offer our own designed products as OEM and make customizations for our client\'s needs.',
   DETAIL_PARTNER22_DESCRIPTION2: 'DEV Tecnologia is a design house that offers complete solutions for IoT with state of the art technologies in the world. We are pioneers in Brazil in providing engineering services for IoT, thanks to our deep expertise in embedded electronics, wireless communication, ultra-low power consumption and software for wireless sensor networks. We are the current leader in our market and reference in IoT design in Brazil, having as clients Ambev, Intelbras, Positivo, Samsung, Telefonica Vivo, Natura among others.',
   DETAIL_PARTNER22_WEBSITE: 'http://www.devtecnologia.com.br/',
   DETAIL_PARTNER22_PRODUCT1: 'Dev Track SmartTags (Beacons)',
@@ -157,69 +157,24 @@ module.exports = {
   DETAIL_PARTNER30_DESCRIPTION: 'A uDEV é uma empresa de pesquisa, desenvolvimento e inovação, localizada em Campinas/SP. Foi criada nos modernos conceitos de startups, onde todos podem – e devem – contribuir com ideias, opiniões e sonhos! Conta com uma equipe de profissionais qualificados e experientes em diversas áreas de conhecimento, transformando grandes ideias em produtos e soluções diferenciadas.',
   DETAIL_PARTNER30_WEBSITE: 'http://www.udev.com.br/',
   DETAIL_PARTNER30_PRODUCT1: 'PMS100',
-
-  // Sigmais:
   DETAIL_PARTNER31_NAME: 'Sigmais',
-  DETAIL_PARTNER31_DESCRIPTION: 'Sigmais is a thecnology company focused on the IoT market. ' +
-    'Our mission is to develop and deploy innovative solutions based on IoT aiming to turn ' +
-    'people life easier and better. Sigmais has the technical competence and capabilities ' +
-    'needed to supply the complete solution, from the design phase to the manufacturing process.' +
-    'We offer some off-the-self sensors and design customized project as well.',
+  DETAIL_PARTNER31_DESCRIPTION: 'Sigmais is a thecnology company focused on the IoT market. Our mission is to develop and deploy innovative solutions based on IoT aiming to turn people life easier and better. Sigmais has the technical competence and capabilities needed to supply the complete solution, from the design phase to the manufacturing process.We offer some off-the-self sensors and design customized project as well.',
   DETAIL_PARTNER31_WEBSITE: 'http://sigmais.com.br/',
-
-  // Globalsat:
   DETAIL_PARTNER32_NAME: 'GlobalSat',
-  DETAIL_PARTNER32_DESCRIPTION: 'GlobalSat WorldCom Corp. was established in 2000 and soon ' +
-    'became a major manufacturer for GPS receivers and module makers in the world. After ' +
-    'years of innovation and cultivation, GlobalSat has accumulated profound experiences in ' +
-    'all types of GPS application fields and refined its core product lines into four categories: ' +
-    '1. GPS Tracking System for personal and fleet, ' +
-    '2. GPS/Bluetooth Wearable Sport Devices, ' +
-    '3. IoT Products(3G/4G, NB-IoT, Lora, Sigfox), ' +
-    '4. GPS Modules and Receivers. We have strong confidence and are prepared for the upcoming IoT world!',
+  DETAIL_PARTNER32_DESCRIPTION: 'GlobalSat WorldCom Corp. was established in 2000 and soon became a major manufacturer for GPS receivers and module makers in the world. After years of innovation and cultivation, GlobalSat has accumulated profound experiences in all types of GPS application fields and refined its core product lines into four categories: 1. GPS Tracking System for personal and fleet, 2. GPS/Bluetooth Wearable Sport Devices, 3. IoT Products(3G/4G, NB-IoT, Lora, Sigfox), 4. GPS Modules and Receivers. We have strong confidence and are prepared for the upcoming IoT world!',
   DETAIL_PARTNER32_WEBSITE: 'https://www.globalsat.com.tw/en/product-c30692/IoT-M2M.html',
   DETAIL_PARTNER32_PRODUCT1: 'LT-100',
   DETAIL_PARTNER32_PRODUCT2: 'LT-501',
   DETAIL_PARTNER32_PRODUCT3: 'LS-134',
-
-  // Everynet:
   DETAIL_PARTNER33_NAME: 'Everynet LoRaWan Network',
-  DETAIL_PARTNER33_DESCRIPTION: 'Everynet is a leading Low Power Wide Area (LPWA) technology pioneer ' +
-    'and network operator with deployments around the globe including the Americas, EMEA, and APAC. ' +
-    'In green-field geographies, Everynet builds and operates neutral-host shared infrastructure to ' +
-    'enable MNOs and Enterprises to rapidly enter the IoT market using our Low Cost Wide Area™ technology. ' +
-    'Outside of our network footprint, Evernet licenses IP to the LoRaWAN ecosystem including technology ' +
-    'providers, network operators, platform companies, and device companies.  Everynet is a Contributor ' +
-    'Member of the LoRa Alliance™. Everynet in partnership with TagoIO, released a new connector, ' +
-    'making it easier and more intuitive to link your devices between Everynet and TagoIO platforms. ' +
-    'The new move simplifies & streamlines the addition of any new device added to an Everynet ' +
-    'account to be automatically accessible in TagoIO with its data ready to be visualized and processed.',
+  DETAIL_PARTNER33_DESCRIPTION: 'Everynet is a leading Low Power Wide Area (LPWA) technology pioneer and network operator with deployments around the globe including the Americas, EMEA, and APAC. In green-field geographies, Everynet builds and operates neutral-host shared infrastructure to enable MNOs and Enterprises to rapidly enter the IoT market using our Low Cost Wide Area™ technology. Outside of our network footprint, Evernet licenses IP to the LoRaWAN ecosystem including technology providers, network operators, platform companies, and device companies.  Everynet is a Contributor Member of the LoRa Alliance™. Everynet in partnership with TagoIO, released a new connector, making it easier and more intuitive to link your devices between Everynet and TagoIO platforms. The new move simplifies & streamlines the addition of any new device added to an Everynet account to be automatically accessible in TagoIO with its data ready to be visualized and processed.',
   DETAIL_PARTNER33_WEBSITE: 'https://tago.elevio.help/en/articles/129',
-
-  // TTN:
   DETAIL_PARTNER34_NAME: 'The Things Network LoRaWan Network',
-  DETAIL_PARTNER34_DESCRIPTION: 'The Things Network is building a network for the Internet of Things by ' +
-    'creating abundant data connectivity, so applications and businesses can flourish. The technology ' +
-    'we use is called LoRaWAN and it allows for things to talk to the internet without 3G or WiFi. ' +
-    'So no WiFi codes and no mobile subscriptions. It features low battery usage, long range and ' +
-    'low bandwidth. Perfect for the internet of things. TagoIO and TTN partnered to release a ' +
-    'connector that turned very easy for developers to integrate both systems.  Take a look at our ' +
-    'tutorial to get your LoRaWan devices communicating with TagoIO',
+  DETAIL_PARTNER34_DESCRIPTION: 'The Things Network is building a network for the Internet of Things by creating abundant data connectivity, so applications and businesses can flourish. The technology we use is called LoRaWAN and it allows for things to talk to the internet without 3G or WiFi. So no WiFi codes and no mobile subscriptions. It features low battery usage, long range and low bandwidth. Perfect for the internet of things. TagoIO and TTN partnered to release a connector that turned very easy for developers to integrate both systems.  Take a look at our tutorial to get your LoRaWan devices communicating with TagoIO',
   DETAIL_PARTNER34_WEBSITE: 'https://tago.elevio.help/en/articles/129',
-
-  // Loriot:
   DETAIL_PARTNER35_NAME: 'Loriot LoRaWan Network',
-  DETAIL_PARTNER35_DESCRIPTION: 'LORIOT AG is a Swiss start-up in the field of Internet of ' +
-    'Things, founded in 2015. Our core product today is software for scalable, distributed, ' +
-    'resilient operation of LoRaWAN networks and end-to-end applications, which we offer under a ' +
-    'variety of business models. Due to our unique positioning in the LoRa ecosystem as both ' +
-    'software provider and network operator, we are in direct contact with LoRa hardware producers ' +
-    'and integrate many of their solutions directly with our services. The collaboration allows us ' +
-    'to offer not only network software, but a complete end-to-end solution for a real-world IoT ' +
-    'application, including gateway and sensor hardware. Loriot and TagoIO collaborated to release ' +
-    'a connector that turned the integration between both platforms very easy.  Check our ' +
-    'documentation and follow the steps to get your LoRaWan devices up and running in minutes.',
+  DETAIL_PARTNER35_DESCRIPTION: 'LORIOT AG is a Swiss start-up in the field of Internet of Things, founded in 2015. Our core product today is software for scalable, distributed, resilient operation of LoRaWAN networks and end-to-end applications, which we offer under a variety of business models. Due to our unique positioning in the LoRa ecosystem as both software provider and network operator, we are in direct contact with LoRa hardware producers and integrate many of their solutions directly with our services. The collaboration allows us to offer not only network software, but a complete end-to-end solution for a real-world IoT application, including gateway and sensor hardware. Loriot and TagoIO collaborated to release a connector that turned the integration between both platforms very easy.  Check our documentation and follow the steps to get your LoRaWan devices up and running in minutes.',
   DETAIL_PARTNER35_WEBSITE: 'https://tago.elevio.help/en/articles/137',
-
   LEARN_ABOUT_THIS_INTEGRATION_HERE: 'Saiba mais sobre essa integração aqui',
+  PARTNERS_DESCRIPTION: 'Nossos parceiros podem aproveitar sua experiência em hardware, firmware, aplicativos e rede para ajudá-lo a criar a melhor solução criada na plataforma TagoIO.',
 };

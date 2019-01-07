@@ -29,14 +29,12 @@ module.exports = {
   BRENT_WARD: 'Brent Ward',
   BRENT_WARD_COMPANY: 'VP, Device Solutions Inc',
   BRENT_WARD_DESCRIPTION: 'A Tago tem sido fundamental no fornecimento de elementos críticos para nossa plataforma de Monitoramento/Controle Remoto Cellio IoT. A capacidade de costumizar a hospedagem de dados, painéis, aplicativos móveis, alertas e notificações permitiu o desenvolvimento de uma solução completa e pronta para uso, o que provou ser extremamente flexível, desejável e valiosa para nossos clientes corporativos.',
-
   INDUSTRIAL_AUTOMATION: 'Automação Industrial',
   SMART_IRRIGATION: 'Irrigação Inteligente',
   WAREHOUSE_INDOOR_LOCATION: 'Localização interna de Depósito',
   COMPOSE: 'Composição',
   REFRIGERATED: 'Refrigeração',
   TELEMATICS: 'Telemática',
-
   MAIN_TITLE_HOME_PAGE: 'Crie Rapidamente Suas Próprias Soluções IoT',
   SUB_TITLE_HOME_PAGE: 'Painéis, Analíticas, Armazenamento, Notificações, Dispositivos e Gerenciamento de usuários inclusos',
   WHAT_IS_TAGO_IO: 'O que é a TagoIO?',
@@ -46,10 +44,11 @@ module.exports = {
   HOW_DOES_IT_WORK: 'Como funciona?',
   GET_DASHBOARD: 'Adquirir Painel',
   WHAT_CAN_I_DO_TITLE: 'O que posso fazer com a TagoIO?',
-  WHAT_CAN_I_DO_DESCRIPTION: 'Alguns exemplos de como a TagoIO cria valor ' +
-      'para aplicações diferentes, adicione-os na sua conta para vê-los em ação.',
+  WHAT_CAN_I_DO_DESCRIPTION: 'Alguns exemplos de como a TagoIO cria valor para aplicações diferentes, adicione-os na sua conta para vê-los em ação.',
   ENTER_EMAIL_GAIN_ACCESS: 'Por favor insira seu e-mail para adquirir acesso ao painel $0',
   GOT_IT: 'Entendi',
   WE_ARE_WAITING_FOR_YOU: 'Estamos esperando por você!',
   WE_SENT_YOU_EMAIL: 'We\'ve sent you an e-mail with the chosen dashboard, all you have to do is accept it!',
+  HOME_DESCRIPTION: 'O TagoIO oferece uma plataforma de nuvem de ponta a ponta que transforma a maneira como as empresas criam valor a partir de produtos conectados e interações do usuário com a Internet das Coisas.',
+  VIDEOS_DESCRIPTION: 'Assista a esses vídeos que contêm treinamento, seminários on-line, demonstrações e como criar aplicativos da IoT com rapidez e confiança.',
 };

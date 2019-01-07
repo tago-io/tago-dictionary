@@ -108,8 +108,8 @@ module.exports = {
   PRICING_EXAMPLE_2_MONTHLY_SERVICE_CHARGES_VALUE2: 'or about $0.16 /device',
   FREQUENTLY_ASKED_QUESTIONS: 'Frequently Asked Questions',
   PRICING_QUESTION1: 'For what will I be charged for?',
-  PRICING_RESPONSE1: "Different from other providers, Tago doesn't charge by the number of devices, dashboards, or even for end users. Our model is based on Plan and Services provisioned in your account. The amount will be committed until the last day of the month and the billing will be renewed automatically in the following month. You can also include some add-ons, such as support plans.",
-  PRICING_QUESTION2: "What is Tago's billing cycle?",
+  PRICING_RESPONSE1: 'Different from other providers, Tago doesn\'t charge by the number of devices, dashboards, or even for end users. Our model is based on Plan and Services provisioned in your account. The amount will be committed until the last day of the month and the billing will be renewed automatically in the following month. You can also include some add-ons, such as support plans.',
+  PRICING_QUESTION2: 'What is Tago\'s billing cycle?',
   PRICING_RESPONSE2: 'TagoIO closes the billing period at midnight on the last day of each month. Invoices are generally available within the first four days of the month.',
   PRICING_QUESTION3: 'If I upgrade my plan, how will that be billed?',
   PRICING_RESPONSE3: 'We make a one-time prorated charge at the time of the upgrade for the equivalent reminder of the billing cycle. For example, if you upgrade from the Free plan to the Starter plan when there is 10 remaining days in the month, we will charge 1/3 of the Starter monthly pricing immediately when you confirm the upgrade. In the next month, we will charge the full price of the Starter plan and the provisioned services.',
@@ -123,73 +123,57 @@ module.exports = {
   PRICING_RESPONSE7: 'First, your subscription will remain active at its current level through the end of the billing period that you’ve already paid for. Then, while in the free plan, our system will force the 30-days data retention policy - i.e. all data with timestamp older than that will be removed. So, we highly recommend that you plan this operation carefully to prevent undesired data lost.',
   PRICING_QUESTION8: 'How is the Analysis Timeout defined?',
   PRICING_RESPONSE8: 'When the Analysis runs your script, the execution time should be less than the Timeout defined for your plan. You can monitor the status using the Console feature.',
-
   PRICING_ADDITIONAL_COAST: 'Additional Cost',
   PRICING_ALL_FEATURES: 'All features',
   PRICING_COLLAPSE_ALL: 'Collapse All',
   PRICING_EXPAND_ALL: 'Expand All',
   PRICING_NOT_INCLUDED: 'Not Included',
   PRICING_SOME_FEATURES: 'Some features',
-
   PRICING_MANAGE_DEVICES: 'Manage Devices',
   PRICING_CONNECT_UNLIMITED_NUMBER_DEVICES: 'Connect unlimited number of devices',
   PRICING_UP_TO: 'up to',
   PRICING_TAGS_FOR_MANAGEMENT: 'Tags for management',
-
-  PRICING_HELP_1: "We don't charge based on the number of devices connected. Each device receives a unique token.",
+  PRICING_HELP_1: 'We don\'t charge based on the number of devices connected. Each device receives a unique token.',
   PRICING_HELP_2: 'Organize all your devices by groups using Tags.',
   PRICING_HELP_3: 'Each register posted to TagoIO is counted at least as one transaction',
-
   PRICING_CREATE_DASHBOARDS: 'Create Dashboards',
   PRICING_BUILD_UNLIMITED_NUMBER_DASHBOARDS: 'Build unlimited number of dashboards',
   PRICING_PREMIUM_WIDGETS: 'Premium widgets',
   PRICING_EMBEDDED_WIDGETS: 'Embedded widgets',
-
   PRICING_HELP_4: 'Use our powerful and easy to use tools to build great ways to visualize data.',
   PRICING_HELP_5: 'Use advanced widgets that make easier for users to interact with your application.',
-  PRICING_HELP_6: "Embed widget on your own website. Scale Plan allows you to remove 'Runs on Tago' water mark.",
-
+  PRICING_HELP_6: 'Embed widget on your own website. Scale Plan allows you to remove \'Runs on Tago\' water mark.',
   PRICING_GO_MOBILE: 'Go Mobile',
   PRICING_MOBILE_APP_ANDROIND_IOS: 'Mobile app - Android & iOS',
-
   PRICING_HELP_7: 'TagoIO mobile App is available for free to all users.',
-
   PRICING_RUN_ANALYSIS_REAL_TIME: 'Run Analysis in real-time',
   PRICING_RUN_SCRIPTS_ANALYZE_DATA: 'Run scripts to analyze data *',
   PRICING_RUN_MACHINE_LEARNING_REAL_TIME: 'Run machine learning in real-time *',
-
   PRICING_HELP_8: 'Build and run scripts on TagoIO to process data in real-time.',
   PRICING_HELP_9: 'Talk to our technical support about how to use Machine Learning in your application.',
-
   PRICING_SHARE_YOUR_APPLICATION_AND_DATA: 'Share your application and data',
   PRICING_NATIVE_SHARING_FOR_DASHBOARDS: 'Native sharing for dashboards',
   PRICING_NATIVE_SHARING_FOR_DATA_BUCKETS: 'Native sharing for data buckets',
-
   PRICING_HELP_10: 'One-click sharing: share dashboards with anyone, publically or privately.',
   PRICING_HELP_11: 'One-click sharing: share your data with anyone securely.',
-
   PRICING_AUTOMATE_EXPAND_SOLUTIONS_WITH_INTEGRATION: 'Automate and expand solutions with integration',
   PRICING_CONNECT_ANY_APP: 'Connect to any App',
   PRICING_CONNECT_SIGFOX_LORAWAN: 'Connect to Sigfox, LoRa,...',
   PRICING_NATIVE_INTEGRATION_MICROSOFT_FLOW: 'Native integration with Microsoft Flow',
   PRICING_NATIVE_INTEGRATION_CRM: 'Native integration with CRM',
   PRICING_INTEGRATED_CUSTOMIZED_MIDDLEWARE: 'Protocol translator',
-
   PRICING_HELP_12: 'Connect to external systems using our RESTful API',
   PRICING_HELP_13: 'Connect devices using connectors for Sigfox, LoRa and other network providers',
   PRICING_HELP_14: 'Integrate with GoogleSheets, Excel, Zendesk, Twitter, and hundreds of services through Microsoft Flow',
   PRICING_HELP_15: 'Indentify sales opportunities by integrating your CRM with TagoIO',
   PRICING_HELP_16: 'TagoIO connects to any protocol. Convert from UDP, TCP/IP, or connect to any database formats.',
-
   PRICING_SCALE_CONFIDENCE: 'Scale Up with confidence',
   PRICING_MONITORING_EVERY_TRANSACTION_AUDIT_LOG: 'Monitore all transactions with Audit Log',
   PRICING_SRIPTS_THAT_GRANT_DIFFERENT_LEVELS_ACCESS: 'Grant different levels of access for users',
   PRICING_ADD_USERS_MANAGE_ACCOUNT: 'Add users to work in your account',
-
   PRICING_HELP_17: 'Audit Log tracks all operations executed and who accessed your account. Starter Plan offers some capabilities.',
   PRICING_HELP_18: 'Users access your application based on the level you grant to them.',
-  PRICING_HELP_19: "We don't charge for final users, you can share your application at no cost. Add users to manage your account. One additional user for the Starter plan, and 10 for Scale.",
-
+  PRICING_HELP_19: 'We don\'t charge for final users, you can share your application at no cost. Add users to manage your account. One additional user for the Starter plan, and 10 for Scale.',
   PRICING_BACK_UP_YOUR_DATA: 'Manage your data',
   PRICING_DOWNLOAD_YOUR_DATA: 'Easy data downloading',
   PRICING_DATA_RETENTION_POLICY: 'Fast Data Storage for registers *',
@@ -197,24 +181,19 @@ module.exports = {
   PRICING_OFF_LINE_DATA_BACKUP_REDUCES_STORAGE_COST: 'Off-line data backup reduces storage cost',
   PRICING_MAXIMUM_OUTPUT_DATA_TRANSACTIONS_PER_HOUR: 'High rate of Output Data Transactions per hour *',
   PRICING_MAXIMUM_INPUT_DATA_TRANSACTIONS_PER_HOUR: 'High rate of Input Data transactions per hour *',
-
   PRICING_HELP_20: 'Download your data in .csv, JSON, or XML formats.',
   PRICING_HELP_21: 'Define how long your data should be kept.',
   PRICING_HELP_22: 'Configure data buckets to back-up as needed.',
-
   BRAND_ENGAGEMENT: 'Brand engagement',
   ADD_YOUR_LOGO_YOUR_APPLICATION: 'Add your logo in your application',
   WHITE_LABEL_VERSION: 'White label version',
-
   PRICING_HELP_23: 'Add logo using Image or Video widgets in seconds',
   PRICING_HELP_24: 'Add your logo, colors, and url to engage customers with your brand.',
-
   PRICING_SERVICES_MAXIMUM_INPUT_PER_HOUR: 'Maximum input per hour',
   PRICING_SERVICES_MAXIMUM_OUTPUT_PER_HOUR: 'Maximum output per hour',
   PRICING_SERVICES_TOTAL_NUMBER_OF_REGISTERS: 'Quantity of registers available',
   PRICING_SERVICES_MAXIMUM_RUN_PER_HOUR: 'Maximum runs per hour',
   PRICING_SERVICES_MAXIMUM_PER_MONTH: 'Maximum per month',
-
   PRICING_SERVICES_DATA_INPUT_TRANSACTIONS: 'Data Input Transactions',
   PRICING_SERVICES_DATA_OUTPUT_TRANSACTIONS: 'Data Output Transactions',
   PRICING_SERVICES_ANALYSIS_RUNS: 'Analysis Runs',
@@ -222,16 +201,13 @@ module.exports = {
   PRICING_SERVICES_SMS_SENT: 'SMS',
   PRICING_SERVICES_E_MAIL_SENT: 'E-Mail',
   PRICING_SERVICES_USAGE_ALLOC: 'Flexible and Affordable Pricing​',
-  PRICING_SERVICES_USAGE_LOCATION_DESC: "You only pay for the services you selected. We don't charge by devices, dashboards or users that access your dashboards. Estimate your monthly cost using the setting bars based on the expected usage, or use our Pricing Calculator below.",
-
+  PRICING_SERVICES_USAGE_LOCATION_DESC: 'You only pay for the services you selected. We don\'t charge by devices, dashboards or users that access your dashboards. Estimate your monthly cost using the setting bars based on the expected usage, or use our Pricing Calculator below.',
   PRICING_FOR_DEVELOPERS_STUDENTS: 'For developers and students starting with TagoIO',
   PRICING_FOR_DEVELOPERS_BUSINESSES: 'For developers and businesses preparing to release applications',
   PRICING_FOR_BUSINESSES_READY_TO_SCALE: 'For businesses ready to scale up and optimize their operations',
-
   PRICING_ESTIMATED_MONTHLY_COST: 'Estimated monthly cost',
   PRICING_THIS_IS_PART_OF_SERVICES: 'This is part of Services, and needs to be selected for the period (see pricing below for one-month period)',
   PRICING_THIS_PAGE_IS_PROVIDED: 'This page is provided for informational purposes only and is not warranted to be error-free, nor is it subject to any other warranties.',
-
   PRICING_CALCULATOR: 'Pricing Calculator',
   PRICING_CALCULATOR_HMANYDE: 'How many devices?',
   PRICING_CALCULATOR_HMANYREG: 'How many registers sent per package?',
@@ -253,4 +229,5 @@ module.exports = {
   PRICING_CALCULATOR_TALKSALES: 'Talk with Sales',
   PRICING_CALCULATOR_INFO: 'Use our calculator to estimate your monthly cost. A register is counted for each variable (e.g. temperature) and its metadata (e.g. location). For simplification, we assume that each time an Analysis runs it reads 10 registers for calculation, which means 10 Data Output transactions per Analysis runs. Also, data will be stored for one month period. Click on Update Pricing Estimator button to update your monthly cost. Learn more about how transactions for each Service are',
   PRICING_CALCULATOR_LINK_INFO: 'calculated here',
+  PRICING_DESCRIPTION: 'The TagoIO pricing model is flexible and based on the Plan and Services provisioned for your application. You only pay for the services you select, and you can use our Pricing calculator to estimate your monthly cost based on your project characteristics. ',
 };

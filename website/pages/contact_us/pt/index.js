@@ -24,4 +24,5 @@ module.exports = {
   CONTACT_US_SUPPORT_SMS_HREF: 'tel:8006077410',
   CONTACT_US_SUPPORT_SMS_POINT: '.',
   CONTACT_US_SUPPORT_EMAIL_SMS: 'Contato',
+  CONTACT_US_META: 'Envie-nos suas perguntas ou comentários com suas informações de contato e nós, nossas equipes técnicas ou comerciais, responderemos o mais rápido possível.',
 };
