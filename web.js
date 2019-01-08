@@ -30,6 +30,10 @@ function Dictionary(path, langs) {
     return data;
   }
 
+  this.getData = function() {
+    return data;
+  }
+
   this.translate = function (key, args) {
     if (!Object.keys(data).length) {
       self.initialize();
