@@ -41,4 +41,9 @@ module.exports = {
   PROFILE_ACCEPTED_NOTIFICATION: '¡Se aceptó el perfil! <br /> <b> Por favor cierre la sesión </b> para obtener acceso a la cuenta de $0.',
   BUCKET_ACCEPTED_NOTIFICATION: 'El grupo se aceptó y se agregó a la <b> lista de grupos </b>.',
   GO_TO_DASHBOARD: 'Ir al panel de control',
+  HOME_END_USER_INTRO: 'TagoIO es la mejor herramienta para que los usuarios interactúen con dispositivos conectados a sus aplicaciones. Simplemente seleccione un panel y siga las instrucciones para operar la aplicación.',
+  NOT_A_DEV_DESCRIPTION: 'Si no eres un desarrollador, usa nuestra Vista Simple. ¡Es más fácil de usar!',
+  CHANGE_TO_SIMPLE_USER_VIEW: 'Cambiar a vista simple',
+  CHANGE_TO_DEVELOPER_VIEW: 'Cambiar a desarrollador',
+  A_DEV_DESCRIPTION: 'Soy un desarrollador y construiré aplicaciones en la plataforma.',
 };

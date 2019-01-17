@@ -41,4 +41,9 @@ module.exports = {
   PROFILE_ACCEPTED_NOTIFICATION: 'O perfil foi aceito! <br /> <b> Por favor, faça logout</b> para ter acesso à conta de $0.',
   BUCKET_ACCEPTED_NOTIFICATION: 'O intervalo foi aceito e adicionado à <b> lista de intervalos</b>.',
   GO_TO_DASHBOARD: 'Ir para o painel',
+  HOME_END_USER_INTRO: 'A TagoIO possui as melhores ferramentas para os usuários interagirem com dispositivos conectados a seus aplicativos. Basta selecionar um painel e seguir as instruções para operar o aplicativo.',
+  NOT_A_DEV_DESCRIPTION: 'Se você não é um desenvolvedor, use nosso modo de exibição simples. É mais fácil de usar!',
+  CHANGE_TO_SIMPLE_USER_VIEW: 'Alterar para exibição simples',
+  CHANGE_TO_DEVELOPER_VIEW: 'Alterar para desenvolvedor',
+  A_DEV_DESCRIPTION: 'Sou desenvolvedor e desenvolverei aplicativos na plataforma.',
 };

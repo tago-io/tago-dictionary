@@ -41,4 +41,9 @@ module.exports = {
   PROFILE_ACCEPTED_NOTIFICATION: 'The profile was accepted!<br /><b>Please logout</b> to get access to $0\'s account.',
   BUCKET_ACCEPTED_NOTIFICATION: 'The bucket was accepted and added to the <b>bucket list</b>.',
   GO_TO_DASHBOARD: 'Go to dashboard',
+  HOME_END_USER_INTRO: 'TagoIO is the best tools for users to interact with devices connected to their applications. Just select a dashboard and follow the directions to operate the application.',
+  NOT_A_DEV_DESCRIPTION: 'If you are not a developer, use our Simple View. It is easier to use!',
+  CHANGE_TO_SIMPLE_USER_VIEW: 'Change to Simple View',
+  CHANGE_TO_DEVELOPER_VIEW: 'Change to developer',
+  A_DEV_DESCRIPTION: 'I’m a developer, and will build applications in the platform.',
 };
