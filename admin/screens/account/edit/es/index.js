@@ -11,7 +11,7 @@ module.exports = {
   ENTER_YOUR_PASSWORD: 'Ingrese la contraseña',
   ENTER_YOUR_PHONE_NUMBER: 'Ingrese su número telefónico',
   FINAL_USER: 'Usuario Final',
-  HIDE_TOUR: "Botón ocultar 'Tour'",
+  HIDE_TOUR: 'Botón ocultar \'Tour\'',
   I_AM_USER_FINAL_USER: 'Soy un',
   I_AM_DEVELOPER: 'Soy un',
   I_WILL_BUILD_APPLICATIONS_TAGO: 'Construiré aplicaciones en Tago',
@@ -33,4 +33,8 @@ module.exports = {
   WIDGET_MENU: 'Widget de menú',
   WIDGET_FOOTER: 'Pie de página del widget',
   YOU_NEED_ENTER_SAME_PASSWORD_TWICE: 'Debes ingresar la misma contraseña dos veces',
+  ACCOUNT_TYPE_DESCRIPTION: 'Aquí puede definir qué tipo de cuenta va a utilizar.',
+  ACCOUNT_TYPE_FINAL_USER_DESCRIPTION: 'No usarás TagoIO para crear aplicaciones, solo para usarlas. Utilice esta opción si no sabe lo que está haciendo.',
+  ACCOUNT_TYPE_DEVELOPER_DESCRIPTION: 'Estarás usando TagoIO para crear aplicaciones. El uso de esta opción otorga acceso a nuevas funciones en la plataforma.',
+  ENTER_YOUR_COMPANY: 'Entra aquí tu empresa',
 };

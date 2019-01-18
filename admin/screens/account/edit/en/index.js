@@ -11,7 +11,7 @@ module.exports = {
   ENTER_YOUR_PASSWORD: 'enter your password',
   ENTER_YOUR_PHONE_NUMBER: 'enter your phone number',
   FINAL_USER: 'Final User',
-  HIDE_TOUR: "Hide button 'Tour'",
+  HIDE_TOUR: 'Hide button \'Tour\'',
   I_AM_USER_FINAL_USER: 'I am a',
   I_AM_DEVELOPER: 'I am a',
   I_WILL_BUILD_APPLICATIONS_TAGO: 'I will build applications on Tago',
@@ -33,4 +33,8 @@ module.exports = {
   WIDGET_MENU: 'Widget menu',
   WIDGET_FOOTER: 'Widget footer',
   YOU_NEED_ENTER_SAME_PASSWORD_TWICE: 'You need to enter the same password twice',
+  ACCOUNT_TYPE_DESCRIPTION: 'Here you can define what type of account you are going to be using.',
+  ACCOUNT_TYPE_FINAL_USER_DESCRIPTION: 'You will not be using TagoIO to create applications, only to use them. Use this option if you don\'t know what you are doing.',
+  ACCOUNT_TYPE_DEVELOPER_DESCRIPTION: 'You will be using TagoIO to create applications. Using this option grants access to new features in the platform.',
+  ENTER_YOUR_COMPANY: 'Enter here your company',
 };

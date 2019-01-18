@@ -107,7 +107,7 @@ module.exports = {
   DASHBOARDS_DELETE_DASHBOARD: 'Supprimer',
   DISMISS: 'Rejeter',
   NOT_A_DEVELOPER: 'Pas un développeur?',
-  A_DEVELOPER: 'Vous êtes développeur?',
+  A_DEVELOPER: 'Vous êtes développeur? Cliquez ici',
   NOTIFICATION: 'Notification',
   SHARE_DASHBOARDS: 'Partager des tableaux de bord',
   WELCOME: 'Bienvenue',

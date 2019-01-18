@@ -11,7 +11,7 @@ module.exports = {
   ENTER_YOUR_PASSWORD: 'entre com sua senha',
   ENTER_YOUR_PHONE_NUMBER: 'entre com seu número de telefone',
   FINAL_USER: 'Usuário Final',
-  HIDE_TOUR: "Esconder botão 'Tour'",
+  HIDE_TOUR: 'Esconder botão \'Tour\'',
   I_AM_USER_FINAL_USER: 'Eu sou um',
   I_AM_DEVELOPER: 'Eu sou um',
   I_WILL_BUILD_APPLICATIONS_TAGO: 'Eu irei construir aplicações na Tago',
@@ -33,4 +33,8 @@ module.exports = {
   WIDGET_MENU: 'Menu do widget',
   WIDGET_FOOTER: 'Rodapé do widget',
   YOU_NEED_ENTER_SAME_PASSWORD_TWICE: 'Senhas não podem ser diferentes',
+  ACCOUNT_TYPE_DESCRIPTION: 'Aqui você pode definir o tipo de conta que vai usar.',
+  ACCOUNT_TYPE_FINAL_USER_DESCRIPTION: 'Você não estará usando a TagoIO para criar aplicativos, apenas para usá-los. Use essa opção se você não souber o que está fazendo.',
+  ACCOUNT_TYPE_DEVELOPER_DESCRIPTION: 'Você estará usando a TagoIO para criar aplicativos. O uso dessa opção concede acesso a novos recursos na plataforma.',
+  ENTER_YOUR_COMPANY: 'Digite aqui sua empresa',
 };
