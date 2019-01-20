@@ -41,7 +41,7 @@ module.exports = {
   PROFILE_ACCEPTED_NOTIFICATION: 'O perfil foi aceito! <br /> <b> Por favor, faça logout</b> para ter acesso à conta de $0.',
   BUCKET_ACCEPTED_NOTIFICATION: 'O intervalo foi aceito e adicionado à <b> lista de intervalos</b>.',
   GO_TO_DASHBOARD: 'Ir para o painel',
-  HOME_END_USER_INTRO: 'A TagoIO possui as melhores ferramentas para os usuários interagirem com dispositivos conectados a seus aplicativos. Basta selecionar um painel e seguir as instruções para operar o aplicativo.',
+  HOME_END_USER_INTRO: 'Saiba como interagir com dispositivos conectados a seus aplicativos. Basta selecionar um painel e seguir as instruções para operar o aplicativo.',
   NOT_A_DEV_DESCRIPTION: 'Se você não é um desenvolvedor, use nosso modo de exibição simples. É mais fácil de usar!',
   CHANGE_TO_SIMPLE_USER_VIEW: 'Alterar para exibição simples',
   CHANGE_TO_DEVELOPER_VIEW: 'Alterar para desenvolvedor',
@@ -51,4 +51,5 @@ module.exports = {
   NOTIFICATION_DESCRIPTION_HOME: 'Notificações são onde você recebe informações importantes sobre os painéis e sua conta. Como estão as regras do lado direito do sistema.',
   SHARE_DASHBOARDS_DESCRIPTION_HOME: 'Você pode compartilhar painéis com outros usuários, concedendo a eles o acesso para visualizar e interagir com um painel.',
   USER_ACCOUNT_DESCRIPTION_HOME: 'Você pode alterar as informações de sua conta na parte superior direita da página, onde seu nome aparece.',
+  HOME_END_USER_INTRO_TITLE: 'Saiba mais sobre os recursos',
 };
