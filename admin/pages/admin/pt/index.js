@@ -47,7 +47,7 @@ module.exports = {
   CHANGE_TO_DEVELOPER_VIEW: 'Alterar para desenvolvedor',
   A_DEV_DESCRIPTION: 'Sou desenvolvedor e desenvolverei aplicativos na plataforma.',
   DASHBOARD_DESCRIPTION_HOME: 'Um painel é onde todas as informações de um aplicativo estão localizadas. Para acessar um painel, selecione um no menu do lado esquerdo.',
-  EXPLORE_DESCRIPTION_HOME: 'Notificações são onde você recebe informações importantes sobre os painéis e sua conta. As notificações estão localizadas no lado direito da página.',
+  EXPLORE_DESCRIPTION_HOME: 'Explore é onde você pode ver exemplos de painéis. Para acessá-lo, clique na opção explorar no menu do lado esquerdo',
   NOTIFICATION_DESCRIPTION_HOME: 'Notificações são onde você recebe informações importantes sobre os painéis e sua conta. Como estão as regras do lado direito do sistema.',
   SHARE_DASHBOARDS_DESCRIPTION_HOME: 'Você pode compartilhar painéis com outros usuários, concedendo a eles o acesso para visualizar e interagir com um painel.',
   USER_ACCOUNT_DESCRIPTION_HOME: 'Você pode alterar as informações de sua conta na parte superior direita da página, onde seu nome aparece.',

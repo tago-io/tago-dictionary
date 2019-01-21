@@ -47,7 +47,7 @@ module.exports = {
   CHANGE_TO_DEVELOPER_VIEW: 'Changer en développeur',
   A_DEV_DESCRIPTION: 'Je suis un développeur et je construirai des applications sur la plate-forme.',
   DASHBOARD_DESCRIPTION_HOME: 'Un tableau de bord est l\'endroit où se trouvent toutes les informations d\'une application. Pour accéder à un tableau de bord, sélectionnez-en un dans le menu de gauche.',
-  EXPLORE_DESCRIPTION_HOME: 'Les notifications sont l\'endroit où vous recevez des informations importantes concernant les tableaux de bord et votre compte. Les notifications sont situées à droite de la page.',
+  EXPLORE_DESCRIPTION_HOME: 'Explorez où vous pouvez voir des exemples de tableaux de bord. Pour y accéder, cliquez sur l\'option explorer dans le menu de gauche',
   NOTIFICATION_DESCRIPTION_HOME: 'Les notifications sont l\'endroit où vous recevez des informations importantes concernant les tableaux de bord et votre compte. Comme notificaçes estão do lado direito do sistema.',
   SHARE_DASHBOARDS_DESCRIPTION_HOME: 'Vous pouvez partager des tableaux de bord avec d\'autres utilisateurs, en leur accordant l\'accès pour afficher et interagir avec un tableau de bord.',
   USER_ACCOUNT_DESCRIPTION_HOME: 'Vous pouvez modifier les informations de votre compte dans la partie supérieure droite de la page, où votre nom apparaît.',

@@ -47,7 +47,7 @@ module.exports = {
   CHANGE_TO_DEVELOPER_VIEW: 'Cambiar a desarrollador',
   A_DEV_DESCRIPTION: 'Soy un desarrollador y construiré aplicaciones en la plataforma.',
   DASHBOARD_DESCRIPTION_HOME: 'Un Dashboard es donde se encuentra toda la información de una aplicación. Para acceder a un panel, seleccione uno en el menú del lado izquierdo.',
-  EXPLORE_DESCRIPTION_HOME: 'Las notificaciones son donde recibe información importante sobre los tableros y su cuenta. Las notificaciones se encuentran en el lado derecho de la página.',
+  EXPLORE_DESCRIPTION_HOME: 'Explorar es donde puedes ver ejemplos de paneles de control. Para acceder a él, haga clic en la opción de exploración en el menú en el lado izquierdo',
   NOTIFICATION_DESCRIPTION_HOME: 'Las notificaciones son donde recibe información importante sobre los tableros y su cuenta. Como se indica en este lado, direito do sistema.',
   SHARE_DASHBOARDS_DESCRIPTION_HOME: 'Puede compartir paneles con otros usuarios, otorgándoles acceso para ver e interactuar con un panel.',
   USER_ACCOUNT_DESCRIPTION_HOME: 'Puede cambiar la información de su cuenta en la parte superior derecha de la página, donde aparece su nombre.',
