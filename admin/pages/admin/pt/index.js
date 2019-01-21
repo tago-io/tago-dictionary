@@ -52,4 +52,5 @@ module.exports = {
   SHARE_DASHBOARDS_DESCRIPTION_HOME: 'Você pode compartilhar painéis com outros usuários, concedendo a eles o acesso para visualizar e interagir com um painel.',
   USER_ACCOUNT_DESCRIPTION_HOME: 'Você pode alterar as informações de sua conta na parte superior direita da página, onde seu nome aparece.',
   HOME_END_USER_INTRO_TITLE: 'Saiba mais sobre os recursos',
+  REALTIME_INFO_HOME: 'Este status mostra se o seu navegador está conectado ao servidor em tempo real, útil para alguns widgets',
 };

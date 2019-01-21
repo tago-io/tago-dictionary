@@ -52,4 +52,5 @@ module.exports = {
   SHARE_DASHBOARDS_DESCRIPTION_HOME: 'Vous pouvez partager des tableaux de bord avec d\'autres utilisateurs, en leur accordant l\'accès pour afficher et interagir avec un tableau de bord.',
   USER_ACCOUNT_DESCRIPTION_HOME: 'Vous pouvez modifier les informations de votre compte dans la partie supérieure droite de la page, où votre nom apparaît.',
   HOME_END_USER_INTRO_TITLE: 'En savoir plus sur les ressources',
+  REALTIME_INFO_HOME: 'Cet état indique si votre navigateur est connecté au serveur temps réel, utile pour certains widgets.',
 };

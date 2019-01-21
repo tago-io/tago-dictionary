@@ -52,4 +52,5 @@ module.exports = {
   SHARE_DASHBOARDS_DESCRIPTION_HOME: 'You can share dashboards with other users, granting them the access to view and interact with a dashboard.',
   USER_ACCOUNT_DESCRIPTION_HOME: 'You can change the information of your account in the top-right part of the page, where your name shows up.',
   HOME_END_USER_INTRO_TITLE: 'Learn more about the resources',
+  REALTIME_INFO_HOME: 'This status shows if your browser is connected to the realtime server, useful for some widgets',
 };
