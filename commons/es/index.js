@@ -116,4 +116,6 @@ module.exports = {
   DISCONNECTED: 'Desconectado',
   WELCOME_DEVELOPER: 'Bienvenido desarrollador',
   CHANGE_MY_SETTINGS: 'Cambiar mi configuración',
+  EXPLORE: 'Explorar',
+  CLICK_HERE: 'haga clic aquí',
 };
