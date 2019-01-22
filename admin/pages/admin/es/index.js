@@ -63,4 +63,5 @@ module.exports = {
   HOME_BUTTON_NO_DASHBOARD: 'Echa un vistazo a los ejemplos.',
   HOME_BUTTON_DASHBOARD: 'Ve a tu último panel de control',
   HOME_EXPLORE_INFO: 'Para explorar ejemplos de tableros.',
+  HOME_SUBTITLE_WL: 'Parece que eres nuevo aquí. ¿Por qué no pedirle a alguien que comparta un panel con usted?',
 };

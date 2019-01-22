@@ -63,4 +63,5 @@ module.exports = {
   HOME_BUTTON_NO_DASHBOARD: 'Check out the examples',
   HOME_BUTTON_DASHBOARD: 'Go to your last dashboard',
   HOME_EXPLORE_INFO: 'to explore examples of dashboards.',
+  HOME_SUBTITLE_WL: 'Looks like you\'re new here. Why not ask someone to share a dashboard with you?',
 };

@@ -63,4 +63,5 @@ module.exports = {
   HOME_BUTTON_NO_DASHBOARD: 'Découvrez les exemples',
   HOME_BUTTON_DASHBOARD: 'Aller à votre dernier tableau de bord',
   HOME_EXPLORE_INFO: 'explorer des exemples de tableaux de bord.',
+  HOME_SUBTITLE_WL: 'On dirait que tu es nouveau ici. Pourquoi ne pas demander à quelqu\'un de partager un tableau de bord avec vous?',
 };

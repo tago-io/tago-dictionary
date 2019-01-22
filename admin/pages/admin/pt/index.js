@@ -63,4 +63,5 @@ module.exports = {
   HOME_BUTTON_NO_DASHBOARD: 'Confira os exemplos',
   HOME_BUTTON_DASHBOARD: 'Vá para o seu último painel',
   HOME_EXPLORE_INFO: 'para explorar exemplos de painéis.',
+  HOME_SUBTITLE_WL: 'Parece que você é novo aqui. Por que não pedir a alguém para compartilhar um painel com você?',
 };
