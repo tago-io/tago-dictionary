@@ -51,7 +51,7 @@ module.exports = {
   NOTIFICATIONS_SHAREREQUEST_DASH: 'Solicitação de compartilhamento - Painél',
   NOTIFICATIONS_SHAREREQUEST_DASH_DESC: '$0$ deseja compartilhar o painél $1$ com você',
   NOTIFICATIONS_SHAREREQUEST_BUCKET: 'Solicitação de compartilhamento - Bucket',
-  NOTIFICATIONS_SHAREREQUEST_BUCKET_DESC: '${notification.ref_from.name} eseja compartilhar o bucket ${notification.ref_id.name} com você',
+  NOTIFICATIONS_SHAREREQUEST_BUCKET_DESC: '$0$ eseja compartilhar o bucket $1$ com você',
 
   EXPLORER_SHOWALL: 'Mostre tudo',
   EXPLORER_TRANSPORTATION: 'Transporte',

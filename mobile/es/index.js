@@ -50,7 +50,7 @@ module.exports = {
   NOTIFICATIONS_SHAREREQUEST_DASH: 'Solicitud de Compartir - Tablero',
   NOTIFICATIONS_SHAREREQUEST_DASH_DESC: '$0$ desea compartir el tablero $1$ contigo',
   NOTIFICATIONS_SHAREREQUEST_BUCKET: 'Solicitud de Compartir - Bucket',
-  NOTIFICATIONS_SHAREREQUEST_BUCKET_DESC: '${notification.ref_from.name} desea compartir un bucket ${notification.ref_id.name} contigo',
+  NOTIFICATIONS_SHAREREQUEST_BUCKET_DESC: '$0$ desea compartir un bucket $1$ contigo',
 
   EXPLORER_SHOWALL: 'Mostrar Todo',
   EXPLORER_TRANSPORTATION: 'Transporte',

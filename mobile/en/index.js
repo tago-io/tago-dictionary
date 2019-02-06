@@ -50,7 +50,7 @@ module.exports = {
   NOTIFICATIONS_SHAREREQUEST_DASH: 'Sharing request - Dashboard',
   NOTIFICATIONS_SHAREREQUEST_DASH_DESC: '$0$ wishes to share dashboard $1$ with you',
   NOTIFICATIONS_SHAREREQUEST_BUCKET: 'Sharing request - Bucket',
-  NOTIFICATIONS_SHAREREQUEST_BUCKET_DESC: '${notification.ref_from.name} wishes to share bucket ${notification.ref_id.name} with you',
+  NOTIFICATIONS_SHAREREQUEST_BUCKET_DESC: '$0$ wishes to share bucket $1$ with you',
 
   EXPLORER_SHOWALL: 'Show All',
   EXPLORER_TRANSPORTATION: 'Transportation',
