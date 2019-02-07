@@ -68,7 +68,7 @@ module.exports = {
   USAGE_SMS_SPAN: 'Preços para envio de SMS nos EUA e Canadá (entre em contato para outros países).',
   USAGE_SMS_COST: '$0.025',
   USAGE_SMS_UNIT: '1 unidade',
-  USAGE_EMAIL: 'Email',
+  USAGE_EMAIL: 'E-mail',
   USAGE_EMAIL_COST: '$0.025',
   USAGE_EMAIL_UNIT: '1,000 unidades',
   CONTACT_SALES_TEAM_TALK: 'Contate nosso time de Vendas sobre descontos para alto volume de uso.',

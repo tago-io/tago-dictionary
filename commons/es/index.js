@@ -110,7 +110,7 @@ module.exports = {
   A_DEVELOPER: '¿Eres desarrollador? haga clic aquí',
   NOTIFICATION: 'Notificación',
   SHARE_DASHBOARDS: 'Compartir cuadros de mando',
-  WELCOME: 'Bienvenido',
+  WELCOME: 'Hola, qué tal',
   REALTIME: 'Tiempo real',
   CONNECTED: 'Conectado',
   DISCONNECTED: 'Desconectado',

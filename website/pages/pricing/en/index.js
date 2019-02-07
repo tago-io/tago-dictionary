@@ -66,7 +66,7 @@ module.exports = {
   USAGE_SMS_SPAN: 'Price to send messages in US, Canada (contact us for other countries).',
   USAGE_SMS_COST: '$0.025',
   USAGE_SMS_UNIT: '1 unit',
-  USAGE_EMAIL: 'Email',
+  USAGE_EMAIL: 'E-mail',
   USAGE_EMAIL_COST: '$0.025',
   USAGE_EMAIL_UNIT: '1,000 units',
   CONTACT_SALES_TEAM_TALK: 'Contact our sales team to talk about our tier pricing or high volume of transactions.',
