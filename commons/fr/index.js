@@ -79,6 +79,7 @@ module.exports = {
   SATURDAY: 'Samedi',
   SECOND: 'Seconde',
   SELECT_ALL: 'Tout sélectionner',
+  SELECT_FILE: 'Sélectionnez un fichier',
   SELECT_VALUE: 'sélectionnez une valeur',
   SEPTEMBER: 'Septembre',
   SERVICES: 'Service',

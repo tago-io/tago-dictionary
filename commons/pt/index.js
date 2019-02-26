@@ -79,6 +79,7 @@ module.exports = {
   SAVE: 'Salvar',
   SECOND: 'Segundo',
   SELECT_ALL: 'Selecionar tudo',
+  SELECT_FILE: 'Selecione um arquivo',
   SELECT_VALUE: 'selecione um valor',
   SEPTEMBER: 'Setembro',
   SERVICES: 'Serviços',
