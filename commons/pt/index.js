@@ -119,4 +119,5 @@ module.exports = {
   CHANGE_MY_SETTINGS: 'Alterar minhas configurações',
   EXPLORE: 'Explorar',
   CLICK_HERE: 'Clique aqui',
+  IGNORED: 'Ignorado',
 };

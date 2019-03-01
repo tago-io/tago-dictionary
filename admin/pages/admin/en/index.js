@@ -71,4 +71,6 @@ module.exports = {
   NOTIFICATION_SHARE_BUCKET_TITLE: 'Sharing request - Bucket',
   NOTIFICATION_SHARE_PROFILE: '$0 wishes to share a Profile with you.',
   NOTIFICATION_SHARE_PROFILE_TITLE: 'Sharing request - Profile',
+  NOTIFICATION_SEARCH: "Search notifications",
+  NOTIFICATION_ORIGIN: "Origin",
 };
