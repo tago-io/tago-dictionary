@@ -64,4 +64,11 @@ module.exports = {
   HOME_BUTTON_DASHBOARD: 'Ve a tu último panel de control',
   HOME_EXPLORE_INFO: 'Para explorar ejemplos de tableros.',
   HOME_SUBTITLE_WL: 'Parece que eres nuevo aquí. ¿Por qué no pedirle a alguien que comparta un panel con usted?',
+  NOTIFICATION_WELCOME_TO_TAGO_DEV: 'Si eres un desarrollador, puedes cambiar tu tipo de cuenta en la página de configuración de la cuenta.',
+  NOTIFICATION_SHARE_DASHBOARD: '$0 desea compartir el Dashboard $1 contigo.',
+  NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Solicitud de intercambio - Panel de control',
+  NOTIFICATION_SHARE_BUCKET: '$0 desea compartir el Bucket $1 contigo',
+  NOTIFICATION_SHARE_BUCKET_TITLE: 'Solicitud de intercambio - Bucket',
+  NOTIFICATION_SHARE_PROFILE: '$0 desea compartir un Perfil $1 contigo',
+  NOTIFICATION_SHARE_PROFILE_TITLE: 'Solicitud de intercambio - Perfil',
 };

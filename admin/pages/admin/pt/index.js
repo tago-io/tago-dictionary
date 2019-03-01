@@ -1,6 +1,6 @@
 module.exports = {
   NOTIFICATIONS_FROM_INSTALL: 'Aplicação instalada com sucesso',
-  NOTIFICATIONS_FROM_USER_REGISTERED: '$0 conta criada na tago. O item que você compartilhou está disponível para ele aceitar.',
+  NOTIFICATIONS_FROM_USER_REGISTERED: '$0 criou uma conta na tago. O item que você compartilhou está disponível para ele aceitar.',
   NOTIFICATIONS_FROM_USER_REGISTERED_FAIL: 'Oops... $0 está registrado na Tago, mas algo deu errado com o compartilhamento. Tente compartilhar novamente.',
   NOTIFICATIONS_NEW_USER_REGISTERED: 'Novo usuário registrado',
   NOTIFICATIONS_SEARCH: 'filtrar notificações',
@@ -34,7 +34,7 @@ module.exports = {
   COPIED: 'Copied',
   COPY: 'Copy',
   NOTIFICATION_PROFILE_SHARE: '$0 quer compartilhar um perfil com você',
-  NOTIFICATION_BUCKET_SHARE: '$0 quer compartilhar o depósito de $1 com você',
+  NOTIFICATION_BUCKET_SHARE: '$0 quer compartilhar o bucket $1 com você',
   NOTIFICATION_DASHBOARD_SHARE: '$0 quer compartilhar o painel $1 com você',
   NEW_USER_RESENT_CONFIRMATION_EMAIL: 'Enviamos um email para <b> $0</b>. Por favor, confirme seu email para ter acesso a todos os recursos!',
   DASHBOARD_ACCEPTED_NOTIFICATION: 'O painel foi adicionado à <b> barra lateral esquerda</b>.',
@@ -64,4 +64,11 @@ module.exports = {
   HOME_BUTTON_DASHBOARD: 'Vá para o seu último painel',
   HOME_EXPLORE_INFO: 'para explorar exemplos de painéis.',
   HOME_SUBTITLE_WL: 'Parece que você é novo aqui. Por que não pedir a alguém para compartilhar um painel com você?',
+  NOTIFICATION_WELCOME_TO_TAGO_DEV: 'Se você é um desenvolvedor, você pode mudar o tipo da sua conta nas configurações da conta.',
+  NOTIFICATION_SHARE_DASHBOARD: '$0 deseja compartilhar o Painel $1 com você.',
+  NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Compartilhamento - Painel',
+  NOTIFICATION_SHARE_BUCKET: '$0 deseja compartilhar o Bucket $1 com você.',
+  NOTIFICATION_SHARE_BUCKET_TITLE: 'Compartilhamento - Bucket',
+  NOTIFICATION_SHARE_PROFILE: '$0 deseja compartilhar o Perfil com você.',
+  NOTIFICATION_SHARE_PROFILE_TITLE: 'Compartilhamento - Perfil',
 };

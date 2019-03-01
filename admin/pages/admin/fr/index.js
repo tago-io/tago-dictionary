@@ -64,4 +64,11 @@ module.exports = {
   HOME_BUTTON_DASHBOARD: 'Aller à votre dernier tableau de bord',
   HOME_EXPLORE_INFO: 'explorer des exemples de tableaux de bord.',
   HOME_SUBTITLE_WL: 'On dirait que tu es nouveau ici. Pourquoi ne pas demander à quelqu\'un de partager un tableau de bord avec vous?',
+  NOTIFICATION_WELCOME_TO_TAGO_DEV: 'Si vous êtes développeur, vous pouvez modifier le type de votre compte dans la page des paramètres du compte.',
+  NOTIFICATION_SHARE_DASHBOARD: '$0 souhaite partager le tableau de bord $0 avec vous.',
+  NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Demande de partage - Tableau de bord',
+  NOTIFICATION_SHARE_BUCKET: '$0 souhaite partager le seau $0 avec vous',
+  NOTIFICATION_SHARE_BUCKET_TITLE: 'Demande de partage - Bucket',
+  NOTIFICATION_SHARE_PROFILE: '$0 souhaite partager un profil avec vous.',
+  NOTIFICATION_SHARE_PROFILE_TITLE: 'Demande de partage - Profil',
 };

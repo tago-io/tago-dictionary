@@ -64,4 +64,11 @@ module.exports = {
   HOME_BUTTON_DASHBOARD: 'Go to your last dashboard',
   HOME_EXPLORE_INFO: 'to explore examples of dashboards.',
   HOME_SUBTITLE_WL: 'Looks like you\'re new here. Why not ask someone to share a dashboard with you?',
+  NOTIFICATION_WELCOME_TO_TAGO_DEV: 'If you are a developer, you can change your account type in the account settings page.',
+  NOTIFICATION_SHARE_DASHBOARD: '$0 wishes to share the Dashboard $1 with you.',
+  NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Sharing request - Dashboard',
+  NOTIFICATION_SHARE_BUCKET: '$0 wishes to share the Bucket $1 with you.',
+  NOTIFICATION_SHARE_BUCKET_TITLE: 'Sharing request - Bucket',
+  NOTIFICATION_SHARE_PROFILE: '$0 wishes to share a Profile with you.',
+  NOTIFICATION_SHARE_PROFILE_TITLE: 'Sharing request - Profile',
 };
