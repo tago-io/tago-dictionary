@@ -8,4 +8,6 @@ module.exports = {
   UPGRADE_PLAN: 'Atualizar plano',
   YOU_ARE_USING_FREE_ACCOUNT: 'Você está usando uma conta free',
   YOU_DONT_HAVE_RIGHTS: 'Você não tem permissão para compartilhar esse painel. Solicite a $0 uma autorização para compartilhar com outros usuários',
-};
+  DASH_INFO_REALTIME_DISCONNECTED: 'Existe um problema com a sua conexão com a internet. Widgets não serão atualizados em tempo real.',
+  SEND_DISABLED: 'Desativado devido a um problema com sua conexão com a Internet.'
+}
