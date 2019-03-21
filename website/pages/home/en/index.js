@@ -44,7 +44,7 @@ module.exports = {
   HOW_DOES_IT_WORK: 'How does it Work?',
   GET_DASHBOARD: 'Get dashboard',
   WHAT_CAN_I_DO_TITLE: 'What can I do with TagoIO?',
-  WHAT_CAN_I_DO_DESCRIPTION: 'Some examples of how TagoIO creates value for different applications. Enter your e-mail to get a demo dashboard.',
+  WHAT_CAN_I_DO_DESCRIPTION: 'Some examples of how TagoIO creates value for different applications.',
   ENTER_EMAIL_GAIN_ACCESS: 'Please enter your e-mail below to gain access to the $0 dashboard',
   GOT_IT: 'Got it',
   WE_ARE_WAITING_FOR_YOU: 'We are waiting for you!',

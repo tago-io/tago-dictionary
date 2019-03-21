@@ -44,7 +44,7 @@ module.exports = {
   HOW_DOES_IT_WORK: 'Como funciona?',
   GET_DASHBOARD: 'Adquirir Painel',
   WHAT_CAN_I_DO_TITLE: 'O que posso fazer com a TagoIO?',
-  WHAT_CAN_I_DO_DESCRIPTION: 'Alguns exemplos de como a TagoIO cria valor para aplicações diferentes, adicione-os na sua conta para vê-los em ação.',
+  WHAT_CAN_I_DO_DESCRIPTION: 'Alguns exemplos de como a TagoIO cria valor para aplicações diferentes.',
   ENTER_EMAIL_GAIN_ACCESS: 'Por favor insira seu e-mail para adquirir acesso ao painel $0',
   GOT_IT: 'Entendi',
   WE_ARE_WAITING_FOR_YOU: 'Estamos esperando por você!',
