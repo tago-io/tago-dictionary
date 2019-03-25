@@ -65,6 +65,7 @@ module.exports = {
   HOME_EXPLORE_INFO: 'para explorar exemplos de painéis.',
   HOME_SUBTITLE_WL: 'Parece que você é novo aqui. Por que não pedir a alguém para compartilhar um painel com você?',
   NOTIFICATION_WELCOME_TO_TAGO_DEV: 'Se você é um desenvolvedor, você pode mudar o tipo da sua conta nas configurações da conta.',
+  NOTIFICATION_WELCOME_TO_TAGO: 'Se você não é desenvolvedor, pode alterar seu tipo de conta na página de configurações da conta.',
   NOTIFICATION_WELCOME_TO_TAGO_DEV_TITLE: 'Bem-vindo(a) ao TagoIO',
   NOTIFICATION_SHARE_DASHBOARD: '$0 deseja compartilhar o Painel $1 com você.',
   NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Compartilhamento - Painel',

@@ -65,6 +65,7 @@ module.exports = {
   HOME_EXPLORE_INFO: 'to explore examples of dashboards.',
   HOME_SUBTITLE_WL: 'Looks like you\'re new here. Why not ask someone to share a dashboard with you?',
   NOTIFICATION_WELCOME_TO_TAGO_DEV: 'If you are a developer, you can change your account type in the account settings page.',
+  NOTIFICATION_WELCOME_TO_TAGO: 'If you aren\'t a developer, you can change your account type in the account settings page.',
   NOTIFICATION_WELCOME_TO_TAGO_DEV_TITLE: 'Welcome to TagoIO',
   NOTIFICATION_SHARE_DASHBOARD: '$0 wishes to share the Dashboard $1 with you.',
   NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Sharing request - Dashboard',

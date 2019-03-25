@@ -65,6 +65,7 @@ module.exports = {
   HOME_EXPLORE_INFO: 'explorer des exemples de tableaux de bord.',
   HOME_SUBTITLE_WL: 'On dirait que tu es nouveau ici. Pourquoi ne pas demander à quelqu\'un de partager un tableau de bord avec vous?',
   NOTIFICATION_WELCOME_TO_TAGO_DEV: 'Si vous êtes développeur, vous pouvez modifier le type de votre compte dans la page des paramètres du compte.',
+  NOTIFICATION_WELCOME_TO_TAGO: 'Si vous n\'êtes pas un développeur, vous pouvez modifier le type de votre compte dans la page des paramètres du compte.',
   NOTIFICATION_WELCOME_TO_TAGO_DEV_TITLE: 'Bienvenue sur TagoIO',
   NOTIFICATION_SHARE_DASHBOARD: '$0 souhaite partager le tableau de bord $0 avec vous.',
   NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Demande de partage - Tableau de bord',
