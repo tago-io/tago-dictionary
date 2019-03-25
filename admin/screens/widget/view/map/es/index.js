@@ -29,4 +29,6 @@ module.exports = {
 
   SAVE_CHANGES: 'Guardar cambios',
   SELECT_EVENT: 'Seleccione un evento',
+
+  YOU_HAVE_VARIABLES_LT_LNG_INVALID: 'Tienes una o más variables con valores lat o lng inválidos.'
 };
