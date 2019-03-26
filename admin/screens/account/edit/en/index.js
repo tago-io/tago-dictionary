@@ -13,7 +13,6 @@ module.exports = {
   ENTER_YOUR_PHONE_NUMBER: 'enter your phone number',
   FINAL_USER: 'Final User',
   HIDE_TOUR: 'Hide button \'Tour\'',
-  IT_WILL_BE_APPLIED_ONLY_TO_NUMBER: 'It will be applied only to Number format in all dashboards',
   I_AM_USER_FINAL_USER: 'I am a',
   I_AM_DEVELOPER: 'I am a',
   I_WILL_BUILD_APPLICATIONS_TAGO: 'I will build applications on Tago',
@@ -24,6 +23,7 @@ module.exports = {
   SAFARI_IE_NOT_SUPPORT_BROWSER_NOTIFICATION_SOUND: 'Safari and IE does not support browser notification and sound',
   SHOW_NOTIFICATION_FROM: 'Show notification from',
   SHOW_LAST_UPDATE_AT: 'Show last updated at',
+  SHOW_LAST_UPDATE_AT_HELP: 'Define where the information about last update will be shown.',
   USAGE_STATISTICS: 'Usage Statistics',
   USER_ONLY: 'User only',
   USER_REDUCE_VIEW: 'User (reduced view)',
@@ -39,4 +39,5 @@ module.exports = {
   ACCOUNT_TYPE_FINAL_USER_DESCRIPTION: 'You will not be using TagoIO to create applications, only to use them. Use this option if you don\'t know what you are doing.',
   ACCOUNT_TYPE_DEVELOPER_DESCRIPTION: 'You will be using TagoIO to create applications. Using this option grants access to new features in the platform.',
   ENTER_YOUR_COMPANY: 'Enter here your company',
+  THIS_RULE_WILL_BE_APPLIED_TO_ALL: 'This rule will be applied to all widgets enabled by the developer',
 };

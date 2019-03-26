@@ -24,6 +24,7 @@ module.exports = {
   SAFARI_IE_NOT_SUPPORT_BROWSER_NOTIFICATION_SOUND: 'Safari e IE não suportam notificações e som nativo do navegador',
   SHOW_NOTIFICATION_FROM: 'Exibir notificações vindas de',
   SHOW_LAST_UPDATE_AT: 'Mostrar a última atualização em',
+  SHOW_LAST_UPDATE_AT_HELP: 'Defina aonde a informção de última localização será exibida.',
   USAGE_STATISTICS: 'Estatística de Uso',
   USER_ONLY: 'Usuário final',
   USER_REDUCE_VIEW: 'Usuário (visualização reduzida)',
@@ -39,4 +40,5 @@ module.exports = {
   ACCOUNT_TYPE_FINAL_USER_DESCRIPTION: 'Você não estará usando a TagoIO para criar aplicativos, apenas para usá-los. Use essa opção se você não souber o que está fazendo.',
   ACCOUNT_TYPE_DEVELOPER_DESCRIPTION: 'Você estará usando a TagoIO para criar aplicativos. O uso dessa opção concede acesso a novos recursos na plataforma.',
   ENTER_YOUR_COMPANY: 'Digite aqui sua empresa',
+  THIS_RULE_WILL_BE_APPLIED_TO_ALL: 'O separador decimal será aplicado em todos os widgets ativados pelo desenvolvedor.',
 };

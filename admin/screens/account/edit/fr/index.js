@@ -24,6 +24,7 @@ module.exports = {
   SAFARI_IE_NOT_SUPPORT_BROWSER_NOTIFICATION_SOUND: 'Safari et IE ne prennent pas en charge la notification et le son du navigateur',
   SHOW_NOTIFICATION_FROM: 'Afficher la notification de',
   SHOW_LAST_UPDATE_AT: 'Afficher la dernière mise à jour à',
+  SHOW_LAST_UPDATE_AT_HELP: 'Définir où les informations sur la dernière mise à jour seront affichées.',
   USAGE_STATISTICS: 'Statistiques d\'utilisation',
   USER_ONLY: 'Seulement utilisateur',
   USER_REDUCE_VIEW: 'Utilisateur (vue réduite)',
@@ -39,4 +40,5 @@ module.exports = {
   ACCOUNT_TYPE_FINAL_USER_DESCRIPTION: 'Vous n’utiliserez pas TagoIO pour créer des applications, mais pour les utiliser. Utilisez cette option si vous ne savez pas ce que vous faites.',
   ACCOUNT_TYPE_DEVELOPER_DESCRIPTION: 'Vous utiliserez TagoIO pour créer des applications. L\'utilisation de cette option permet d\'accéder aux nouvelles fonctionnalités de la plateforme.',
   ENTER_YOUR_COMPANY: 'Entrez ici votre entreprise',
+  THIS_RULE_WILL_BE_APPLIED_TO_ALL: 'Cette règle sera appliquée à tous les widgets activés par le développeur.',
 };
