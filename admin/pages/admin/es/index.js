@@ -73,6 +73,11 @@ module.exports = {
   NOTIFICATION_SHARE_BUCKET_TITLE: 'Solicitud de intercambio - Bucket',
   NOTIFICATION_SHARE_PROFILE: '$0 desea compartir un Perfil $1 contigo',
   NOTIFICATION_SHARE_PROFILE_TITLE: 'Solicitud de intercambio - Perfil',
-  NOTIFICATION_SEARCH: "Buscar notificaciones",
-  NOTIFICATION_ORIGIN: "Origen de la notificación",
-};
+  NOTIFICATION_SEARCH: 'Buscar notificaciones',
+  NOTIFICATION_ORIGIN: 'Origen de la notificación',
+  MAIN: 'Principal',
+  ORDER_DASHBOARDS: 'Ordenar tableros',
+  ALPHABETICALLY: 'Alfabéticamente',
+  NEWER_FIRST: 'Más nuevo primero',
+  LAST_ACCESSED_FIRST: 'Último acceso primero'
+}
