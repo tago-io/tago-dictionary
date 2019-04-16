@@ -122,4 +122,6 @@ module.exports = {
   EXPLORE: 'Explorar',
   CLICK_HERE: 'haga clic aquí',
   IGNORED: 'Ignorado',
+  MAP: 'Mapa',
+  SATELLITE: 'Satélite',
 };

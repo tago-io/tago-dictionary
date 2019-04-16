@@ -17,7 +17,7 @@ module.exports = {
   COLLAPSE: 'Recolher',
   COMMA: 'Vírgula',
   COMPANY: 'Empresa',
-  CUSTOM: 'Custom',
+  CUSTOM: 'Personalizado',
   DAY: 'Dia',
   DASHBOARD: 'Painel',
   DASHBOARDS: 'Painéis',
@@ -122,4 +122,6 @@ module.exports = {
   EXPLORE: 'Explorar',
   CLICK_HERE: 'Clique aqui',
   IGNORED: 'Ignorado',
+  MAP: 'Mapa',
+  SATELLITE: 'Satélite',
 };

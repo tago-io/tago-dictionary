@@ -30,5 +30,8 @@ module.exports = {
   SAVE_CHANGES: 'Guardar cambios',
   SELECT_EVENT: 'Seleccione un evento',
 
-  YOU_HAVE_VARIABLES_LT_LNG_INVALID: 'Tienes una o más variables con valores lat o lng inválidos.'
+  YOU_HAVE_VARIABLES_LT_LNG_INVALID: 'Tienes una o más variables con valores lat o lng inválidos.',
+
+  OPEN_IN_STREET_VIEW: 'Abrirlo en Street View',
+  NO_STREET_VIEW: 'No Street View',
 };
