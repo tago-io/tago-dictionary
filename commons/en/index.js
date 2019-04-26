@@ -124,4 +124,6 @@ module.exports = {
   IGNORED: 'Ignored',
   MAP: 'Map',
   SATELLITE: 'Satellite',
+  NEW_HERE: 'New here?',
+  ALREADY_HAVE_AN_ACCOUNT: 'Already have an account?',
 };
