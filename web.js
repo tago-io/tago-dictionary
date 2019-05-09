@@ -1,3 +1,64 @@
+var staticImports = null;
+
+function loadStaticImports() {
+  staticImports = {
+    "./admin/screens/account/edit/en": require("./admin/screens/account/edit/en"),
+    "./admin/screens/account/edit/pt": require("./admin/screens/account/edit/pt"),
+    "./admin/screens/account/edit/fr": require("./admin/screens/account/edit/fr"),
+    "./admin/screens/account/edit/es": require("./admin/screens/account/edit/es"),
+
+    "./admin/screens/dashboard/edit/en": require("./admin/screens/dashboard/edit/en"),
+    "./admin/screens/dashboard/edit/pt": require("./admin/screens/dashboard/edit/pt"),
+    "./admin/screens/dashboard/edit/fr": require("./admin/screens/dashboard/edit/fr"),
+    "./admin/screens/dashboard/edit/es": require("./admin/screens/dashboard/edit/es"),
+
+    "./admin/screens/dashboard/info/en": require("./admin/screens/dashboard/info/en"),
+    "./admin/screens/dashboard/info/pt": require("./admin/screens/dashboard/info/pt"),
+    "./admin/screens/dashboard/info/fr": require("./admin/screens/dashboard/info/fr"),
+    "./admin/screens/dashboard/info/es": require("./admin/screens/dashboard/info/es"),
+
+    "./admin/screens/dashboard/list/en": require("./admin/screens/dashboard/list/en"),
+    "./admin/screens/dashboard/list/pt": require("./admin/screens/dashboard/list/pt"),
+    "./admin/screens/dashboard/list/fr": require("./admin/screens/dashboard/list/fr"),
+    "./admin/screens/dashboard/list/es": require("./admin/screens/dashboard/list/es"),
+
+    "./admin/screens/explore/info/en": require("./admin/screens/explore/info/en"),
+    "./admin/screens/explore/info/pt": require("./admin/screens/explore/info/pt"),
+    "./admin/screens/explore/info/fr": require("./admin/screens/explore/info/fr"),
+    "./admin/screens/explore/info/es": require("./admin/screens/explore/info/es"),
+
+    "./admin/screens/signup/en": require("./admin/screens/signup/en"),
+    "./admin/screens/signup/pt": require("./admin/screens/signup/pt"),
+    "./admin/screens/signup/fr": require("./admin/screens/signup/fr"),
+    "./admin/screens/signup/es": require("./admin/screens/signup/es"),
+
+    "./admin/pages/admin/en": require("./admin/pages/admin/en"),
+    "./admin/pages/admin/pt": require("./admin/pages/admin/pt"),
+    "./admin/pages/admin/fr": require("./admin/pages/admin/fr"),
+    "./admin/pages/admin/es": require("./admin/pages/admin/es"),
+
+    "./admin/pages/authentication/en": require("./admin/pages/authentication/en"),
+    "./admin/pages/authentication/pt": require("./admin/pages/authentication/pt"),
+    "./admin/pages/authentication/fr": require("./admin/pages/authentication/fr"),
+    "./admin/pages/authentication/es": require("./admin/pages/authentication/es"),
+
+    "./admin/pages/confirm/en": require("./admin/pages/confirm/en"),
+    "./admin/pages/confirm/pt": require("./admin/pages/confirm/pt"),
+    "./admin/pages/confirm/fr": require("./admin/pages/confirm/fr"),
+    "./admin/pages/confirm/es": require("./admin/pages/confirm/es"),
+
+    "./admin/pages/public/en": require("./admin/pages/public/en"),
+    "./admin/pages/public/pt": require("./admin/pages/public/pt"),
+    "./admin/pages/public/fr": require("./admin/pages/public/fr"),
+    "./admin/pages/public/es": require("./admin/pages/public/es"),
+
+    "./commons/en": require("./commons/en"),
+    "./commons/pt": require("./commons/pt"),
+    "./commons/fr": require("./commons/fr"),
+    "./commons/es": require("./commons/es"),
+  }
+}
+
 function Dictionary(path, langs) {
   if (!langs) {
     langs = ['en', 'fr', 'pt', 'es'];
@@ -26,8 +87,17 @@ function Dictionary(path, langs) {
     }
 
     const langDefault = currentLang.slice(0, 2).toLowerCase();
-    const data = require('./' + p + '/' + langDefault + '/index');
-    return data;
+    const pathImport = './' + p + '/' + langDefault + '/index';
+    if (Dictionary.useStaticImport) {
+      if (staticImports === null) {
+        loadStaticImports();
+      }
+      return staticImports['./' + p + '/' + langDefault];
+    } else {
+      const data = require(pathImport);
+      return data;
+    }
+    return {};
   }
 
   this.getData = function() {
@@ -52,6 +122,7 @@ function Dictionary(path, langs) {
 Dictionary.setLang = function (value) {
   Dictionary.lang = value;
 };
+Dictionary.useStaticImport = false;
 
 if (!module) {
   module = {};
