@@ -94,7 +94,7 @@ function Dictionary(path, langs) {
       }
       return staticImports['./' + p + '/' + langDefault];
     } else {
-      const data = require(pathImport);
+      const data = require(pathImport + '.js');
       return data;
     }
     return {};
