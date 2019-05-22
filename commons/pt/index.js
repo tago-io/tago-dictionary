@@ -126,4 +126,5 @@ module.exports = {
   SATELLITE: 'Satélite',
   NEW_HERE: 'Novo por aqui?',
   ALREADY_HAVE_AN_ACCOUNT: 'Já tem uma conta?',
+  PUBLIC_DASHBOARD: 'Painél Publico',
 };

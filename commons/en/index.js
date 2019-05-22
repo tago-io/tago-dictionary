@@ -126,4 +126,5 @@ module.exports = {
   SATELLITE: 'Satellite',
   NEW_HERE: 'New here?',
   ALREADY_HAVE_AN_ACCOUNT: 'Already have an account?',
+  PUBLIC_DASHBOARD: 'Public Dashboard',
 };
