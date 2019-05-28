@@ -173,4 +173,6 @@ module.exports = {
   APPLICATION_NDEVICES_ADDD: 'Add Device',
 
   OPENLASTDASHBOARD: 'Open Last Dashboard:',
+  SELECT_PROFILE: 'Select a profile shared with you',
+  SELECT_YOUR_PROFILE: 'Select one of your profiles',
 };

@@ -173,4 +173,6 @@ module.exports = {
   APPLICATION_NDEVICES_ADDD: 'Añadir dispositivo',
 
   OPENLASTDASHBOARD: 'Abrir el último tablero:',
+  SELECT_PROFILE: 'Selecciona un perfil compartido contigo',
+  SELECT_YOUR_PROFILE: 'Selecciona uno de tus perfiles.',
 };
