@@ -27,6 +27,8 @@ module.exports = {
   NO_LAYERS_TO_DELETE: 'Nenhuma camada para excluir',
   NO_LAYERS_TO_EDIT: 'Nenhuma camada para editar',
 
+  POINT_ORIGIN_INVALID: 'Ponto de origem inválido',
+
   RADIUS: 'Raio',
 
   SAVE_CHANGES: 'Salvar alterações',

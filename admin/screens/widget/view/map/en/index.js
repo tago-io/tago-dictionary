@@ -27,6 +27,8 @@ module.exports = {
   NO_LAYERS_TO_DELETE: 'No layers to delete',
   NO_LAYERS_TO_EDIT: 'No layers to edit',
 
+  POINT_ORIGIN_INVALID: 'Point of origin invalid',
+
   RADIUS: 'Radius',
 
   SAVE_CHANGES: 'Save changes',

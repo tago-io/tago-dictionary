@@ -29,6 +29,8 @@ module.exports = {
 
   RADIUS: 'Rayon',
 
+  POINT_ORIGIN_INVALID: 'Point d'origine invalide',
+
   SAVE_CHANGES: 'Sauvegarder les modifications',
   SELECT_EVENT: 'Sélectionnez un événement',
 
