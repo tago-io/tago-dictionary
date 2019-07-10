@@ -16,6 +16,8 @@ module.exports = {
   DRAW_CIRCLE: 'Desenhar círculo',
   DRAG_HANDLES_OR_MARKERS_TO_EDIT_FEATURES: 'Arraste alças ou marcadores para editar',
   DRAW_POLYGON: 'Desenhar polígono',
+  DIRECTIONS_FROM_HERE: 'Localização atual',
+  DIRECTIONS_TO_HERE: 'Obter rotas',
 
   EDIT_LAYERS: 'Editar camadas',
 
@@ -33,5 +35,6 @@ module.exports = {
   YOU_HAVE_VARIABLES_LT_LNG_INVALID: 'Você possui duas ou mais valores com lat ou lng inválidos.',
 
   OPEN_IN_STREET_VIEW: 'Abrir no Street View',
+
   NO_STREET_VIEW: 'Sem Street View',
 };

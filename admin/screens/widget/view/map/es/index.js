@@ -12,6 +12,8 @@ module.exports = {
   DELETE_LAST_POINT: 'Eliminar el último punto',
   DELETE_LAST_POINT_DRAWN: 'Eliminar el último punto dibujado',
   DELETE_LAYERS: 'Eliminar capas',
+  DIRECTIONS_FROM_HERE: 'Direcciones desde aquí',
+  DIRECTIONS_TO_HERE: 'Direcciones hasta aquí',
 
   DRAW_CIRCLE: 'Dibujar un círculo',
   DRAG_HANDLES_OR_MARKERS_TO_EDIT_FEATURES: 'Arrastrar identificadores o marcadores para editar funciones',
@@ -33,5 +35,6 @@ module.exports = {
   YOU_HAVE_VARIABLES_LT_LNG_INVALID: 'Tienes una o más variables con valores lat o lng inválidos.',
 
   OPEN_IN_STREET_VIEW: 'Abrirlo en Street View',
+
   NO_STREET_VIEW: 'No Street View',
 };

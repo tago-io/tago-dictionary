@@ -12,6 +12,8 @@ module.exports = {
   DELETE_LAST_POINT: 'Delete last point',
   DELETE_LAST_POINT_DRAWN: 'Delete last point drawn',
   DELETE_LAYERS: 'Delete layers',
+  DIRECTIONS_FROM_HERE: 'Directions from here',
+  DIRECTIONS_TO_HERE: 'Directions to here',
 
   DRAW_CIRCLE: 'Draw a circle',
   DRAG_HANDLES_OR_MARKERS_TO_EDIT_FEATURES: 'Drag handles or markers to edit features',
