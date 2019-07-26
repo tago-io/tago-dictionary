@@ -127,4 +127,8 @@ module.exports = {
   NEW_HERE: 'Novo por aqui?',
   ALREADY_HAVE_AN_ACCOUNT: 'Já tem uma conta?',
   PUBLIC_DASHBOARD: 'Painél Publico',
+  UNLIMITED: 'Ilimitado',
+  ADD_PROFILES: 'Adicionar Perfis',
+  USER_MANAGEMENT: 'Gestão de usuários',
+  ACCESS_MANAGEMENT: 'Gestão de acesso',
 };
