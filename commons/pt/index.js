@@ -131,4 +131,9 @@ module.exports = {
   ADD_PROFILES: 'Adicionar Perfis',
   USER_MANAGEMENT: 'Gestão de usuários',
   ACCESS_MANAGEMENT: 'Gestão de acesso',
+
+  CONFIRM_YOUR_E_MAIL_BEFORE_PROCEEDING: 'Confirme sua conta antes do primeiro acesso.',
+  ACCOUNT_CREATION_HAS_BEEN_SUBMITTED: 'Conta criada e submetida para aprovação',
+  YOUR_ACCOUNT_WAS_CREATED: 'Sua conta foi criada!',
+  YOU_WILL_BE_NOTIFIED_WHEN_IT_IS_ACTIVATED: 'Você será notificado quando a conta estiver ativa.',
 };
