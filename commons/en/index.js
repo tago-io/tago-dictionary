@@ -127,4 +127,8 @@ module.exports = {
   NEW_HERE: 'New here?',
   ALREADY_HAVE_AN_ACCOUNT: 'Already have an account?',
   PUBLIC_DASHBOARD: 'Public Dashboard',
+  UNLIMITED: 'Unlimited',
+  ADD_PROFILES: 'Add Profiles',
+  USER_MANAGEMENT: 'User Management',
+  ACCESS_MANAGEMENT: 'Access Management',
 };

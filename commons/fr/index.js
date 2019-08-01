@@ -127,4 +127,8 @@ module.exports = {
   NEW_HERE: 'Nouveau ici?',
   ALREADY_HAVE_AN_ACCOUNT: 'Vous avez déjà un compte?',
   PUBLIC_DASHBOARD: 'Tableau de bord public',
+  UNLIMITED: 'Illimité',
+  ADD_PROFILES: 'Ajouter un profil',
+  USER_MANAGEMENT: 'Gestion de utilisateurs',
+  ACCESS_MANAGEMENT: 'Gestion des accès',
 };
