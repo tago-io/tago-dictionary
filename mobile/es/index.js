@@ -34,6 +34,9 @@ module.exports = {
   SETTINGS_DORELLY: '¿Realmente desea salir?',
   SETTINGS_NO: 'No',
   SETTINGS_YES: 'Si',
+  SETTINGS_SWITCH_ACCOUNTS: 'Cambiar cuenta',
+  SETTINGS_CLOSE: 'Cerrar',
+  SETTINGS_ADD_ANOTHER_TAGO_RUN: 'Agregar otro TagoRun',
 
   NOTIFICATIONS_ACCEPTED: 'Aceptado',
   NOTIFICATIONS_DECLINED: 'Rechazado',

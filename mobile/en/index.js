@@ -34,6 +34,9 @@ module.exports = {
   SETTINGS_DORELLY: 'Do you really want to exit?',
   SETTINGS_NO: 'No',
   SETTINGS_YES: 'Yes',
+  SETTINGS_SWITCH_ACCOUNTS: 'Switch account',
+  SETTINGS_CLOSE: 'Close',
+  SETTINGS_ADD_ANOTHER_TAGO_RUN: 'Add another TagoRun',
 
   NOTIFICATIONS_ACCEPTED: 'Accepted',
   NOTIFICATIONS_DECLINED: 'Declined',

@@ -23,7 +23,6 @@ module.exports = {
   SECTION_APPINFO: 'Aplicação',
   SECTION_DEVICES: 'Dispositivos',
 
-
   SETTINGS_TOUCHID: 'Autenticação Biométrica',
   SETTINGS_NOTIFICATIONS: 'Notificações',
   SETTINGS_FULLSCREEN: 'Tela cheia na horizontal',
@@ -35,6 +34,9 @@ module.exports = {
   SETTINGS_DORELLY: 'Você realmente quer sair?',
   SETTINGS_NO: 'Não',
   SETTINGS_YES: 'Sim',
+  SETTINGS_SWITCH_ACCOUNTS: 'Mudar conta',
+  SETTINGS_CLOSE: 'Fechar',
+  SETTINGS_ADD_ANOTHER_TAGO_RUN: 'Adicionar outro TagoRun',
 
   NOTIFICATIONS_ACCEPTED: 'Aceito',
   NOTIFICATIONS_DECLINED: 'Recusou',
