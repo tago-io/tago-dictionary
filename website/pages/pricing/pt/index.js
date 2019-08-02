@@ -131,7 +131,7 @@ module.exports = {
   PRICING_EXPAND_ALL: 'Mostrar todos',
   PRICING_NOT_INCLUDED: 'Não incluído',
   PRICING_SOME_FEATURES: 'Alguns recursos',
-  PRICING_MANAGE_DEVICES: 'Gerencimanento de Dispositivos',
+  PRICING_MANAGE_DEVICES: 'Gerenciamento de Dispositivos',
   PRICING_CONNECT_UNLIMITED_NUMBER_DEVICES: 'Numero máximo de dispositivos',
   PRICING_UP_TO: 'até',
   PRICING_TAGS_FOR_MANAGEMENT: 'Tags para gerenciamento',
