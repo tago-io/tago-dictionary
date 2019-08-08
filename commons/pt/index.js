@@ -136,4 +136,6 @@ module.exports = {
   ACCOUNT_CREATION_HAS_BEEN_SUBMITTED: 'Conta criada e submetida para aprovação',
   YOUR_ACCOUNT_WAS_CREATED: 'Sua conta foi criada!',
   YOU_WILL_BE_NOTIFIED_WHEN_IT_IS_ACTIVATED: 'Você será notificado quando a conta estiver ativa.',
+
+  NO_NOTIFICATIONS: 'Nenhuma notificação',
 };
