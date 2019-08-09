@@ -5,7 +5,7 @@ module.exports = {
   LOGIN_EMAIL: 'E-mail address',
   LOGIN_PASSWORD: 'Password',
   LOGIN_BTN_SIGNIN: 'Sign in',
-  LOGIN_BTN_SIGNUP: 'Create an Account',
+  LOGIN_BTN_SIGNUP: 'Create account',
 
   SECTION_NOTIFICATION: 'Notifications',
   SECTION_SETTINGS: 'Settings',
@@ -32,5 +32,5 @@ module.exports = {
   RUN_DASHBOARD_SETTINGS: 'DASHBOARD SETTINGS',
 
   ACCOUNTS: 'Accounts',
-  ADD_ACCOUNT: 'Add an account',
+  ADD_ACCOUNT: 'Add account',
 };
