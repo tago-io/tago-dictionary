@@ -138,4 +138,5 @@ module.exports = {
   YOU_WILL_BE_NOTIFIED_WHEN_IT_IS_ACTIVATED: 'Vous serez averti quand il sera activé.',
 
   NO_NOTIFICATIONS: 'Aucune notification',
+  NO_DASHBOARDS: 'Pas de tableaux de bord',
 };

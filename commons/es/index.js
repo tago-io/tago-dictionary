@@ -138,4 +138,5 @@ module.exports = {
   YOU_WILL_BE_NOTIFIED_WHEN_IT_IS_ACTIVATED: 'Se le notificará cuando se active.',
 
   NO_NOTIFICATIONS: 'No notificaciones',
+  NO_DASHBOARDS: 'Sin tableros',
 };

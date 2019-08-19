@@ -138,4 +138,5 @@ module.exports = {
   YOU_WILL_BE_NOTIFIED_WHEN_IT_IS_ACTIVATED: 'Você será notificado quando a conta estiver ativa.',
 
   NO_NOTIFICATIONS: 'Nenhuma notificação',
+  NO_DASHBOARDS: 'Nenhum painel',
 };
