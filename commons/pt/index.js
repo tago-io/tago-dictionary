@@ -139,4 +139,5 @@ module.exports = {
 
   NO_NOTIFICATIONS: 'Nenhuma notificação',
   NO_DASHBOARDS: 'Nenhum painel',
+  NO_CONTENT: 'Sem conteúdo',
 };
