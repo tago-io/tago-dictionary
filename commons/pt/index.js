@@ -94,7 +94,7 @@ module.exports = {
   SUNDAY: 'Domingo',
   THIS_FIELD_IS_REQUIRED: 'Esse campo é obrigatório',
   THIS_FIELD_REQUIRES_AT_LEAST_THREE_CHARACTERS: 'Esse campo requer ao menos 3 letras',
-  TIME_FORMAT: 'Formato do Tempo',
+  TIME_FORMAT: 'Formato do tempo',
   TIMEZONE: 'Fuso horário',
   THURSDAY: 'Quinta',
   TUESDAY: 'Terça',
