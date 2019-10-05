@@ -1,8 +1,10 @@
 module.exports = {
-  EDIT_MARKER: 'Edit Marker',
-  ENTER_WITH_LABEL_MARKER: 'enter with the label of marker',
-  ENTER_WITH_IMAGE_MARKER: 'enter with the url of image',
-  ICON_MARKER: 'Icon of marker',
-  LABEL_MARKER: 'Label of marker',
-  IMAGE_MARKER: 'Image of marker',
+  ADD_MARKER: 'Add Pin',
+  EDIT_MARKER: 'Edit Pin',
+  ENTER_IMAGE_MARKER: 'enter the url of image',
+  ENTER_VALUE_VARIABLE: 'enter the value of this pin',
+  ICON_MARKER: 'Define an icon for this pin',
+  IMAGE_MARKER: 'Define an image to appear in tooltip',
+  VALUE_MARKER: 'Define the value for this pin',
+  VARIABLE_MARKER: 'Define where this pin will be stored',
 };
