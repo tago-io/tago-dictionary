@@ -1,6 +1,7 @@
 module.exports = {
   COMMUM_NEXT: 'Continuar',
   COMMUM_DONE: 'Feito',
+  COMMUM_CANCEL_SETUP: 'Cancelar configuração',
 
   LOGIN_EMAIL: 'E-mail',
   LOGIN_PASSWORD: 'Senha',
@@ -29,7 +30,10 @@ module.exports = {
   RUN_SLIDE_1_MSG: 'A melhor maneira de acessar aplicações IoT em qualquer lugar.',
   RUN_SLIDE_2_TITLE: 'Escolha um TagoRun',
   RUN_SLIDE_2_MSG: 'Digite o domínio TagoRun onde sua aplicação está rodando.',
-  RUN_DASHBOARD_SETTINGS: 'Configurações dos Paineis',
+  RUN_DASHBOARD_SETTINGS: 'Configurações dos paineis',
+  RUN_GENERAL_SETTINGS: 'Configuracões gerais',
+  RUN_DEVICE_SETTINGS: 'Configurações de dispositivos',
+  RUN_NEW_DEVICE: 'Configurar novo dispositivo',
 
   ACCOUNTS: 'Contas',
   ADD_ACCOUNT: 'Adicionar conta',

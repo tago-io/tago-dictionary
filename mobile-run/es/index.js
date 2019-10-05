@@ -1,6 +1,7 @@
 module.exports = {
   COMMUM_NEXT: 'Próximo',
   COMMUM_DONE: 'Terminar',
+  COMMUM_CANCEL_SETUP: 'Cancelar la configuración',
 
   LOGIN_EMAIL: 'Dirección E-mail',
   LOGIN_PASSWORD: 'Contraseña',
@@ -30,6 +31,9 @@ module.exports = {
   RUN_SLIDE_2_TITLE: 'Elige un TagoRun',
   RUN_SLIDE_2_MSG: 'Ingrese el dominio TagoRun donde se ejecuta su aplicación.',
   RUN_DASHBOARD_SETTINGS: 'Configuraciones del tablero',
+  RUN_GENERAL_SETTINGS: 'Configuración general',
+  RUN_DEVICE_SETTINGS: 'Configuración de dispositivo',
+  RUN_NEW_DEVICE: 'Configurar nuevo dispositivo',
 
   ACCOUNTS: 'Cuentas',
   ADD_ACCOUNT: 'Agregar cuenta',
