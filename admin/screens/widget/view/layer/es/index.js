@@ -1,5 +1,5 @@
 module.exports = {
-  ADD_MARKER: 'Agregar pin',
+  ADD_MARKER: 'Agregar pin a esta layer',
   EDIT_MARKER: 'Editar pin',
   ENTER_IMAGE_MARKER: 'ingrese la url de la imagen',
   ENTER_VALUE_VARIABLE: 'ingrese el valor de este pin',

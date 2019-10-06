@@ -1,6 +1,6 @@
 module.exports = {
-  ADD_MARKER: 'Adicionar Pino',
-  EDIT_MARKER: 'Editar Pin',
+  ADD_MARKER: 'Adicionar pino neste Layer',
+  EDIT_MARKER: 'Editar pino',
   ENTER_IMAGE_MARKER: 'entre com a url da imagem',
   ENTER_VALUE_VARIABLE: 'entre com o valor deste pino',
   ICON_MARKER: 'Defina um icone para este pino',
