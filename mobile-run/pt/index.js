@@ -34,6 +34,7 @@ module.exports = {
   RUN_GENERAL_SETTINGS: 'Configuracões gerais',
   RUN_DEVICE_SETTINGS: 'Configurações de dispositivos',
   RUN_NEW_DEVICE: 'Configurar novo dispositivo',
+  RUN_IM_CONNECTED: 'Estou conectado',
 
   ACCOUNTS: 'Contas',
   ADD_ACCOUNT: 'Adicionar conta',
