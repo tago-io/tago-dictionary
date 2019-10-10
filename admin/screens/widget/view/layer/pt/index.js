@@ -1,10 +1,16 @@
 module.exports = {
   ADD_MARKER: 'Adicionar pino neste Layer',
+  ADD_LAYER: 'Adicionar camada',
+  DEFINE_EMBED_TO_APPEAR_TOOLBOX: 'Defina um embed para aparecer na caixa de ferramentas',
+  DEFINE_LABEL_TO_APPEAR_TOOLBOX: 'Defina um rótulo para aparecer na caixa de ferramentas',
+  DEFINE_IMAGE_EMBED_APPEAR_TOOLBOX: 'Defina uma imagem ou embed para aparecer na caixa de ferramentas',
+  DO_YOU_REALLY_DELETE_LAYER: 'Você realmente quer excluir esse layer?',
+  DO_YOU_REALLY_DELETE_PIN: 'Você realmente quer excluir esse pino?',
+  EDIT_LAYER: 'Editar camada',
   EDIT_MARKER: 'Editar pino',
-  ENTER_IMAGE_MARKER: 'entre com a url da imagem',
   ENTER_VALUE_VARIABLE: 'entre com o valor deste pino',
   ICON_MARKER: 'Defina um icone para este pino',
-  IMAGE_MARKER: 'Defina uma imagem para aparecer no tooltip',
+  IMAGE_MARKER: 'Defina uma imagem para aparecer na caixa de ferramentas',
   VALUE_MARKER: 'Defina o valor para este pino',
   VARIABLE_MARKER: 'Define aonde será armazenado este pino',
 };
