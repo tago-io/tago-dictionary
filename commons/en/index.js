@@ -25,7 +25,7 @@ module.exports = {
   DASHBOARDS: 'Dashboards',
   DECEMBER: 'December',
   DECLINE: 'Decline',
-  DELETE: 'DELETE',
+  DELETE: 'Delete',
   DECLINED: 'Declined',
   DEVELOPER: 'Developer',
   DEVICES: 'Devices',
