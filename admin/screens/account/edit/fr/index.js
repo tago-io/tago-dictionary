@@ -41,4 +41,6 @@ module.exports = {
   ACCOUNT_TYPE_DEVELOPER_DESCRIPTION: 'Vous utiliserez TagoIO pour créer des applications. L\'utilisation de cette option permet d\'accéder aux nouvelles fonctionnalités de la plateforme.',
   ENTER_YOUR_COMPANY: 'Entrez ici votre entreprise',
   THIS_RULE_WILL_BE_APPLIED_TO_ALL: 'Cette règle sera appliquée à tous les widgets activés par le développeur.',
+  TIME_FORMAT_TOOLTIP: "C'est le format de l'heure qui sera appliqué à votre compte.",
+  DATE_FORMAT_TOOLTIP: "C'est le format de date qui sera appliqué à votre compte.",
 };
