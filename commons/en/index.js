@@ -151,4 +151,8 @@ module.exports = {
   NO_NOTIFICATIONS: 'No notifications',
   NO_DASHBOARDS: 'No dashboards',
   NO_CONTENT: 'No content',
+
+  MAP_BASIC: 'Map Basic',
+  MAP_DARK: 'Map Dark',
+  MAP_LIGHT: 'Map Light',
 };
