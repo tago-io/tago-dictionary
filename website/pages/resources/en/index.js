@@ -11,6 +11,7 @@ module.exports = {
   RESOURCES_DEVELOPERS_SDK_DESCRIPTION: 'Develop faster using our SDK for the language your need.',
   RESOURCES_DEVELOPERS_SDK_LINK1: 'NodeJS',
   RESOURCES_DEVELOPERS_SDK_LINK2: 'Java',
+  RESOURCES_DEVELOPERS_SDK_LINK3: 'Python',
   RESOURCES_DEVELOPERS_GITHUB: 'Github',
   RESOURCES_DEVELOPERS_DESCRIPTION: 'Access several libraries available on Github. Download, customize, and run them in your application.',
   RESOURCES_DEVELOPERS_LINK1: 'Repositories',
