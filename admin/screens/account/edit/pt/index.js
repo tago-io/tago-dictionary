@@ -43,4 +43,6 @@ module.exports = {
   THIS_RULE_WILL_BE_APPLIED_TO_ALL: 'O separador decimal será aplicado em todos os widgets ativados pelo desenvolvedor.',
   TIME_FORMAT_TOOLTIP: "Este é o formato de hora que será aplicado na sua conta",
   DATE_FORMAT_TOOLTIP: "Este é o formato de data que será aplicado na sua conta",
+  ONLY_DASHBOARDS: 'Somente paineis',
+  ALL_RESOURCES: 'Todos os recursos',
 };

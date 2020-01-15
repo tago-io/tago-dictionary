@@ -43,4 +43,6 @@ module.exports = {
   THIS_RULE_WILL_BE_APPLIED_TO_ALL: 'Cette règle sera appliquée à tous les widgets activés par le développeur.',
   TIME_FORMAT_TOOLTIP: "C'est le format de l'heure qui sera appliqué à votre compte.",
   DATE_FORMAT_TOOLTIP: "C'est le format de date qui sera appliqué à votre compte.",
+  ONLY_DASHBOARDS: 'Tableaux de bord uniquement',
+  ALL_RESOURCES: 'Toutes les ressources',
 };
