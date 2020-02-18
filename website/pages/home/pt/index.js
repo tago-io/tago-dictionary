@@ -1,5 +1,5 @@
 module.exports = {
-  TAGO_HOME: 'Tago - Início',
+  TAGO_HOME: 'Tago - Plataforma IoT',
   BANNER_TITLE: 'Crie mais valor conectando seu produto com a Tago',
   BANNER_DESCRIPTION: 'Extraia mais informações e otimize o seu processo.',
   GET_STARTED_HOME: 'Comece agora',

@@ -12,7 +12,7 @@ module.exports = {
   TAGO_RESERVED_SYMBOL: '©',
   TAGO_RESERVED: ' - TAGO LLC. ALL RIGHTS RESERVED',
   ABOUT_US: 'About us',
-  ABOUT_US_DESCRIPTION: 'Tago offers an end-to-end cloud platform that transforms the way businesses create value from connected products and user interactions.',
+  ABOUT_US_DESCRIPTION: 'TagoIO offers an end-to-end IoT cloud platform that transforms the way businesses create value from connected products and user interactions.',
   OUR_LINKS_FOOTER: 'Our links',
   TERMS_SUPPORT_FOOTER: 'Terms of Support',
   PRIVACY_FOOTER: 'Privacy',

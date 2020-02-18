@@ -12,7 +12,7 @@ module.exports = {
   TAGO_RESERVED_SYMBOL: '©',
   TAGO_RESERVED: ' - TAGO LLC. TODOS OS DIREITOS RESERVADOS',
   ABOUT_US: 'Sobre nós',
-  ABOUT_US_DESCRIPTION: 'A Tago oferece uma plataforma na nuvem de ponta a ponta que transforma a maneira como as empresas criam valor a partir de dispositivos conectados, tornando seus processos efetivos e inteligentes.',
+  ABOUT_US_DESCRIPTION: 'A TagoIO oferece uma plataforma de IoT na nuvem de ponta a ponta que transforma a maneira como as empresas criam valor a partir de dispositivos conectados, tornando seus processos efetivos e inteligentes.',
   OUR_LINKS_FOOTER: 'Links úteis',
   TERMS_SUPPORT_FOOTER: 'Suporte',
   PRIVACY_FOOTER: 'Termos de Privacidade',

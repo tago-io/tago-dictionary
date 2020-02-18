@@ -1,5 +1,5 @@
 module.exports = {
-  TAGO_HOME: 'TagoIO - Home',
+  TAGO_HOME: 'TagoIO - IoT Platform',
   BANNER_TITLE: 'Get more from your connected product',
   BANNER_DESCRIPTION: ' You will be amazed to learn how quickly and easily you can integrate data with TagoIO.',
   GET_STARTED_HOME: 'Get Started',
