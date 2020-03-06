@@ -45,4 +45,6 @@ module.exports = {
   DATE_FORMAT_TOOLTIP: "C'est le format de date qui sera appliqué à votre compte.",
   ONLY_DASHBOARDS: 'Tableaux de bord uniquement',
   ALL_RESOURCES: 'Toutes les ressources',
+  FILE_SEPARATOR_TITLE: "Séparateur utilisé lors de l'exportation de fichiers",
+  FILE_SEPARATOR_TOOLTIP: "Délimiteur de données lorsque vous exportez un fichier",
 };

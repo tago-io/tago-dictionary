@@ -17,6 +17,7 @@ module.exports = {
   CLOSE: 'Ferme',
   COLLAPSE: 'Effondrer',
   COMMA: 'Virgule',
+  SEMICOLON: 'Point-virgule',
   COMPANY: 'Firme',
   CUSTOM: 'Coutume',
   DATE_FORMAT: 'Format de date',

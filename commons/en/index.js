@@ -17,6 +17,7 @@ module.exports = {
   CLOSE: 'Close',
   COLLAPSE: 'Collapse',
   COMMA: 'Comma',
+  SEMICOLON: 'Semicolon',
   COMPANY: 'Company',
   CUSTOM: 'Custom',
   DATE_FORMAT: 'Date format',

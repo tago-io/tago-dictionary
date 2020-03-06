@@ -17,6 +17,7 @@ module.exports = {
   CLOSE: 'Cerrar',
   COLLAPSE: 'colapsar',
   COMMA: 'Coma',
+  SEMICOLON: 'Punto y Coma',
   COMPANY: 'Empresa',
   CUSTOM: 'Personalizado',
   DATE_FORMAT: 'Formato de fecha',

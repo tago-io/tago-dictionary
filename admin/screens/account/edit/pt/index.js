@@ -45,4 +45,6 @@ module.exports = {
   DATE_FORMAT_TOOLTIP: "Este é o formato de data que será aplicado na sua conta",
   ONLY_DASHBOARDS: 'Somente paineis',
   ALL_RESOURCES: 'Todos os recursos',
+  FILE_SEPARATOR_TITLE: "Separador usado ao exportar arquivos",
+  FILE_SEPARATOR_TOOLTIP: "Delimitador de dados quando você exporta um arquivo",
 };

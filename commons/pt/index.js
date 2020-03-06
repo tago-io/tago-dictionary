@@ -17,6 +17,7 @@ module.exports = {
   CLOSE: 'Fechar',
   COLLAPSE: 'Recolher',
   COMMA: 'Vírgula',
+  SEMICOLON: 'Ponto e vírgula',
   COMPANY: 'Empresa',
   CUSTOM: 'Personalizado',
   DATE_FORMAT: 'Formato da data',
