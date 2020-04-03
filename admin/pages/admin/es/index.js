@@ -79,5 +79,6 @@ module.exports = {
   ORDER_DASHBOARDS: 'Ordenar tableros',
   ALPHABETICALLY: 'Alfabéticamente',
   NEWER_FIRST: 'Más nuevo primero',
-  LAST_ACCESSED_FIRST: 'Último acceso primero'
+  LAST_ACCESSED_FIRST: 'Último acceso primero',
+  SEARCH_DASHBOARDS: 'Encuentra tableros',
 }

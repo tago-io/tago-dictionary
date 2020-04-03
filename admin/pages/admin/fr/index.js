@@ -79,5 +79,6 @@ module.exports = {
   ORDER_DASHBOARDS: 'Commander des tableaux de bord',
   ALPHABETICALLY: 'Alphabétiquement',
   NEWER_FIRST: 'Plus récent en premier',
-  LAST_ACCESSED_FIRST: 'Dernier accédé en premier'
+  LAST_ACCESSED_FIRST: 'Dernier accédé en premier',
+  SEARCH_DASHBOARDS: 'Trouver le tableau de bord',
 }

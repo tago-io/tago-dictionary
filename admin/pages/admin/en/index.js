@@ -79,5 +79,6 @@ module.exports = {
   ORDER_DASHBOARDS: 'Order dashboards',
   ALPHABETICALLY: 'Alphabetically',
   NEWER_FIRST: 'Newer first',
-  LAST_ACCESSED_FIRST: 'Last accessed first'
+  LAST_ACCESSED_FIRST: 'Last accessed first',
+  SEARCH_DASHBOARDS: 'Find dashboard',
 }

@@ -79,5 +79,6 @@ module.exports = {
   ORDER_DASHBOARDS: 'Ordernar painéis',
   ALPHABETICALLY: 'Alfabeticamente',
   NEWER_FIRST: 'Mais novos primeiro',
-  LAST_ACCESSED_FIRST: 'Último acesso primeiro'
+  LAST_ACCESSED_FIRST: 'Último acesso primeiro',
+  SEARCH_DASHBOARDS: 'Procurar painel',
 }
