@@ -19,15 +19,15 @@ module.exports = {
   TAGORUN_SECTION2_TITLE: 'Recursos poderosos que vão além do whitelabel',
   TAGORUN_SECTION2_ROW1_TITLE: 'Obtenha insight dos usuários finais',
   TAGORUN_SECTION2_ROW1_DESCRIPTION1: 'Utilize os melhores serviços de análise que permitem você analisar detalhadamente sobre os seus usuários TagoRUN. Você pode integrar facilmente a sua aplicação TagoRUN com as ferramentas do Google Analytics ou com o Zoho SalesIQ.',
-  TAGORUN_SECTION2_ROW1_DESCRIPTION2: 'Aprenda sobre o Google Analytics e TagoRUN',
+  TAGORUN_SECTION2_ROW1_DESCRIPTION2: ' Aprenda sobre o Google Analytics e TagoRUN',
   TAGORUN_SECTION2_ROW2_TITLE: 'Acesse recursos móveis',
   TAGORUN_SECTION2_ROW2_DESCRIPTION: 'Aproveite o GPS disponível no dispositivo móvel, que funciona como um dispositivo IoT gratuito, para criar soluções para seus clientes sem nenhum custo adicional. Utilize o nosso recurso de provisionamento nativo que facilita para os seus usuários finais registrar os dispositivos Wi-Fi na rede deles',
   TAGORUN_SECTION2_ROW3_TITLE: 'Assuma o controle total de sua aplicação',
   TAGORUN_SECTION2_ROW3_DESCRIPTION: 'Determine como os seus usuários acessarão sua aplicação IoT e o nível de acesso para cada um deles. Trabalhando com os nossos módulos de Gerenciamento de Usuários e Políticas de acessos, você pode criar políticas individuais, para grupos, ou até mesmo para organizações externas.',
   TAGORUN_SECTION2_ROW4_TITLE: 'Interaja mais com seus clientes',
-  TAGORUN_SECTION2_ROW4_DESCRIPTION: 'Envie mensagens personalizadas para os seus usuários finais por meio do sistema de notificações e e-mails. Adicione chats, bots, chamadas, acesso remoto à tela e muito mais. Presonalize o seu próprio modelo de e-mail para receber seus novos usuários, quando eles ativarem a conta ou até mesmo quando eles redefinirem a senha.',
+  TAGORUN_SECTION2_ROW4_DESCRIPTION: 'Envie mensagens personalizadas para os seus usuários finais por meio do sistema de notificações e e-mails. Adicione chats, bots, chamadas, acesso remoto à tela e muito mais. Personalize o seu próprio modelo de e-mail para receber seus novos usuários, quando eles ativarem a conta ou até mesmo quando eles redefinirem a senha.',
   TAGORUN_SECTION2_ROW5_TITLE: 'Domínio personalizado & White label',
-  TAGORUN_SECTION2_ROW5_DESCRIPTION: 'Seus clientes se inscreverão no portal utilizando a sua própria URL, ex. iot.minhaempresa.com, quando você adicionar o add-on de Domínio personalizado. A cor da sua empresa, logo, tema, fundo, e configuração dos botões, substituirão a marca TagoIO.',
+  TAGORUN_SECTION2_ROW5_DESCRIPTION: 'Seus clientes se inscreverão no portal utilizando a sua própria URL, ex. iot.minhaempresa.com, quando você adicionar o add-on de Domínio personalizado. A cor da sua empresa, logo, tema, fundo, e configurações dos botões, substituirão a marca TagoIO.',
 
   TAGORUN_FAQ_QUESTION1: 'Como eu posso começar a usar o TagoRUN?',
   TAGORUN_FAQ_ANSWER1_PART1: 'Primeiramente, construa sua aplicação dentro do admin TagoIO (admin.tago.io) conectando os seus dispositivos, criando dashboards, relatórios e tudo que você precisar para a sua aplicação. Após, configure a aparência e opções para o seu TagoRUN e as políticas de acesso para usuários finais. Assista nossos vídeos e tutoriais, ou entre em contato. Você pode encontrar mais informações na nossa ',
@@ -37,14 +37,14 @@ module.exports = {
   TAGORUN_FAQ_ANSWER2: 'Não necessariamente. Você poderá usar o admin TagoIO para você e seu time. a TagoIO por si só funciona muito bem para uso pessoal, para um time pequeno ou para membros da mesma organização. Entretanto, nós recomendamos utilizar o TagoRUN para publicar suas soluções quando elas forem direcionadas a usuários finais, assim não apenas facilitando você a gerenciar os acessos, mas também facilitando o uso deles. E por fim, TagoRUN permite que seus usuários sempre tenham a sua marca em mente!',
 
   TAGORUN_FAQ_QUESTION3: 'Quanto custa o TagoRUN?',
-  TAGORUN_FAQ_ANSWER3_PART1: 'TagoRUN é gratuito, com a maioria dos recursos disponíveis. Suas soluções irão funcionar dentro do nosso domínio, .run.tago.io (ex. minhaempresa.run.tago.io). Se você quiser remover a nossa logo e qualquer referência a TagoIO, selecione o add-on "Custom Domain". A nossa marca será removida e a sua solução poderá funcionar no seu próprio domínio (ex. iot.minhaempresa.com), até mesmo seus e-mails serão enviados pelo seu DNS. Preços estão disponíveis ',
+  TAGORUN_FAQ_ANSWER3_PART1: 'TagoRUN é gratuito, com a maioria dos recursos disponíveis. Suas soluções irão funcionar dentro do nosso domínio, run.tago.io (ex. minhaempresa.run.tago.io). Se você quiser remover a nossa logo e qualquer referência à TagoIO, selecione o add-on "Custom Domain". A nossa marca será removida e a sua solução poderá funcionar no seu próprio domínio (ex. iot.minhaempresa.com), até mesmo seus e-mails serão enviados pelo seu DNS. Preços estão disponíveis ',
   TAGORUN_FAQ_ANSWER3_PART2: 'aqui',
 
   TAGORUN_FAQ_QUESTION4: 'Como TagoRUN funciona com o TagoIO admin? ',
-  TAGORUN_FAQ_ANSWER4: 'TagoRUN é um dos enumeros modulos da plataforma TagoIO que funciona com as nossas features “Access Management” e “User Management”; assim então permitindo que você entregue a melhor experiência possível para os seus usuários finais (clientes).',
+  TAGORUN_FAQ_ANSWER4: 'TagoRUN é um dos enumeros módulos da plataforma TagoIO que funciona com os nossos recursos “Access Management” e “User Management”; permitindo que você entregue a melhor experiência possível para os seus usuários finais (clientes).',
 
   TAGORUN_FAQ_QUESTION5: 'Eu posso ter um App Mobile publicado no meu nome?',
-  TAGORUN_FAQ_ANSWER5_PART1: 'Sim. Nosso App Mobile TagoRUN é gratuito e pronto para você avaliar suas soluções, sendo para você mesmo ou para os seus clientes. Se você quiser remover a marca TagoIO completamente, nós podemos customizar e publicar um App Mobile no seu nome. Os seus clientes vão encontrar o seu App com o nome da sua empresa, sem nenhuma mensão da TagoIO',
+  TAGORUN_FAQ_ANSWER5_PART1: 'Sim. Nosso App Mobile TagoRUN é gratuito e pronto para você avaliar suas soluções, sendo para você mesmo ou para os seus clientes. Se você quiser remover a marca TagoIO completamente, nós podemos customizar e publicar um App Mobile no seu nome. Os seus clientes irão encontrar o seu App com o nome da sua empresa, sem nenhuma mensão da TagoIO. ',
   TAGORUN_FAQ_ANSWER5_PART2: 'Entre em contato',
   TAGORUN_FAQ_ANSWER5_PART3: ' para mais informações.',
 };
