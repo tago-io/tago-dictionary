@@ -50,8 +50,9 @@ module.exports = {
   WE_ARE_WAITING_FOR_YOU: 'Estamos esperando por você!',
   WE_SENT_YOU_EMAIL: 'We\'ve sent you an e-mail with the chosen dashboard, all you have to do is accept it!',
   HOME_DESCRIPTION: 'O TagoIO oferece uma plataforma de nuvem de ponta a ponta que transforma a maneira como as empresas criam valor a partir de produtos conectados e interações do usuário com a Internet das Coisas.',
-  VIDEOS_DESCRIPTION: 'Assista a esses vídeos que contêm treinamento, seminários on-line, demonstrações e como criar aplicativos da IoT com rapidez e confiança.',
+  VIDEOS_DESCRIPTION: 'Assista esses vídeos para aprender como construir aplicações internet das coisas utilizando dispositivos IoT, analytics, dashboards e mais. Webinars e demos explicam como acelerar o desenvolvimento de projetos IoT e melhorar a experiência dos seus clientes.',
   PRODUCT_DETAILS: 'Detalhes do produto',
   DEVELOPER_AREA: 'Área do desenvolvedor',
   WATCH_VIDEO: 'Assista vídeo',
+  SEE_CUSTOMER_STORIES: 'Veja histórias de clientes',
 };

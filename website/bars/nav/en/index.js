@@ -3,9 +3,9 @@ module.exports = {
   USE_CASES: 'Use Cases',
   PRICING: 'Pricing',
   PRODUCT: 'Product',
-  OVERVIEW: 'Overview',
+  FEATURES: 'Features',
   CONNECTIVITY: 'Connectivity',
-  ANALYSIS: 'Analysis',
+  INTEGRATION: 'Integration',
   CUSTOMIZATION: 'Customization',
   RESOURCES: 'Resources',
   DEVELOPERS: 'Developers',
@@ -18,4 +18,5 @@ module.exports = {
   CUSTOMER_SUPPORT: 'Customer Support',
   SIGN_IN: 'Sign In',
   GET_STARTED: 'Get Started',
+  TAGORUN: 'TagoRUN',
 };
