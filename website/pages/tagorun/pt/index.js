@@ -34,7 +34,7 @@ module.exports = {
   TAGORUN_FAQ_ANSWER1_PART2: 'documentação',
 
   TAGORUN_FAQ_QUESTION2: 'Eu preciso publicar minha aplicação IoT utilizando TagoRUN?',
-  TAGORUN_FAQ_ANSWER2: 'Não necessariamente. Você poderá usar o admin TagoIO para você e seu time. a TagoIO por si só funciona muito bem para uso pessoal, para um time pequeno ou para membros da mesma organização. Entretanto, nós recomendamos utilizar o TagoRUN para publicar suas soluções quando elas forem direcionadas a usuários finais, assim não apenas facilitando você a gerenciar os acessos, mas também facilitando o uso deles. E por fim, TagoRUN permite que seus usuários sempre tenham a sua marca em mente!',
+  TAGORUN_FAQ_ANSWER2: 'Não necessariamente. Você poderá usar o admin TagoIO para você e seu time. A TagoIO por si só funciona muito bem para uso pessoal, para um time pequeno ou para membros da mesma organização. Entretanto, nós recomendamos utilizar o TagoRUN para publicar suas soluções quando elas forem direcionadas a usuários finais, assim não apenas facilitando você a gerenciar os acessos, mas também facilitando o uso deles. E por fim, TagoRUN permite que seus usuários sempre tenham a sua marca em mente!',
 
   TAGORUN_FAQ_QUESTION3: 'Quanto custa o TagoRUN?',
   TAGORUN_FAQ_ANSWER3_PART1: 'TagoRUN é gratuito, com a maioria dos recursos disponíveis. Suas soluções irão funcionar dentro do nosso domínio, run.tago.io (ex. minhaempresa.run.tago.io). Se você quiser remover a nossa logo e qualquer referência à TagoIO, selecione o add-on "Custom Domain". A nossa marca será removida e a sua solução poderá funcionar no seu próprio domínio (ex. iot.minhaempresa.com), até mesmo seus e-mails serão enviados pelo seu DNS. Preços estão disponíveis ',

@@ -38,7 +38,7 @@ module.exports = {
   MAIN_TITLE_HOME_PAGE: 'Crie Rapidamente Suas Próprias Soluções IoT',
   SUB_TITLE_HOME_PAGE: 'Painéis, Analíticas, Armazenamento, Notificações, Dispositivos e Gerenciamento de usuários inclusos',
   WHAT_IS_TAGO_IO: 'O que é a TagoIO?',
-  CHECK_TAGO_FEATURES: 'Recursos do TagoIO',
+  CHECK_TAGO_FEATURES: 'Recursos da TagoIO',
   CHECK_PRODUCT_FEATURES: 'Veja detalhes do produto',
   VIEW_DASHBOARD: 'Ver Painel',
   HOW_DOES_IT_WORK: 'Como funciona?',
