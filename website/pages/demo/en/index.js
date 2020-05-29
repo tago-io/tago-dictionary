@@ -2,7 +2,7 @@ module.exports = {
   DEMO_TITLE: 'Demo',
   DEMO_DESCRIPTION: 'Request your personalized one-to-one demo to learn how to start building your own IoT platform for free.',
   DEMO_HEADER_TITLE: 'Demo',
-  DEMO_HEADER_SUBTITLE: 'Get a Free Demo of TagoIO\'s IoT Plataform',
+  DEMO_HEADER_SUBTITLE: 'Get a Free Demo of TagoIO\'s IoT Platform',
 
   DEMO_SECTION_TITLE: 'Request demo',
   DEMO_FIRST_PARAGRAPH: 'See for yourself how TagoIO can be used to deploy your entire connected product solution in no-time, all while generating the best return on investment.',
