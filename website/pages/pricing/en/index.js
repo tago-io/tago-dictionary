@@ -229,7 +229,7 @@ module.exports = {
   PRICING_CALCULATOR_TALKSALES: 'Talk with Sales',
   PRICING_CALCULATOR_INFO: 'Use our calculator to estimate your monthly cost. A register is counted for each variable (e.g. temperature) and its metadata (e.g. location). For simplification, we assume that each time an Analysis runs it reads 10 registers for calculation, which means 10 Data Output transactions per Analysis runs. Also, data will be stored for one month period. Click on Update Pricing Estimator button to update your monthly cost. Learn more about how transactions for each Service are',
   PRICING_CALCULATOR_LINK_INFO: 'calculated here',
-  PRICING_DESCRIPTION: 'The TagoIO pricing model is flexible and based on the Plan and Services provisioned for your application. You only pay for the services you select, and you can use our Pricing calculator to estimate your monthly cost based on your project characteristics. ',
+  PRICING_DESCRIPTION: 'IoT solution prices. Do you want to start working with out IoT platform? It is easy: click here and check our products, services and prices!',
   PRICING_MAXIMUM_POLICIES: 'Maximum number of policies',
   PRICING_MAXIMUM_USERS: 'Maximum number of users',
 };

@@ -1,5 +1,5 @@
 module.exports = {
-  TAGO_HOME: 'TagoIO - IoT Platform',
+  TAGO_HOME: 'Solutions for IoT | Internet of Things | TagoIO',
   BANNER_TITLE: 'Get more from your connected product',
   BANNER_DESCRIPTION: ' You will be amazed to learn how quickly and easily you can integrate data with TagoIO.',
   GET_STARTED_HOME: 'Get Started',
@@ -49,8 +49,8 @@ module.exports = {
   GOT_IT: 'Got it',
   WE_ARE_WAITING_FOR_YOU: 'We are waiting for you!',
   WE_SENT_YOU_EMAIL: 'We\'ve sent you an e-mail with the chosen dashboard, all you have to do is accept it!',
-  HOME_DESCRIPTION: 'TagoIO offers an end-to-end cloud platform that transforms the way businesses create value from connected products and user interactions with the Internet of Things.',
-  VIDEOS_DESCRIPTION: 'Watch these videos to learn how to build Internet of Thing applications using IoT devices, analytics, dashboards, and more. Webinars and demos explain how to speed up the development of IoT projects while improving the customer experience.',
+  HOME_DESCRIPTION: 'Solutions for IoT. We have the most complete solution for the Internet of Things to improve your business through the best return on investment. Click here and start for free today.',
+  VIDEOS_DESCRIPTION: 'Here, you will find several videos about our IoT platform so that you understand how to use it and find out what resources will help your company. Enjoy!',
   PRODUCT_DETAILS: 'Product Details',
   KNOW_TAGORUN: 'Know TagoRUN',
   WATCH_VIDEO: 'Watch video',
