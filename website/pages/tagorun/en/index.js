@@ -1,6 +1,6 @@
 module.exports = {
   TAGORUN_TITLE: 'TagoRUN',
-  TAGORUN_DESCRIPTION: 'TagoRUN works as a customized IoT portal for customers. It is the best way for end-users to access Internet of Things applications by using custom domain and white label features. You can customize colors, logo, e-mail, and buttons to engage more customers with your own IoT branded solution.',
+  TAGORUN_DESCRIPTION: 'Tago Run is the best way to deploy your own IoT platform the way you need. Click here and start customizing it now for free!',
   TAGORUN_SUBTITLE: 'Deploy your own platform',
   TAGORUN_PAGE_TITLE: 'The best way for end-users to access your IoT applications',
   TAGORUN_BUTTON: 'Get Started',

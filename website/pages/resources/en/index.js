@@ -52,5 +52,5 @@ module.exports = {
   RESOURCES_FAQ_ANSWER5: 'TagoIO runs on cloud so that customers can get the best of redundancy, uptime with the minimum of overhead and costs. There is no on-premises version yet (for installation).',
   RESOURCES_FAQ_QUESTION6: 'Is TagoIO HIPAA and FedRAMP compliant?',
   RESOURCES_FAQ_ANSWER6: 'Our roadmap includes TagoIO certification for HIPPA (Health Insurance Portability and Accountability Act of 1996) and FedRAMP (Federal Risk and Authorization Management Program ). Contact us if any of these compliances are required for your project.',
-  DEVELOPERS_DESCRIPTION: 'Our knowledge area contains rich resources for you to quickly develop IoT solutions using TagoIO tools.',
+  DEVELOPERS_DESCRIPTION: 'Already a developer and want to know how to start with TagoIO today? Click here and check out our guideline for working with our platform!',
 };
