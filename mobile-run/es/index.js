@@ -38,4 +38,6 @@ module.exports = {
 
   ACCOUNTS: 'Cuentas',
   ADD_ACCOUNT: 'Agregar cuenta',
+
+  WIFI_SETUP_DESC: 'Si ves una notificación que dice "Wi-Fi no tiene acceso a Internet. Toca para ver las opciones", tócala y selecciona "Sí".',
 };

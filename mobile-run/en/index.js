@@ -39,4 +39,6 @@ module.exports = {
 
   ACCOUNTS: 'Accounts',
   ADD_ACCOUNT: 'Add account',
+
+  WIFI_SETUP_DESC: 'If you see a notification saying "Wi-Fi has no Internet access. Touch for options" , touch it and select "Yes".',
 };

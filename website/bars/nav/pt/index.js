@@ -7,6 +7,7 @@ module.exports = {
   CONNECTIVITY: 'Conectividade',
   INTEGRATION: 'Análise de dados',
   CUSTOMIZATION: 'Customização',
+  DOCUMENTATION: 'Documentação',
   RESOURCES: 'Recursos',
   DEVELOPERS: 'Desenvolvedores',
   PARTNERS: 'Parceiros',
