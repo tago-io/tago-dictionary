@@ -42,4 +42,7 @@ module.exports = {
 
   WIFI_SETUP_DESC: 'If you see a notification saying "Wi-Fi has no Internet access. Touch for options" , touch it and select "Yes".',
   WIFI_SETUP_LOOKING: 'Looking for device',
+  WIFI_SETUP_DEVICEFOUND: 'Device found!',
+  WIFI_SETUP_RETRIEVING: 'Retrieving configurations',
+
 };

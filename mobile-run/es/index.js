@@ -41,4 +41,6 @@ module.exports = {
 
   WIFI_SETUP_DESC: 'Si ves una notificación que dice "Wi-Fi no tiene acceso a Internet. Toca para ver las opciones", tócala y selecciona "Sí".',
   WIFI_SETUP_LOOKING: 'Buscando dispositivo',
+  WIFI_SETUP_DEVICEFOUND: 'Dispositivo encontrado!',
+  WIFI_SETUP_RETRIEVING: 'Recuperando configuraciones',
 };
