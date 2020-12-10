@@ -40,4 +40,5 @@ module.exports = {
   ADD_ACCOUNT: 'Adicionar conta',
 
   WIFI_SETUP_DESC: 'Se você aparecer uma notificação dizendo "O Wi-Fi não tem acesso à Internet. Toque para ver as opções", toque nela e selecione "Sim".',
+  WIFI_SETUP_LOOKING: 'Procurando dispositivo',
 };
