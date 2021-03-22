@@ -34,11 +34,14 @@ module.exports = {
   MOBILE_WIFI_SETUP_LOOKING: "Recherche d'un appareil",
   MOBILE_WIFI_SETUP_RETRIEVING: "Récupération des paramètres",
 
+  MOBILE_RUN_DOES_NOT_EXIST: "Ce Run n'existe pas, réessayez.",
+
   MOBILE_ACCOUNTS: "Compte",
   MOBILE_ADD_ACCOUNT: "Ajouter un compte",
 
   MOBILE_FIELDS_MISSING: "Il manque des champs",
 
   MOBILE_ACCESS_DENIED: "Autorisation refusée",
+  MOBILE_BTN_SIGNIN_SSO: 'Connectez-vous avec SSO',
 };
 

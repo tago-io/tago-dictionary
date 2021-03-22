@@ -44,4 +44,5 @@ module.exports = {
   MOBILE_FIELDS_MISSING: 'Faltan campos',
 
   MOBILE_ACCESS_DENIED: 'Autorización denegada',
+  MOBILE_BTN_SIGNIN_SSO: 'Iniciar sesión con SSO',
 };
