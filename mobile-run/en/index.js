@@ -45,4 +45,19 @@ module.exports = {
 
   MOBILE_ACCESS_DENIED: 'Authorization denied',
   MOBILE_BTN_SIGNIN_SSO: 'Sign in with SSO',
+
+  NOTIFICATION_CLICK_ON: "Click on",
+  NOTIFICATION_CONFIRMATION_READ_ALL_CONFIRM: "Yes, mark all notifications as read",
+  NOTIFICATION_CONFIRMATION_READ_ALL_DESC: "Do you really want to mark all notifications as read? This may take a while depending on the amount of notifications.",
+  NOTIFICATION_DELETE: "Delete notification",
+  NOTIFICATION_FILTERED_BY: "Filtered by:",
+  NOTIFICATION_MARK_ALL_AS_READ: "Mark all notifications as read",
+  NOTIFICATION_MARK_AS_READ: "Mark as read",
+  NOTIFICATION_NONE: "You have no notifications",
+  NOTIFICATION_NOT_FOUND: "No Notifications found",
+  NOTIFICATION_SHOW_ALL: "Show all notifications",
+  NOTIFICATION_SHOW_UNREAD: "Show unread notifications",
+  NOTIFICATION_TO_SEE_ALL: "to see all notifications.",
+  NOTIFICATION_UNREAD: "Unread",
+  NOTIFICATION_YOUVE_READ_ALL: "You've read them all!",
 };

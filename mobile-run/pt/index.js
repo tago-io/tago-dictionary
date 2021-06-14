@@ -45,4 +45,19 @@ module.exports = {
 
   MOBILE_ACCESS_DENIED: 'Autorização negada',
   MOBILE_BTN_SIGNIN_SSO: 'Entrar com SSO',
+
+  NOTIFICATION_CLICK_ON: "Clique em",
+  NOTIFICATION_CONFIRMATION_READ_ALL_CONFIRM: "Sim, marcar todas notificações como lidas",
+  NOTIFICATION_CONFIRMATION_READ_ALL_DESC: "Quer realmente marcar todas as notificações como lidas? Isso pode demorar um pouco dependendo da quantidade de notificações.",
+  NOTIFICATION_DELETE: "Deletar notificação",
+  NOTIFICATION_FILTERED_BY: "Filtrado por:",
+  NOTIFICATION_MARK_ALL_AS_READ: "Marcar todas as notificações como lidas",
+  NOTIFICATION_MARK_AS_READ: "Marcar como lída",
+  NOTIFICATION_NONE: "Você não possui notificações",
+  NOTIFICATION_NOT_FOUND: "Nenhuma notificação encontrada",
+  NOTIFICATION_SHOW_ALL: "Mostrar todas notificações",
+  NOTIFICATION_SHOW_UNREAD: "Mostrar somente notificações não lidas",
+  NOTIFICATION_TO_SEE_ALL: "para ver todas as notificações.",
+  NOTIFICATION_UNREAD: "Não lidas",
+  NOTIFICATION_YOUVE_READ_ALL: "Você leu todas!",
 };
