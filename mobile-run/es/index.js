@@ -44,7 +44,7 @@ module.exports = {
   MOBILE_FIELDS_MISSING: 'Faltan campos',
 
   MOBILE_ACCESS_DENIED: 'Autorización denegada',
-  MOBILE_BTN_SIGNIN_SSO: 'Iniciar sesión con SSO',
+  BTN_SIGNIN_SSO: 'Iniciar sesión con SSO',
 
   NOTIFICATION_CLICK_ON: "Haga clic en",
   NOTIFICATION_CONFIRMATION_READ_ALL_CONFIRM: "Sí, marcar todas las notificaciones como leídas",

@@ -44,7 +44,7 @@ module.exports = {
   MOBILE_FIELDS_MISSING: 'There are fields missing',
 
   MOBILE_ACCESS_DENIED: 'Authorization denied',
-  MOBILE_BTN_SIGNIN_SSO: 'Sign in with SSO',
+  BTN_SIGNIN_SSO: 'Sign in with SSO',
 
   NOTIFICATION_CLICK_ON: "Click on",
   NOTIFICATION_CONFIRMATION_READ_ALL_CONFIRM: "Yes, mark all notifications as read",

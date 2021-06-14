@@ -42,7 +42,7 @@ module.exports = {
   MOBILE_FIELDS_MISSING: "Il manque des champs",
 
   MOBILE_ACCESS_DENIED: "Autorisation refusée",
-  MOBILE_BTN_SIGNIN_SSO: 'Connectez-vous avec SSO',
+  BTN_SIGNIN_SSO: 'Connectez-vous avec SSO',
 
   NOTIFICATION_CLICK_ON : "Cliquez sur",
   NOTIFICATION_CONFIRMATION_READ_ALL_CONFIRM: "Oui, marquer toutes les notifications comme lues",
