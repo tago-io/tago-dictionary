@@ -60,4 +60,5 @@ module.exports = {
   NOTIFICATION_TO_SEE_ALL: "para ver todas as notificações.",
   NOTIFICATION_UNREAD: "Não lidas",
   NOTIFICATION_YOUVE_READ_ALL: "Você leu todas!",
+  NOTIFICATION_SEARCH: "Buscar notificações",
 };
