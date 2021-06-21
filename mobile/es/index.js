@@ -194,4 +194,10 @@ module.exports = {
   NOTIFICATION_UNREAD: "no leído",
   NOTIFICATION_YOUVE_READ_ALL: "¡Los has leído todos!",
   NOTIFICATION_SEARCH: "Buscar notificaciones",
+  NOTIFICATION_SHARE_DASHBOARD: '$0 desea compartir el Dashboard $1 contigo.',
+  NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Solicitud de intercambio - Panel de control',
+  NOTIFICATION_SHARE_BUCKET: '$0 desea compartir el Bucket $1 contigo',
+  NOTIFICATION_SHARE_BUCKET_TITLE: 'Solicitud de intercambio - Bucket',
+  NOTIFICATION_SHARE_PROFILE: '$0 desea compartir un Perfil $1 contigo',
+  NOTIFICATION_SHARE_PROFILE_TITLE: 'Solicitud de intercambio - Perfil',
 };

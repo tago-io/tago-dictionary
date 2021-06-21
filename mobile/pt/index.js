@@ -194,4 +194,10 @@ module.exports = {
   NOTIFICATION_UNREAD: "Não lidas",
   NOTIFICATION_YOUVE_READ_ALL: "Você leu todas!",
   NOTIFICATION_SEARCH: "Buscar notificações",
+  NOTIFICATION_SHARE_DASHBOARD: '$0 deseja compartilhar o Painel $1 com você.',
+  NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Compartilhamento - Painel',
+  NOTIFICATION_SHARE_BUCKET: '$0 deseja compartilhar o Bucket $1 com você.',
+  NOTIFICATION_SHARE_BUCKET_TITLE: 'Compartilhamento - Bucket',
+  NOTIFICATION_SHARE_PROFILE: '$0 deseja compartilhar o Perfil com você.',
+  NOTIFICATION_SHARE_PROFILE_TITLE: 'Compartilhamento - Perfil',
 };

@@ -194,4 +194,10 @@ module.exports = {
   NOTIFICATION_UNREAD: "Unread",
   NOTIFICATION_YOUVE_READ_ALL: "You've read them all!",
   NOTIFICATION_SEARCH: "Search notifications",
+  NOTIFICATION_SHARE_DASHBOARD: '$0 wishes to share the Dashboard $1 with you.',
+  NOTIFICATION_SHARE_DASHBOARD_TITLE: 'Sharing request - Dashboard',
+  NOTIFICATION_SHARE_BUCKET: '$0 wishes to share the Bucket $1 with you.',
+  NOTIFICATION_SHARE_BUCKET_TITLE: 'Sharing request - Bucket',
+  NOTIFICATION_SHARE_PROFILE: '$0 wishes to share a Profile with you.',
+  NOTIFICATION_SHARE_PROFILE_TITLE: 'Sharing request - Profile',
 };
